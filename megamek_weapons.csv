@@ -1,0 +1,1092 @@
+className,javaPackage,category,name,internalName,sortingName,heat,damage,rackSize,minimumRange,shortRange,mediumRange,longRange,extremeRange,waterShortRange,waterMediumRange,waterLongRange,waterExtremeRange,tonnage,criticalSlots,bv,cost,shortAV,medAV,longAV,extAV,maxRange,explosionDamage,rulesRefs,techBase,techRating,isIntroYear,clanIntroYear
+AlamoMissileWeapon,megamek.common.weapons,,Alamo Missile,,,0,10,1,,6,12,24,40,,,,,0,0,0.0,0,10,10,,,Medium,,,IS,C,3071,
+TeleMissile,megamek.common.weapons,,Kraken-T Missile,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ArrowIV,megamek.common.weapons.artillery,artillery,Arrow IV,ArrowIV,,10,,20,,,,,,,,,,,,240,450000,,,,,,,"96, TO:AUE",,,,
+ISCruiseMissile120,megamek.common.weapons.artillery,artillery,Cruise Missile/120,ISCruiseMissile120,,120,,120,,1,2,150,150,,,,,135,120,2281,3000000,,,,,,,"97, TO:AUE",IS,E,3065,
+ISCruiseMissile50,megamek.common.weapons.artillery,artillery,Cruise Missile/50,ISCruiseMissile50,Cruise Missile/050,50,,50,,1,2,50,50,,,,,55,55,601,900000,,,,,,,"97, TO:AUE",IS,E,3065,
+ISCruiseMissile70,megamek.common.weapons.artillery,artillery,Cruise Missile/70,ISCruiseMissile70,Cruise Missile/070,70,,70,,1,2,90,90,,,,,80,80,1031,1250000,,,,,,,"97, TO:AUE",IS,E,3065,
+ISCruiseMissile90,megamek.common.weapons.artillery,artillery,Cruise Missile/90,ISCruiseMissile90,Cruise Missile/090,90,,90,,1,2,120,120,,,,,100,100,1530,1250000,,,,,,,"97, TO:AUE",IS,E,3065,
+LongTom,megamek.common.weapons.artillery,artillery,Long Tom,ISLongTom,,20,,25,,1,2,30,30,,,,,30,30,368,450000,,,,,,,"96, TO:AUE",ALL,B,,
+LongTomCannon,megamek.common.weapons.artillery,artillery,Long Tom Cannon,ISLongTomCannon,Cannon Arty Long Tom,20,,20,4,6,13,20,30,,,,,20,15,329,650000,20,20,20,,Long,,"97, TO:AUE",ALL,B,3012,3032
+Sniper,megamek.common.weapons.artillery,artillery,Sniper,,,10,,20,,1,2,18,18,,,,,20,20,85,300000,,,,,,,"96, TO:AUE",ALL,B,,
+SniperCannon,megamek.common.weapons.artillery,artillery,Sniper Cannon,ISSniperCannon,Cannon Arty Sniper,10,,10,2,4,8,12,16,,,,,15,10,77,475000,10,10,10,,Medium,,"97, TO:AUE",ALL,B,3012,3032
+Thumper,megamek.common.weapons.artillery,artillery,Thumper,,,5,,15,,1,2,21,21,,,,,15,15,43,187500,,,,,,,"96, TO:AUE",ALL,B,,
+ThumperCannon,megamek.common.weapons.artillery,artillery,Thumper Cannon,ISThumperCannon,Cannon Arty Thumper,5,,5,3,4,9,14,21,,,,,10,7,41,200000,5,5,5,,Medium,,"97, TO:AUE",ALL,B,3012,3032
+AltitudeBombAttack,megamek.common.weapons.attacks,attacks,Altitude Bomb,,,0,,,,0,0,0,0,,,,,0.0,0,0,0,,,,,,,,ALL,,,
+SwarmWeaponAttack,megamek.common.weapons.attacks,attacks,Attack Swarmed Mek,,,,,,,,,,,,,,,,,,,,,,,,,,ALL,D,,
+DiveBombAttack,megamek.common.weapons.attacks,attacks,Dive Bomb,,,0,,,,0,0,0,0,,,,,0.0,0,0,0,,,,,,,,ALL,,,
+LegAttack,megamek.common.weapons.attacks,attacks,Leg Attack,,,,,,,,,,,,,,,,,,,,,,,,,,ALL,D,,
+SpaceBombAttack,megamek.common.weapons.attacks,attacks,Space Bomb,,,0,,,,0,0,0,0,,,,,0.0,0,0,0,,,,,,,,ALL,,,
+StopSwarmAttack,megamek.common.weapons.attacks,attacks,Stop Swarm Attack,,,,,,,,,,,,,,,,,,,,,,,,,,ALL,D,,
+SwarmAttack,megamek.common.weapons.attacks,attacks,Swarm Mek,,,,,,,,,,,,,,,,,,,,,,,,,,ALL,D,,
+ISAC10,megamek.common.weapons.autoCannons.innerSphere,autoCannons,AC/10,Autocannon/10,,3,10,10,,5,10,15,20,,,,,12.0,7,123,200000,10,10,,,Medium,,"208, TM",ALL,C,2443,2443
+ISAC2,megamek.common.weapons.autoCannons.innerSphere,autoCannons,AC/2,Autocannon/2,AC/02,1,2,2,4,8,16,24,32,,,,,6.0,1,37,75000,2,2,2,,Long,,"208, TM",ALL,C,2290,2290
+ISAC20,megamek.common.weapons.autoCannons.innerSphere,autoCannons,AC/20,Autocannon/20,,7,20,20,,3,6,9,12,,,,,14.0,10,178,300000,20,,,,Short,,"208, TM",ALL,C,2488,2488
+ISAC5,megamek.common.weapons.autoCannons.innerSphere,autoCannons,AC/5,Autocannon/5,AC/05,1,5,5,3,6,12,18,24,,,,,8.0,4,70,125000,5,5,,,Medium,,"208, TM",ALL,C,2240,2240
+ISHVAC10,megamek.common.weapons.autoCannons.innerSphere,autoCannons,HVAC/10,Hyper Velocity Auto Cannon/10,,7,10,10,,6,12,20,30,,,,,14.0,6,158,230000,10,10,10,,Long,10,"97, TO:AUE",IS,D,3059,
+ISHVAC2,megamek.common.weapons.autoCannons.innerSphere,autoCannons,HVAC/2,Hyper Velocity Auto Cannon/2,HVAC/02,1,2,2,3,10,20,35,52,,,,,8.0,2,53,100000,2,2,2,2,Extreme,2,"97, TO:AUE",IS,D,3059,
+ISHVAC5,megamek.common.weapons.autoCannons.innerSphere,autoCannons,HVAC/5,Hyper Velocity Auto Cannon/5,HVAC/05,3,5,5,,8,16,28,42,,,,,12.0,4,109,160000,5,5,5,5,Extreme,5,"97, TO:AUE",IS,D,3059,
+CLImprovedAC10,megamek.common.weapons.autoCannons.clan,autoCannons,Improved Autocannon/10,Improved Autocannon/10,,3,10,10,,5,10,15,20,,,,,11.0,6,123.0,200000,10,10,,,Medium,,"90, IO:AE",CLAN,D,,
+CLImprovedAC2,megamek.common.weapons.autoCannons.clan,autoCannons,Improved Autocannon/2,Improved Autocannon/2,Improved Autocannon/02,1,2,2,4,8,16,24,32,,,,,5.0,1,37.0,75000,2,2,2,,Long,,"90, IO:AE",CLAN,D,,
+CLImprovedAC20,megamek.common.weapons.autoCannons.clan,autoCannons,Improved Autocannon/20,Improved Autocannon/20,,7,20,20,,3,6,9,12,,,,,13.0,9,178.0,300000,20,,,,Short,,"90, IO:AE",CLAN,D,,
+CLImprovedAC5,megamek.common.weapons.autoCannons.clan,autoCannons,Improved Autocannon/5,Improved Autocannon/5,Improved Autocannon/05,1,5,5,3,6,12,18,24,,,,,7.0,2,70.0,125000,5,5,,,Medium,,"90, IO:AE",CLAN,D,,
+CLLB10XAC,megamek.common.weapons.autoCannons.clan,autoCannons,LB 10-X AC,CLLBXAC10,,2,10,10,,6,12,18,24,,,,,10.0,5,148,400000,,,,,Medium,,"207, TM",CLAN,F,,2824
+ISLB10XAC,megamek.common.weapons.autoCannons.innerSphere,autoCannons,LB 10-X AC,ISLBXAC10,,2,10,10,,6,12,18,24,,,,,11.0,6,148,400000,,,,,Medium,,"207, TM",IS,E,2590,
+CLLB2XAC,megamek.common.weapons.autoCannons.clan,autoCannons,LB 2-X AC,CLLBXAC2,LB 02-X AC,1,2,2,4,10,20,30,40,,,,,5.0,3,47.0,150000,,,,,Extreme,,"207, TM",CLAN,F,,2824
+ISLB2XAC,megamek.common.weapons.autoCannons.innerSphere,autoCannons,LB 2-X AC,ISLBXAC2,LB 02-X AC,1,2,2,4,9,18,27,36,,,,,6.0,4,42,150000,,,,,Extreme,,"207, TM",IS,E,3055,
+CLLB20XAC,megamek.common.weapons.autoCannons.clan,autoCannons,LB 20-X AC,CLLBXAC20,,6,20,20,,4,8,12,16,,,,,12.0,9,237.0,600000,,,,,Medium,,"207, TM",CLAN,F,,2824
+ISLB20XAC,megamek.common.weapons.autoCannons.innerSphere,autoCannons,LB 20-X AC,ISLBXAC20,,6,20,20,,4,8,12,16,,,,,14.0,11,237,600000,,,,,Medium,,"207, TM",IS,E,3055,
+CLLB5XAC,megamek.common.weapons.autoCannons.clan,autoCannons,LB 5-X AC,CLLBXAC5,LB 05-X AC,1,5,5,3,8,15,24,30,,,,,7.0,4,93.0,250000,,,,,Long,,"207, TM",CLAN,F,,2824
+ISLB5XAC,megamek.common.weapons.autoCannons.innerSphere,autoCannons,LB 5-X AC,ISLBXAC5,LB 05-X AC,1,5,5,3,7,14,21,28,,,,,8.0,5,83,250000,,,,,Long,,"207, TM",IS,E,3055,
+ISLAC2,megamek.common.weapons.autoCannons.innerSphere,autoCannons,Light AC/2,Light Auto Cannon/2,,1,2,2,,6,12,18,24,,,,,4.0,1,30,100000,2,2,,,Medium,,"207, TM",IS,D,3062,
+ISLAC5,megamek.common.weapons.autoCannons.innerSphere,autoCannons,Light AC/5,Light Auto Cannon/5,,1,5,5,,5,10,15,20,,,,,5.0,2,62,150000,5,5,,,Medium,,"207, TM",IS,D,3062,
+ISNailAndRivetGun,megamek.common.weapons.autoCannons.innerSphere,autoCannons,Nail/Rivet Gun,,,,,,,,,,,,,,,,,,,,,,,,,"246, TM",ALL,C,2309,2309
+CLProtoMekAC2,megamek.common.weapons.autoCannons.clan,autoCannons,ProtoMech AC/2,CLProtoMechAC2,,1,2,2,0,7,14,20,30,,,,,3.5,2,34.0,95000,2,2,2,,Long,,"98, TO:AUE",CLAN,F,,
+CLProtoMekAC4,megamek.common.weapons.autoCannons.clan,autoCannons,ProtoMech AC/4,CLProtoMechAC4,,1,4,4,0,5,10,15,20,,,,,4.5,3,49.0,133000,4,4,4,,Medium,,"98, TO:AUE",CLAN,F,,
+CLProtoMekAC8,megamek.common.weapons.autoCannons.clan,autoCannons,ProtoMech AC/8,CLProtoMechAC8,,2,8,8,0,3,7,10,15,,,,,5.5,4,66.0,175000,8,8,8,,Short,,"98, TO:AUE",CLAN,F,,
+ISRifleHeavy,megamek.common.weapons.autoCannons.innerSphere,autoCannons,"Rifle (Cannon, Heavy)",,Rifle Cannon D,4,9,9,2,6,12,18,27,,,,,8.0,3,91,90000,9,9,9,9,Medium,0,"150, TO:AUE",IS,B,,
+ISRifleLight,megamek.common.weapons.autoCannons.innerSphere,autoCannons,"Rifle (Cannon, Light)",,Rifle Cannon B,1,3,3,0,4,8,12,18,,,,,3.0,1,21,37750,3,3,3,3,Medium,0,"150, TO:AUE",IS,B,,
+ISRifleMedium,megamek.common.weapons.autoCannons.innerSphere,autoCannons,"Rifle (Cannon, Medium)",,Rifle Cannon C,2,6,6,1,5,10,15,22,,,,,5.0,2,51,75750,6,6,6,6,Medium,0,"150, TO:AUE",IS,B,,
+CLRAC2,megamek.common.weapons.autoCannons.clan,autoCannons,Rotary AC/2,CLRotaryAC2,,1,2,2,0,8,17,25,37,,,,,8.0,4,161.0,175000,8,8,8,8,Extreme,,"98, TO:AUE",CLAN,F,,3073
+ISRAC2,megamek.common.weapons.autoCannons.innerSphere,autoCannons,Rotary AC/2,ISRotaryAC2,,1,2,2,,6,12,18,24,,,,,8.0,3,118,175000,8,8,,,Medium,,"207, TM",IS,E,3060,
+CLRAC5,megamek.common.weapons.autoCannons.clan,autoCannons,Rotary AC/5,CLRotaryAC5,,1,5,5,,7,14,21,28,,,,,10.0,8,345.0,275000,20,20,20,,Long,,"98, TO:AUE",CLAN,F,,3073
+ISRAC5,megamek.common.weapons.autoCannons.innerSphere,autoCannons,Rotary AC/5,ISRotaryAC5,,1,5,5,,5,10,15,20,,,,,10.0,6,247,275000,20,20,,,Medium,,"207, TM",IS,E,3060,
+CLUAC10,megamek.common.weapons.autoCannons.clan,autoCannons,Ultra AC/10,CLUltraAC10,,3,10,10,,6,12,18,24,,,,,10.0,4,210.0,320000,15,15,,,Medium,,"208, TM",CLAN,F,,2825
+ISUAC10,megamek.common.weapons.autoCannons.innerSphere,autoCannons,Ultra AC/10,ISUltraAC10,,4,10,10,,6,12,18,24,,,,,13.0,7,210,320000,15,15,,,Medium,,"208, TM",IS,E,3055,
+CLUAC2,megamek.common.weapons.autoCannons.clan,autoCannons,Ultra AC/2,CLUltraAC2,Ultra AC/02,1,2,2,2,9,18,27,36,,,,,5.0,2,62.0,120000,3,3,3,3,Extreme,,"208, TM",CLAN,F,,2825
+ISUAC2,megamek.common.weapons.autoCannons.innerSphere,autoCannons,Ultra AC/2,ISUltraAC2,Ultra AC/02,1,2,2,3,8,17,25,37,,,,,7.0,3,56,120000,3,3,3,3,Extreme,,"208, TM",IS,E,3055,
+CLUAC20,megamek.common.weapons.autoCannons.clan,autoCannons,Ultra AC/20,CLUltraAC20,,7,20,20,,4,8,12,16,,,,,12.0,8,335.0,480000,30,30,,,Medium,,"208, TM",CLAN,F,,2825
+ISUAC20,megamek.common.weapons.autoCannons.innerSphere,autoCannons,Ultra AC/20,ISUltraAC20,,8,20,20,,3,7,10,15,,,,,15.0,10,281,480000,30,30,,,Medium,,"208, TM",IS,E,3057,
+CLUAC5,megamek.common.weapons.autoCannons.clan,autoCannons,Ultra AC/5,CLUltraAC5,Ultra AC/05,1,5,5,0,7,14,21,28,,,,,7.0,3,122.0,200000,7,7,7,,Long,,"208, TM",CLAN,F,,2825
+ISUAC5,megamek.common.weapons.autoCannons.innerSphere,autoCannons,Ultra AC/5,ISUltraAC5,Ultra AC/05,1,5,5,2,6,13,20,30,,,,,9.0,5,112,200000,7,7,7,,Long,,"208, TM",IS,E,2635,
+CLAdvancedSRM1,megamek.common.weapons.battleArmor.clan.advancedSRM,battleArmor,Advanced SRM 1,CLAdvancedSRM1,,,,1,,4,8,12,16,,,,,.06,2,15,15000,,,,,,,"261, TM",CLAN,F,,3052
+CLAdvancedSRM1OS,megamek.common.weapons.battleArmor.clan.advancedSRM,battleArmor,Advanced SRM 1 (OS),CLAdvancedSRM1OS,,,,1,,4,8,12,16,,,,,0.035,3,3,7500,,,,,,,"261, TM",CLAN,F,,3052
+CLAdvancedSRM2,megamek.common.weapons.battleArmor.clan.advancedSRM,battleArmor,Advanced SRM 2,CLAdvancedSRM2,,,,2,,4,8,12,16,,,,,.09,2,30,30000,,,,,,,"261, TM",CLAN,F,,3052
+CLAdvancedSRM2OS,megamek.common.weapons.battleArmor.clan.advancedSRM,battleArmor,Advanced SRM 2 (OS),CLAdvancedSRM2OS,,,,2,,4,8,12,16,,,,,.07,3,6,15000,,,,,,,"261, TM",CLAN,F,,3052
+CLAdvancedSRM3,megamek.common.weapons.battleArmor.clan.advancedSRM,battleArmor,Advanced SRM 3,CLAdvancedSRM3,,,,3,,4,8,12,16,,,,,.12,3,45,45000,,,,,,,"261, TM",CLAN,F,,3052
+CLAdvancedSRM3OS,megamek.common.weapons.battleArmor.clan.advancedSRM,battleArmor,Advanced SRM 3 (OS),CLAdvancedSRM3OS,,,,3,,4,8,12,16,,,,,.105,4,9,22500,,,,,,,"261, TM",CLAN,F,,3052
+CLAdvancedSRM4,megamek.common.weapons.battleArmor.clan.advancedSRM,battleArmor,Advanced SRM 4,CLAdvancedSRM4,,,,4,,4,8,12,16,,,,,0.15,3,60,60000,,,,,,,"261, TM",CLAN,F,,3052
+CLAdvancedSRM4OS,megamek.common.weapons.battleArmor.clan.advancedSRM,battleArmor,Advanced SRM 4 (OS),CLAdvancedSRM4OS,,,,4,,4,8,12,16,,,,,0.135,4,12,30000,,,,,,,"261, TM",CLAN,F,,3052
+CLAdvancedSRM5,megamek.common.weapons.battleArmor.clan.advancedSRM,battleArmor,Advanced SRM 5,CLAdvancedSRM5,,,,5,,4,8,12,16,,,,,0.18,4,75,75000,,,,,,,"261, TM",CLAN,F,,3052
+CLAdvancedSRM5OS,megamek.common.weapons.battleArmor.clan.advancedSRM,battleArmor,Advanced SRM 5 (OS),CLAdvancedSRM5OS,,,,5,,4,8,12,16,,,,,0.165,5,15,37500,,,,,,,"261, TM",CLAN,F,,3052
+CLAdvancedSRM6,megamek.common.weapons.battleArmor.clan.advancedSRM,battleArmor,Advanced SRM 6,CLAdvancedSRM6,,,,6,,4,8,12,16,,,,,.21,4,90,90000,,,,,,,"261, TM",CLAN,F,,3052
+CLAdvancedSRM6OS,megamek.common.weapons.battleArmor.clan.advancedSRM,battleArmor,Advanced SRM 6 (OS),CLAdvancedSRM6OS,,,,6,,4,8,12,16,,,,,.195,5,18,45000,,,,,,,"261, TM",CLAN,F,,3052
+CLBARecoillessRifleHeavy,megamek.common.weapons.battleArmor.clan,battleArmor,BA Recoilless Rifle (Heavy),CLBAHeavy Recoilless Rifle,Recoilless Rifle D,,3,,,3,5,7,10,,,,,0.325,3,22,5000,,,,,,,"268, TM",ALL,C,3052,
+CLBARecoillessRifleLight,megamek.common.weapons.battleArmor.clan,battleArmor,BA Recoilless Rifle (Light),CLBALight Recoilless Rifle,Recoilless Rifle B,,2,,,2,4,6,8,,,,,0.175,2,12,1000,,,,,,,"268, TM",ALL,C,3052,
+CLBARecoillessRifleMedium,megamek.common.weapons.battleArmor.clan,battleArmor,BA Recoilless Rifle (Medium),CLBAMedium Recoilless Rifle,Recoilless Rifle C,0,3,,,2,4,6,8,,,,,0.25,2,19,3000,,,,,,,"268, TM",ALL,C,3052,
+CLBALBX,megamek.common.weapons.battleArmor.clan,battleArmor,Battle Armor LB-X AC,,,0,4,4,,2,5,8,12,,,,,0.4,2,20,70000,,,,,,,"207, TM",CLAN,F,,3075
+ISBATaser,megamek.common.weapons.battleArmor.innerSphere,battleArmor,Battle Armor Taser,ISBATaser,,0,1,1,,1,2,3,4,,,,,0.3,3,15,10000,,,,,,,"158, TO:AUE",IS,E,3067,
+CLBAMicroBomb,megamek.common.weapons.battleArmor.clan,battleArmor,Bomb Rack (Micro),,,0,,2,,0,0,0,0,,,,,.1,2,11,30000,,,,,,,"253, TM",CLAN,F,,3055
+CLBALaserERMedium,megamek.common.weapons.battleArmor.clan.laser,battleArmor,ER Medium Laser,CLBAERMediumLaser,Laser ER C,5,7,,,5,10,15,20,3,7,10,15,.8,3,108,80000,7,7,,,Medium,,"258, TM",CLAN,F,,2872
+ISBALaserERMedium,megamek.common.weapons.battleArmor.innerSphere.laser,battleArmor,ER Medium Laser,ISBAERMediumLaser,Laser ER C,5,5,,,4,8,12,16,3,5,8,12,0.8,3,62,80000,5,5,,,Medium,,"258, TM",IS,E,3055,
+CLBAERPulseLaserMedium,megamek.common.weapons.battleArmor.clan.laser,battleArmor,ER Medium Pulse Laser,BACLERMediumPulseLaser,Laser Pulse ER C,6,7,,,5,9,14,21,3,5,8,12,.8,4,117,150000,,,,,,,"258, TM",CLAN,F,,
+CLBALaserERMicro,megamek.common.weapons.battleArmor.clan.laser,battleArmor,ER Micro Laser,CLBAERMicroLaser,Laser ER A,1,2,,,1,2,4,6,1,2,2,2,0.15,1,7,10000,,,,,,,"258, TM",CLAN,F,,3055
+CLBALaserERSmall,megamek.common.weapons.battleArmor.clan.laser,battleArmor,ER Small Laser,CLBAERSmallLaser,Laser ER B,2,5,,,2,4,6,8,1,2,4,6,0.35,2,31,11250,5,,,,Short,,"258, TM",CLAN,F,,2872
+ISBALaserERSmall,megamek.common.weapons.battleArmor.innerSphere.laser,battleArmor,ER Small Laser,ISBAERSmallLaser,Laser ER B,,3,,,2,4,5,7,1,2,3,4,0.35,2,17,11250,3,,,,Short,,"258, TM",IS,E,3055,
+CLBAERPulseLaserSmall,megamek.common.weapons.battleArmor.clan.laser,battleArmor,ER Small Pulse Laser,CLBAERSmallPulseLaser,Laser Pulse ER B,3,5,,,2,4,6,8,1,2,4,6,.55,2,36,30000,,,,,,,"258, TM",CLAN,F,,
+CLBAFlamer,megamek.common.weapons.battleArmor.clan,battleArmor,Flamer [BA],CLBAFlamer,Flamer C,3,2,,,1,2,3,4,,,,,0.15,1,5,7500,2,,,,Short,,"255, TM",ALL,C,,2860
+CLBAAPGaussRifle,megamek.common.weapons.battleArmor.clan,battleArmor,Gauss Rifle [Anti-personnel Gauss Rifle],CLBAAPGaussRifle,,1,3,,,3,6,9,12,,,,,0.2,2,21,10000,3,,,,Short,3,"255, TM",CLAN,F,,3066
+ISBAGaussRifleDavidLight,megamek.common.weapons.battleArmor.innerSphere.gaussRifle,battleArmor,Gauss Rifle [David],BADavidLightGaussRifle,,,1,,,3,5,8,12,,,,,0.1,1,7,22500,,,,,,,"255, TM",IS,E,3058,
+ISBAGaussRifleGrandMauler,megamek.common.weapons.battleArmor.innerSphere.gaussRifle,battleArmor,Gauss Rifle [Grand Mauler],ISBAGrandMaulerGaussCannon,,0,1,,,2,4,5,7,,,,,0.125,2,6,8000,,,,,,,"255, TM",IS,E,3055,
+ISBAGaussRifleKingDavidLight,megamek.common.weapons.battleArmor.innerSphere.gaussRifle,battleArmor,Gauss Rifle [King David],ISBAKingDavidLightGaussRifle,,,1,,,3,6,9,12,,,,,0.275,2,7,30000,,,,,,,"255, TM",IS,E,3058,
+ISBAGaussRifleMagshot,megamek.common.weapons.battleArmor.innerSphere.gaussRifle,battleArmor,Gauss Rifle [Magshot],ISBAMagshotGaussRifle,,,2,,,3,6,9,12,,,,,0.175,3,15,10500,,,,,,,"255, TM",IS,E,3057,
+ISBAGaussRifleTsunami,megamek.common.weapons.battleArmor.innerSphere.gaussRifle,battleArmor,Gauss Rifle [Tsunami],ISBATsunamiHeavyGaussRifle,,0,1,,,2,4,5,7,,,,,0.125,2,6,9500,,,,,,,"255, TM",IS,E,3054,
+CLBAGrenadeLauncherHeavy,megamek.common.weapons.battleArmor.clan,battleArmor,Grenade Launcher (Heavy),CLBAHeavyGrenadeLauncher,Grenade Launcher D,0,1,,,1,2,3,4,,,,,0.1,1,1,4500,,,,,,,"256, TM",ALL,C,,2880
+ISBAGrenadeLauncherMicro,megamek.common.weapons.battleArmor.innerSphere,battleArmor,Grenade Launcher (Micro),ISBAMicroGrenadeLauncher,Grenade Launcher A,0,1,,,1,2,2,2,,,,,0.075,1,1,1950,,,,,,,"256, TM",ALL,B,,
+CLBAFlamerHeavy,megamek.common.weapons.battleArmor.clan,battleArmor,Heavy Flamer [BA],CLBAHeavyFlamer,Flamer D,5,4,,,2,3,4,6,,,,,.35,1,15,11250,,,,,,,"124, TO:AUE",ALL,C,,
+CLBALaserHeavyMedium,megamek.common.weapons.battleArmor.clan.laser,battleArmor,Heavy Medium Laser,CLBAHeavyMediumLaser,Laser Heavy C,7,10,,,3,6,9,12,2,4,6,8,1.0,4,76,100000,10,,,,Short,,"258, TM",CLAN,F,,3057
+CLBALaserHeavySmall,megamek.common.weapons.battleArmor.clan.laser,battleArmor,Heavy Small Laser,CLBAHeavySmallLaser,Laser Heavy B,3,6,,,1,2,3,4,1,2,2,2,0.5,3,15,20000,6,,,,Short,,"258, TM",CLAN,F,,3057
+CLBALRM1,megamek.common.weapons.battleArmor.clan.lrm,battleArmor,LRM 1,CLBALRM1,,0,,1,,,,,,,,,,0.035,2,17,6000,,,,,,,"261, TM",CLAN,F,,3058
+ISBALRM1,megamek.common.weapons.battleArmor.innerSphere.lrm,battleArmor,LRM 1,ISBALRM1,,,,1,6,,,,,,,,,.06,2,14,6000,,,,,,,"261, TM",IS,E,3055,
+CLBALRM1OS,megamek.common.weapons.battleArmor.clan.lrm,battleArmor,LRM 1 (OS),CLBALRM1OS,,0,,1,,,,,,,,,,0.025,2,3,3000,,,,,,,"261, TM",CLAN,F,,3058
+ISBALRM1OS,megamek.common.weapons.battleArmor.innerSphere.lrm,battleArmor,LRM 1 (OS),ISBALRM1OS,,,,1,6,,,,,,,,,.04,3,3,3000,,,,,,,"261, TM",IS,E,3055,
+CLBALRM2,megamek.common.weapons.battleArmor.clan.lrm,battleArmor,LRM 2,CLBALRM2,,0,,2,,,,,,,,,,0.07,2,24,12000,,,,,,,"261, TM",CLAN,F,,3058
+ISBALRM2,megamek.common.weapons.battleArmor.innerSphere.lrm,battleArmor,LRM 2,ISBALRM2,,,,2,6,,,,,,,,,.12,2,20,12000,,,,,,,"261, TM",IS,E,3055,
+CLBALRM2OS,megamek.common.weapons.battleArmor.clan.lrm,battleArmor,LRM 2 (OS),CLBALRM2OS,,0,,2,,,,,,,,,,0.05,2,5,6000,,,,,,,"261, TM",CLAN,F,,3058
+ISBALRM2OS,megamek.common.weapons.battleArmor.innerSphere.lrm,battleArmor,LRM 2 (OS),ISBALRM2OS,,,,2,6,,,,,,,,,.08,3,4,6000,,,,,,,"261, TM",IS,E,3055,
+CLBALRM3,megamek.common.weapons.battleArmor.clan.lrm,battleArmor,LRM 3,CLBALRM3,,0,,3,,,,,,,,,,0.105,3,34,18000,,,,,,,"261, TM",CLAN,F,,3058
+ISBALRM3,megamek.common.weapons.battleArmor.innerSphere.lrm,battleArmor,LRM 3,ISBALRM3,,,,3,6,,,,,,,,,.180,3,29,18000,,,,,,,"261, TM",IS,E,3055,
+CLBALRM3OS,megamek.common.weapons.battleArmor.clan.lrm,battleArmor,LRM 3 (OS),CLBALRM3OS,,0,,3,,,,,,,,,,0.075,3,7,9000,,,,,,,"261, TM",CLAN,F,,3058
+ISBALRM3OS,megamek.common.weapons.battleArmor.innerSphere.lrm,battleArmor,LRM 3 (OS),ISBALRM3OS,,,,3,6,,,,,,,,,.12,4,6,9000,,,,,,,"261, TM",IS,E,3055,
+CLBALRM4,megamek.common.weapons.battleArmor.clan.lrm,battleArmor,LRM 4,CLBALRM4,,0,,4,,,,,,,,,,0.140,3,46,24000,,,,,,,"261, TM",CLAN,F,,3058
+ISBALRM4,megamek.common.weapons.battleArmor.innerSphere.lrm,battleArmor,LRM 4,ISBALRM4,,,,4,6,,,,,,,,,.240,3,38,12000,,,,,,,"261, TM",IS,E,3055,
+CLBALRM4OS,megamek.common.weapons.battleArmor.clan.lrm,battleArmor,LRM 4 (OS),CLBALRM4OS,,0,,4,,,,,,,,,,0.1,3,9,12000,,,,,,,"261, TM",CLAN,F,,3058
+ISBALRM4OS,megamek.common.weapons.battleArmor.innerSphere.lrm,battleArmor,LRM 4 (OS),ISBALRM4OS,,,,4,6,,,,,,,,,.16,5,8,12000,,,,,,,"261, TM",IS,E,3055,
+CLBALRM5,megamek.common.weapons.battleArmor.clan.lrm,battleArmor,LRM 5,CLBALRM5,,2,,5,,,,,,,,,,.175,4,55,30000,,,,,,,"261, TM",CLAN,F,,3058
+ISBALRM5,megamek.common.weapons.battleArmor.innerSphere.lrm,battleArmor,LRM 5,ISBALRM5,,2,,5,6,,,,,,,,,.300,4,45,30000,,,,,,,"261, TM",IS,E,3055,
+CLBALRM5OS,megamek.common.weapons.battleArmor.clan.lrm,battleArmor,LRM 5 (OS),CLBALRM5 (OS),,2,,5,,,,,,,,,,.125,3,11,15000,,,,,,,"261, TM",CLAN,F,,3058
+ISBALRM5OS,megamek.common.weapons.battleArmor.innerSphere.lrm,battleArmor,LRM 5 (OS),ISBALRM5OS,,2,,5,6,,,,,,,,,.2,5,9,18000,,,,,,,"261, TM",IS,E,3055,
+ISBAMRM1,megamek.common.weapons.battleArmor.innerSphere.mrm,battleArmor,MRM 1,ISBAMRM1,,,,1,,3,8,15,22,,,,,.06,1,9,5000,,,,,,,"261, TM",IS,E,3058,
+ISBAMRM1OS,megamek.common.weapons.battleArmor.innerSphere.mrm,battleArmor,MRM 1 (OS),ISBAMRM1OS,,,,1,,3,8,15,22,,,,,.05,2,2,2500,,,,,,,"261, TM",IS,E,3058,
+ISBAMRM2,megamek.common.weapons.battleArmor.innerSphere.mrm,battleArmor,MRM 2,ISBAMRM2,,,,2,,3,8,15,22,,,,,.12,2,9,10000,,,,,,,"261, TM",IS,E,3058,
+ISBAMRM2OS,megamek.common.weapons.battleArmor.innerSphere.mrm,battleArmor,MRM 2 (OS),ISBAMRM2OS,,,,2,,3,8,15,22,,,,,.1,2,3,5000,,,,,,,"261, TM",IS,E,3058,
+ISBAMRM3,megamek.common.weapons.battleArmor.innerSphere.mrm,battleArmor,MRM 3,ISBAMRM3,,,,3,,3,8,15,22,,,,,.18,2,18,15000,,,,,,,"261, TM",IS,E,3058,
+ISBAMRM3OS,megamek.common.weapons.battleArmor.innerSphere.mrm,battleArmor,MRM 3 (OS),ISBAMRM3OS,,,,3,,3,8,15,22,,,,,.15,3,4,7500,,,,,,,"261, TM",IS,E,3058,
+ISBAMRM4,megamek.common.weapons.battleArmor.innerSphere.mrm,battleArmor,MRM 4,ISBAMRM4,,,,4,,3,8,15,22,,,,,.24,3,23,20000,,,,,,,"261, TM",IS,E,3058,
+ISBAMRM4OS,megamek.common.weapons.battleArmor.innerSphere.mrm,battleArmor,MRM 4 (OS),ISBAMRM4OS,,,,4,,3,8,15,22,,,,,.2,3,5,10000,,,,,,,"261, TM",IS,E,3058,
+ISBAMRM5,megamek.common.weapons.battleArmor.innerSphere.mrm,battleArmor,MRM 5,ISBAMRM5,,,,5,,3,8,15,22,,,,,.3,3,28,25000,,,,,,,"261, TM",IS,E,3058,
+ISBAMRM5OS,megamek.common.weapons.battleArmor.innerSphere.mrm,battleArmor,MRM 5 (OS),ISBAMRM5OS,,,,5,,3,8,15,22,,,,,.25,4,6,12500,,,,,,,"261, TM",IS,E,3058,
+CLBAMGBearhunterSuperheavy,megamek.common.weapons.battleArmor.clan.mg,battleArmor,Machine Gun (Bearhunter AC),,,0,3,,,0,1,2,3,,,,,0.15,2,4,,,,,,,,"258, TM",CLAN,D,,3060
+CLBAMGBearhunterSuperheavyACi,megamek.common.weapons.battleArmor.clan.mg,battleArmor,Machine Gun (Bearhunter ACi),,,0,5,,,0,1,2,2,,,,,0.15,2,9,,,,,,,,Unofficial,CLAN,D,,3060
+CLBAMGHeavy,megamek.common.weapons.battleArmor.clan.mg,battleArmor,Machine Gun (Heavy),CLBAHeavyMG,MG D,0,3,3,,1,2,2,2,,,,,0.15,1,6,7500,,,,,,,"258, TM",ALL,D,,3055
+ISBAMGHeavy,megamek.common.weapons.battleArmor.innerSphere,battleArmor,Machine Gun (Heavy),ISBAHeavyMachineGun,MG D,0,3,3,,1,2,2,2,,,,,0.15,1,6,7500,,,,,,,"258, TM",IS,C,,
+CLBAMGLight,megamek.common.weapons.battleArmor.clan.mg,battleArmor,Machine Gun (Light),CLBALightMG,MG B,0,1,1,,2,4,6,8,,,,,0.075,1,5,5000,,,,,,,"258, TM",ALL,C,,3055
+CLBAMG,megamek.common.weapons.battleArmor.clan.mg,battleArmor,Machine Gun (Medium),CLBAMG,MG C,0,2,2,,1,2,3,4,,,,,0.1,1,5,5000,,,,,,,"258, TM",ALL,C,,
+ISBALaserMedium,megamek.common.weapons.battleArmor.innerSphere.laser,battleArmor,Medium Laser,ISBAMediumLaser,Laser C,,5,,,3,6,9,12,2,4,6,8,0.5,3,46,40000,5,,,,Short,,"258, TM",IS,E,3050,
+CLBAPulseLaserMedium,megamek.common.weapons.battleArmor.clan.laser,battleArmor,Medium Pulse Laser,CLBAMediumPulseLaser,Laser Pulse C,4,7,,,4,8,12,16,3,5,8,12,.8,3,111,60000,7,7,,,Medium,,"258, TM",CLAN,F,,2870
+ISBALaserPulseMedium,megamek.common.weapons.battleArmor.innerSphere.laser,battleArmor,Medium Pulse Laser,ISBAMediumPulseLaser,Laser Pulse C,,6,,,2,4,6,8,2,3,4,6,0.8,3,48,60000,6,,,,Short,,"258, TM",IS,E,3057,
+ISBALaserVSPMedium,megamek.common.weapons.battleArmor.innerSphere.laser,battleArmor,Medium VSP Laser,ISBAMediumVSPLaser,Laser VSP C,7,,,,2,5,9,13,1,3,6,9,.9,4,56,200000,7,,,,Short,,"133, TO:AUE",IS,E,3070,
+CLBAPulseLaserMicro,megamek.common.weapons.battleArmor.clan.laser,battleArmor,Micro Pulse Laser,CLBAMicroPulseLaser,Laser Pulse A,1,3,,,1,2,3,4,1,2,2,2,0.160,1,12,12500,3,,,,Short,,"258, TM",CLAN,F,,3055
+CLBAMortarHeavy,megamek.common.weapons.battleArmor.clan,battleArmor,Mortar (Heavy),,Mortar D,,3,,2,2,4,6,8,,,,,0.4,2,17,7500,,,,,,,"263, TM",ALL,B,3054,
+CLBAMortarLight,megamek.common.weapons.battleArmor.clan,battleArmor,Mortar (Light),,Mortar B,,3,,1,1,2,3,4,,,,,0.3,2,9,2100,,,,,,,"263, TM",ALL,B,3054,
+CLBACompactNarc,megamek.common.weapons.battleArmor.clan,battleArmor,Narc (Compact),CLBACompactNarc,,0,,4,,2,4,5,7,,,,,.15,1,16,15000,,,,,,,"263, TM",ALL,E,,2870
+ISBACompactNarc,megamek.common.weapons.battleArmor.innerSphere,battleArmor,Narc (Compact),ISBACompactNarc,,0,,4,,2,4,5,7,,,,,.15,1,16,15000,,,,,,,"263, TM",ALL,E,,2870
+ISBAFiredrakeNeedler,megamek.common.weapons.battleArmor.innerSphere,battleArmor,Needler (Firedrake),ISBAFireDrakeNeedler,,,1,,,1,2,3,4,,,,,0.050,1,2,1500,,,,,,,"266, TM",IS,D,3058,
+ISBAPlasmaRifle,megamek.common.weapons.battleArmor.innerSphere,battleArmor,Plasma Rifle (Man-Portable),ISBAPlasmaRifle,,,2,,,2,4,6,8,,,,,0.3,2,12,28000,,,,,,,"267, TM",IS,E,3063,
+ISBAPopUpMineLauncher,megamek.common.weapons.battleArmor.innerSphere,battleArmor,Pop-up Mine,,,0,,1,,0,0,0,0,,,,,0.2,1,6,2500,,,,,,,"267, TM",IS,E,,
+ISBAAPDS,megamek.common.weapons.battleArmor.innerSphere,battleArmor,RISC Advanced Point Defense System,ISBAAPDS,,,,,,,,3,,,,,,0.35,2,7,50000,,,,,,,"85, IO:AE",IS,E,3132,
+ISBARL1,megamek.common.weapons.battleArmor.innerSphere.barl,battleArmor,Rocket Launcher 1,ISBARL1,,,,1,,3,7,12,18,,,,,.025,2,2,1500,,,,,,,"261, TM",IS,E,3050,
+ISBARL2,megamek.common.weapons.battleArmor.innerSphere.barl,battleArmor,Rocket Launcher 2,ISBARL2,,,,2,,3,7,12,18,,,,,0.05,2,3,3000,,,,,,,"261, TM",IS,E,3050,
+ISBARL3,megamek.common.weapons.battleArmor.innerSphere.barl,battleArmor,Rocket Launcher 3,ISBARL3,,,,3,,3,7,12,18,,,,,0.075,3,4,4500,,,,,,,"261, TM",IS,E,3050,
+ISBARL4,megamek.common.weapons.battleArmor.innerSphere.barl,battleArmor,Rocket Launcher 4,ISBARL4,,,,4,,3,7,12,18,,,,,.1,3,5,6000,,,,,,,"261, TM",IS,E,3050,
+ISBARL5,megamek.common.weapons.battleArmor.innerSphere.barl,battleArmor,Rocket Launcher 5,ISBARL5,,,,5,,3,7,12,18,,,,,.125,4,6,6000,,,,,,,"261, TM",IS,E,3050,
+CLBASRM1,megamek.common.weapons.battleArmor.clan.srm,battleArmor,SRM 1,CLBASRM1,,,,1,,3,6,9,12,,,,,0.035,1,15,5000,,,,,,,"261, TM",CLAN,F,,2865
+ISBASRM1,megamek.common.weapons.battleArmor.innerSphere.srm,battleArmor,SRM 1,ISBASRM1,,,,1,,3,6,9,12,,,,,0.06,1,15,5000,,,,,,,"261, TM",IS,E,3050,
+CLBASRM1OS,megamek.common.weapons.battleArmor.clan.srm,battleArmor,SRM 1 (OS),CLBASRM1OS,,,,1,,3,6,9,12,,,,,.020,2,3,2500,,,,,,,"261, TM",CLAN,F,,2865
+ISBASRM1OS,megamek.common.weapons.battleArmor.innerSphere.srm,battleArmor,SRM 1 (OS),ISBASRM1OS,,,,1,,3,6,9,12,,,,,.05,2,3,2500,,,,,,,"261, TM",IS,E,3050,
+CLBASRM2,megamek.common.weapons.battleArmor.clan.srm,battleArmor,SRM 2,CLBASRM2,,2,,2,,3,6,9,12,,,,,0.07,2,21,10000,2,,,,Short,,"261, TM",CLAN,F,,2865
+ISBASRM2,megamek.common.weapons.battleArmor.innerSphere.srm,battleArmor,SRM 2,ISBASRM2,,2,,2,,3,6,9,12,,,,,0.12,2,21,10000,,,,,,,"261, TM",IS,E,3050,
+CLBASRM2OS,megamek.common.weapons.battleArmor.clan.srm,battleArmor,SRM 2 (OS),CLBASRM2 (OS),,2,,2,,3,6,9,12,,,,,0.04,2,4,5000,2,,,,Short,,"261, TM",CLAN,F,,2865
+ISBASRM2OS,megamek.common.weapons.battleArmor.innerSphere.srm,battleArmor,SRM 2 (OS),ISBASRM2OS,,2,,2,,3,6,9,12,,,,,.075,2,4,5000,,,,,,,"261, TM",IS,E,3050,
+CLBASRM3,megamek.common.weapons.battleArmor.clan.srm,battleArmor,SRM 3,CLBASRM3,,,,3,,3,6,9,12,,,,,0.105,2,30,15000,2,,,,Short,,"261, TM",CLAN,F,,2865
+ISBASRM3,megamek.common.weapons.battleArmor.innerSphere.srm,battleArmor,SRM 3,ISBASRM3,,,,3,,3,6,9,12,,,,,0.180,2,30,15000,,,,,,,"261, TM",IS,E,3050,
+CLBASRM3OS,megamek.common.weapons.battleArmor.clan.srm,battleArmor,SRM 3 (OS),CLBASRM3 (OS),,,,3,,3,6,9,12,,,,,.06,2,6,7500,2,,,,Short,,"261, TM",CLAN,F,,2865
+ISBASRM3OS,megamek.common.weapons.battleArmor.innerSphere.srm,battleArmor,SRM 3 (OS),ISBASRM3OS,,,,3,,3,6,9,12,,,,,0.125,2,6,7500,,,,,,,"261, TM",IS,E,3050,
+CLBASRM4,megamek.common.weapons.battleArmor.clan.srm,battleArmor,SRM 4,CLBASRM4,,3,,4,,3,6,9,12,,,,,.140,2,39,20000,4,,,,Short,,"261, TM",CLAN,F,,2865
+ISBASRM4,megamek.common.weapons.battleArmor.innerSphere.srm,battleArmor,SRM 4,ISBASRM4,,3,,4,,3,6,9,12,,,,,0.24,2,39,2000,,,,,,,"261, TM",IS,E,3050,
+CLBASRM4OS,megamek.common.weapons.battleArmor.clan.srm,battleArmor,SRM 4 (OS),CLBASRM4 (OS),,3,,4,,3,6,9,12,,,,,.080,3,8,10000,2,,,,Short,,"261, TM",CLAN,F,,2865
+ISBASRM4OS,megamek.common.weapons.battleArmor.innerSphere.srm,battleArmor,SRM 4 (OS),ISBASRM4OS,,3,,4,,3,6,9,12,,,,,.150,3,8,10000,,,,,,,"261, TM",IS,E,3050,
+CLBASRM5,megamek.common.weapons.battleArmor.clan.srm,battleArmor,SRM 5,CLBASRM5,,,,5,,3,6,9,12,,,,,.175,3,47,25000,4,,,,Short,,"261, TM",CLAN,F,,2865
+ISBASRM5,megamek.common.weapons.battleArmor.innerSphere.srm,battleArmor,SRM 5,ISBASRM5,,,,5,,3,6,9,12,,,,,0.3,3,47,25000,,,,,,,"261, TM",IS,E,3050,
+CLBASRM5OS,megamek.common.weapons.battleArmor.clan.srm,battleArmor,SRM 5 (OS),CLBASRM5OS,,,,5,,3,6,9,12,,,,,.100,3,9,12500,2,,,,Short,,"261, TM",CLAN,F,,2865
+ISBASRM5OS,megamek.common.weapons.battleArmor.innerSphere.srm,battleArmor,SRM 5 (OS),ISBASRM5OS,,,,5,,3,6,9,12,,,,,.175,3,9,12500,,,,,,,"261, TM",IS,E,3050,
+CLBASRM6,megamek.common.weapons.battleArmor.clan.srm,battleArmor,SRM 6,CLBASRM6,,4,,6,,3,6,9,12,,,,,.210,3,59,30000,8,,,,Short,,"261, TM",CLAN,F,,2865
+ISBASRM6,megamek.common.weapons.battleArmor.innerSphere.srm,battleArmor,SRM 6,ISBASRM6,,4,,6,,3,6,9,12,,,,,0.360,3,59,30000,,,,,,,"261, TM",IS,E,3050,
+CLBASRM6OS,megamek.common.weapons.battleArmor.clan.srm,battleArmor,SRM 6 (OS),CLBASRM6 (OS),,4,,6,,3,6,9,12,,,,,.120,4,12,15000,2,,,,Short,,"261, TM",CLAN,F,,2865
+ISBASRM6OS,megamek.common.weapons.battleArmor.innerSphere.srm,battleArmor,SRM 6 (OS),ISBASRM6OS,,4,,6,,3,6,9,12,,,,,0.2,4,12,15000,,,,,,,"261, TM",IS,E,3050,
+CLBALaserSmall,megamek.common.weapons.battleArmor.clan.laser,battleArmor,Small Laser,CLBASmall Laser,Laser B,1,3,,,1,2,3,4,1,2,2,2,0.2,1,9,11250,,,,,,,"258, TM",CLAN,F,,2865
+ISBALaserSmall,megamek.common.weapons.battleArmor.innerSphere.laser,battleArmor,Small Laser,ISBASmallLaser,Laser B,1,3,,,1,2,3,4,1,2,2,2,0.2,1,9,11250,3,,,,Short,,"258, TM",IS,E,3050,
+CLBAPulseLaserSmall,megamek.common.weapons.battleArmor.clan.laser,battleArmor,Small Pulse Laser,CLBASmallPulseLaser,Laser Pulse B,2,3,,,2,4,6,8,1,2,4,6,.4,1,24,16000,3,,,,Short,,"258, TM",CLAN,F,,2870
+ISBALaserPulseSmall,megamek.common.weapons.battleArmor.innerSphere.laser,battleArmor,Small Pulse Laser,ISBASmallPulseLaser,Laser Pulse B,,3,,,1,2,3,4,1,2,2,2,0.4,1,12,16000,3,,,,Short,,"258, TM",IS,E,3057,
+ISBALaserVSPSmall,megamek.common.weapons.battleArmor.innerSphere.laser,battleArmor,Small VSP Laser,ISBASmallVSPLaser,Laser VSP B,3,,,,2,4,6,8,1,2,3,4,.5,2,22,60000,4,,,,Short,,"133, TO:AUE",IS,E,3070,
+CLBASupportPPC,megamek.common.weapons.battleArmor.clan,battleArmor,Support PPC,BA Support PPC,,,2,,,2,5,7,10,1,3,5,7,0.240,2,14,14000,,,,,,,"267, TM",CLAN,D,,
+ISBASupportPPC,megamek.common.weapons.battleArmor.innerSphere,battleArmor,Support PPC,ISBASupportPPC,,,2,,,2,5,7,10,1,3,5,7,0.25,2,14,14000,,,,,,,"267, TM",IS,D,3046,
+CLBALightTAG,megamek.common.weapons.battleArmor.clan,battleArmor,TAG (Light),CLBALightTAG,,0,0,,,3,6,9,12,,,,,0.035,1,0,40000,,,,,,,"270, TM",ALL,E,3051,
+ISBATubeArtillery,megamek.common.weapons.battleArmor.innerSphere,battleArmor,Tube Artillery (BA),,,,,3,,2,2,2,2,,,,,0.5,4,27,200000,,,,,,,"96, TO:AUE",IS,E,3070,
+ACBayWeapon,megamek.common.weapons.bayWeapons,bayWeapons,AC Bay,,,0,,,,6,12,20,25,,,,,0.0,,0,0,,,,,,,,,,,
+AMSBayWeapon,megamek.common.weapons.bayWeapons,bayWeapons,AMS Bay,,,0,,,,1,,,,,,,,0.0,,0,0,,,,,,,,ALL,E,2613,2824
+AR10BayWeapon,megamek.common.weapons.bayWeapons,bayWeapons,AR10 Bay,,,0,,,,12,24,40,50,,,,,0.0,,0,0,,,,,Short,,"210, TM",ALL,E,2540,2540
+ArtilleryBayWeapon,megamek.common.weapons.bayWeapons,bayWeapons,Artillery Bay,,,0,,,,6,12,20,25,,,,,0.0,,0,0,,,,,,,,,,,
+CapitalACBayWeapon,megamek.common.weapons.bayWeapons.capital,bayWeapons,Capital AC Bay,,,0,,,,12,24,40,50,,,,,0.0,,0,0,,,,,,,,,,,
+CapitalGaussBayWeapon,megamek.common.weapons.bayWeapons.capital,bayWeapons,Capital Gauss Bay,,,0,,,,12,24,40,50,,,,,0.0,,0,0,,,,,,,,,,,
+CapitalLaserBayWeapon,megamek.common.weapons.bayWeapons.capital,bayWeapons,Capital Laser Bay,,,0,,,,12,24,40,50,,,,,,,,,,,,,,,,,,,
+CapitalMDBayWeapon,megamek.common.weapons.bayWeapons.capital,bayWeapons,Capital Mass Driver Bay,,,0,,,,12,24,40,,,,,,0.0,,0,0,,,,,,,,,,,
+CapitalMissileBayWeapon,megamek.common.weapons.bayWeapons.capital,bayWeapons,Capital Missile Bay,,,0,,,,12,24,40,50,,,,,0.0,,0,0,,,,,,,,,,,
+CapitalPPCBayWeapon,megamek.common.weapons.bayWeapons.capital,bayWeapons,Capital PPC Bay,,,0,,,,12,24,40,50,,,,,0.0,,0,0,,,,,,,,,,,
+GaussBayWeapon,megamek.common.weapons.bayWeapons,bayWeapons,Gauss Bay,,,0,,,,6,12,20,25,,,,,0.0,,0,0,,,,,,,,,,,
+LBXBayWeapon,megamek.common.weapons.bayWeapons,bayWeapons,LBX AC Bay,,,0,,,,6,12,20,25,,,,,0.0,,0,0,,,,,,,,,,,
+LRMBayWeapon,megamek.common.weapons.bayWeapons,bayWeapons,LRM Bay,,,0,,,,6,12,20,25,,,,,0.0,,0,0,,,,,,,,,,,
+LaserBayWeapon,megamek.common.weapons.bayWeapons,bayWeapons,Laser Bay,,,0,,,,6,12,20,25,,,,,0.0,,0,0,,,,,,,,,,,
+MMLBayWeapon,megamek.common.weapons.bayWeapons,bayWeapons,MML Bay,,,0,,,,6,12,20,25,,,,,0.0,,0,0,,,,,,,,,,,
+MRMBayWeapon,megamek.common.weapons.bayWeapons,bayWeapons,MRM Bay,,,0,,,,6,12,20,25,,,,,0.0,,0,0,,,,,,,,,,,
+MiscBayWeapon,megamek.common.weapons.bayWeapons,bayWeapons,Misc Bay,,,0,,,,0,0,0,0,,,,,0.0,,0,0,,,,,,,,,,,
+PPCBayWeapon,megamek.common.weapons.bayWeapons,bayWeapons,PPC Bay,,,0,,,,6,12,20,25,,,,,0.0,,0,0,,,,,,,,,,,
+PlasmaBayWeapon,megamek.common.weapons.bayWeapons,bayWeapons,Plasma Bay,,,0,,,,6,12,20,25,,,,,0.0,,0,0,,,,,,,,,,,
+PointDefenseBayWeapon,megamek.common.weapons.bayWeapons,bayWeapons,Point Defense Bay,,,0,,,,6,12,20,25,,,,,0.0,,0,0,,,,,,,,,,,
+PulseLaserBayWeapon,megamek.common.weapons.bayWeapons,bayWeapons,Pulse Laser Bay,,,0,,,,6,12,20,25,,,,,0.0,,0,0,,,,,,,,,,,
+RLBayWeapon,megamek.common.weapons.bayWeapons,bayWeapons,Rocket Launcher Bay,,,0,,,,6,12,20,25,,,,,0.0,,0,0,,,,,,,,,,,
+SRMBayWeapon,megamek.common.weapons.bayWeapons,bayWeapons,SRM Bay,,,0,,,,6,12,20,25,,,,,0.0,,0,0,,,,,,,,,,,
+ScreenLauncherBayWeapon,megamek.common.weapons.bayWeapons,bayWeapons,Screen Launcher Bay,,,0,,,,6,12,20,25,,,,,0.0,,0,0,,,,,,,"237, TM",,,,
+SubCapCannonBayWeapon,megamek.common.weapons.bayWeapons.subCapital,bayWeapons,Sub-Capital Cannon Bay,,,0,,,,12,24,40,50,,,,,0.0,,0,0,,,,,,,,,,,
+SubCapLaserBayWeapon,megamek.common.weapons.bayWeapons.subCapital,bayWeapons,Sub-Capital Laser Bay,,,0,,,,12,24,40,50,,,,,0.0,,0,0,,,,,,,,,,,
+SubCapitalMissileBayWeapon,megamek.common.weapons.bayWeapons.subCapital,bayWeapons,Sub-Capital Missile Bay,,,0,,,,12,24,40,50,,,,,0.0,,0,0,,,,,,,,,,,
+TeleOperatedMissileBayWeapon,megamek.common.weapons.bayWeapons,bayWeapons,Tele-Operated Capital Missile Bay,,,0,,,,12,24,40,50,,,,,0.0,,0,0,,,,,,,,,,,
+ThunderboltBayWeapon,megamek.common.weapons.bayWeapons,bayWeapons,Thunderbolt Bay,,,0,,,,6,12,20,25,,,,,0.0,,0,0,,,,,,,,,,,
+CLAAAMissileWeapon,megamek.common.weapons.bombs.clan,bombs,AAA Missile,,,0,20,1,6,12,18,24,36,,,,,1,0,0,9000,20,20,,,Medium,,"169, TO:AUE",ALL,E,3069,
+ISAAAMissileWeapon,megamek.common.weapons.bombs.innerSphere,bombs,AAA Missile,,,0,20,1,6,12,18,24,36,,,,,1,0,0,9000,20,20,,,Medium,,"169, TO:AUE",IS,E,3069,
+CLASMissileWeapon,megamek.common.weapons.bombs.clan,bombs,AS Missile,,,0,30,1,9,17,25,32,50,,,,,2,0,0,15000,30,30,30,,Long,,"170, TO:AUE",ALL,D,3071,
+ISASMissileWeapon,megamek.common.weapons.bombs.innerSphere,bombs,AS Missile,,,0,30,1,9,17,25,32,50,,,,,2,0,0,15000,30,30,30,,Long,,"170, TO:AUE",IS,D,3071,
+CLASEWMissileWeapon,megamek.common.weapons.bombs.clan,bombs,Anti-Ship Electronic Warfare (ASEW) Missiles,,,0,0,1,7,14,21,28,42,,,,,2,0,0,20000,0,0,0,,Medium,,"170, TO:AUE",IS,E,3067,
+ISASEWMissileWeapon,megamek.common.weapons.bombs.innerSphere,bombs,Anti-Ship Electronic Warfare (ASEW) Missiles,,,0,0,1,7,14,21,28,42,,,,,2,0,0,20000,0,0,0,,Medium,,"170, TO:AUE",IS,E,3067,
+BombArrowIV,megamek.common.weapons.bombs,bombs,Arrow IV Bomb Mount,,,0,,20,,1,2,9,9,,,,,0,0,0,0,,,,,,,"171, TO:AUE",ALL,E,2622,2622
+CLLAAMissileWeapon,megamek.common.weapons.bombs.clan,bombs,Light Air-to-Air (LAA) Missiles,,,0,6,1,,6,12,24,40,,,,,0.5,0,0,6000,6,6,,,Medium,,"171, TO:AUE",ALL,E,3069,
+ISLAAMissileWeapon,megamek.common.weapons.bombs.innerSphere,bombs,Light Air-to-Air (LAA) Missiles,,,0,6,1,7,14,21,28,42,,,,,0.5,0,0,6000,6,6,,,Medium,,"171, TO:AUE",IS,E,3069,
+BombISRLP10,megamek.common.weapons.bombs,bombs,Rocket Launcher (Prototype) Pod,,,0,,10,,5,11,18,22,,,,,1,0,0,0,6,6,,,Medium,,"67, IO:AE",ALL,B,,
+BombISRL10,megamek.common.weapons.bombs,bombs,Rocket Launcher Pod,,,0,,10,,5,11,18,22,,,,,1,0,0,0,6,6,,,Medium,,"229, TM",IS,B,3060,
+ISBombTAG,megamek.common.weapons.bombs.innerSphere,bombs,TAG Pod,,,0,0,,,5,10,15,20,,,,,1,0,0,50000,,,,,,,"238, TM",ALL,E,2600,2600
+ISC3MBS,megamek.common.weapons.c3,c3,C3 Boosted System (Master),ISC3MasterBoostedSystemUnit,,0,0,,,5,9,15,18,,,,,6,6,0,3000000,,,,,,,"110, TO:AUE",IS,E,3073,
+ISC3M,megamek.common.weapons.c3,c3,C3 Computer (Master),ISC3MasterUnit,,0,0,,,5,9,15,18,,,,,5,5,0,1500000,,,,,,,"209, TM",IS,E,3039,
+ISC3RemoteSensorLauncher,megamek.common.weapons.c3,c3,C3 Remote Sensor Launcher,ISC3RemoteSensorLauncher,,,0,1,,3,6,9,12,,,,,4,3,30,400000,,,,,,,"110, TO:AUE",IS,E,3072,
+AR10Weapon,megamek.common.weapons.capitalWeapons,capitalWeapons,Capital Missile Launcher (AR10 Launcher),,,20,2,,,20,30,40,50,,,,,250.0,,961.0,250000,2,2,2,2,Extreme,,"210, TM",ALL,E,2540,2540
+CapMissBarracudaWeapon,megamek.common.weapons.capitalWeapons,capitalWeapons,Capital Missile Launcher (Barracuda),,,10,2,,,20,30,40,50,,,,,90.0,,522.0,90000,2,2,2,2,Extreme,,"210, TM",ALL,E,2200,2200
+CapMissKillerWhaleWeapon,megamek.common.weapons.capitalWeapons,capitalWeapons,Capital Missile Launcher (Killer Whale),,,20,4,,,7,14,21,28,,,,,150.0,,769.0,150000,4,4,4,4,Extreme,,"210, TM",ALL,E,2200,2200
+CapMissKrakenWeapon,megamek.common.weapons.capitalWeapons,capitalWeapons,Capital Missile Launcher (Kraken),,,50,10,,,11,22,34,46,,,,,190.0,,1914.0,455000,10,10,10,10,Extreme,,Unofficial,IS,F,3053,
+CapMissWhiteSharkWeapon,megamek.common.weapons.capitalWeapons,capitalWeapons,Capital Missile Launcher (White Shark),,,15,3,,,12,24,36,48,,,,,120.0,,577.0,130000,3,3,3,3,Extreme,,"210, TM",ALL,E,2200,2200
+MassDriverHeavy,megamek.common.weapons.capitalWeapons,capitalWeapons,Mass Driver (Heavy),,,90,140,,,12,24,40,,,,,,100000,,16464.0,500000000,140,140,140,,,,"135, TO:AUE",IS,D,2715,
+MassDriverLight,megamek.common.weapons.capitalWeapons,capitalWeapons,Mass Driver (Light),,,30,60,,,12,24,40,,,,,,30000,,7056.0,150000000,60,60,60,,Long,,"135, TO:AUE",IS,D,2715,
+MassDriverMedium,megamek.common.weapons.capitalWeapons,capitalWeapons,Mass Driver (Medium),,,60,100,,,12,24,40,,,,,,50000,,11760.0,280000000,100,100,100,,Long,,"135, TO:AUE",IS,D,2715,
+NAC10Weapon,megamek.common.weapons.capitalWeapons.naval,capitalWeapons,Naval Autocannon (NAC/10),,,30,10,10,,11,22,33,44,,,,,2000.0,,1896.0,2000000,10,10,10,,Long,,"143, TO:AUE",ALL,D,,
+NAC20Weapon,megamek.common.weapons.capitalWeapons.naval,capitalWeapons,Naval Autocannon (NAC/20),,,60,20,20,,11,21,31,42,,,,,2500.0,,3792.0,5000000,20,20,20,,Long,,"143, TO:AUE",ALL,D,,
+NAC25Weapon,megamek.common.weapons.capitalWeapons.naval,capitalWeapons,Naval Autocannon (NAC/25),,,85,25,25,,10,20,30,40,,,,,3000.0,,4740.0,7500000,25,25,25,,Long,,"143, TO:AUE",ALL,D,,
+NAC30Weapon,megamek.common.weapons.capitalWeapons.naval,capitalWeapons,Naval Autocannon (NAC/30),,,100,30,30,,9,18,27,36,,,,,3500.0,,5688.0,10500000,30,30,30,,Long,,"143, TO:AUE",ALL,D,,
+NAC35Weapon,megamek.common.weapons.capitalWeapons.naval,capitalWeapons,Naval Autocannon (NAC/35),,,120,35,35,,7,14,21,28,,,,,4000.0,,4956.0,14000000,35,35,,,Medium,,"143, TO:AUE",ALL,D,,
+NAC40Weapon,megamek.common.weapons.capitalWeapons.naval,capitalWeapons,Naval Autocannon (NAC/40),,,135,40,40,,6,12,18,24,,,,,4500.0,,5664.0,18000000,40,40,,,Medium,,"143, TO:AUE",ALL,D,,
+NGaussWeaponHeavy,megamek.common.weapons.capitalWeapons.naval,capitalWeapons,Naval Gauss (Heavy),,Gauss Naval D,18,30,,,12,24,36,48,,,,,7000,,6048.0,50050000,30,30,30,30,Extreme,,"145, TO:AUE",ALL,E,2440,2440
+NGaussWeaponLight,megamek.common.weapons.capitalWeapons.naval,capitalWeapons,Naval Gauss (Light),,Gauss Naval B,9,15,,,14,28,40,56,,,,,4500,,3024.0,20300000,15,15,15,15,Extreme,,"145, TO:AUE",ALL,E,2440,2440
+NGaussWeaponMedium,megamek.common.weapons.capitalWeapons.naval,capitalWeapons,Naval Gauss (Medium),,Gauss Naval C,15,25,,,13,26,39,52,,,,,5500,,5040.0,30350000,25,25,25,25,Extreme,,"145, TO:AUE",ALL,E,2440,2440
+NL35Weapon,megamek.common.weapons.capitalWeapons.naval,capitalWeapons,Naval Laser 35,,,52,3,,,11,22,33,44,,,,,700.0,,830.0,500000,3.5,3.5,3.5,,Long,,"145, TO:AUE",ALL,D,,
+NL45Weapon,megamek.common.weapons.capitalWeapons.naval,capitalWeapons,Naval Laser 45,,,70,4,,,12,24,36,48,,,,,900.0,,1134.0,850000,4.5,4.5,4.5,4.5,Extreme,,"145, TO:AUE",ALL,D,,
+NL55Weapon,megamek.common.weapons.capitalWeapons.naval,capitalWeapons,Naval Laser 55,,,85,5,,,13,26,39,52,,,,,1100.0,,1386.0,1250000,5.5,5.5,5.5,5.5,Extreme,,"145, TO:AUE",ALL,D,,
+NPPCWeaponHeavy,megamek.common.weapons.capitalWeapons.naval,capitalWeapons,Naval PPC (Heavy),,PPC Naval D,225,15,,,13,26,39,52,,,,,3000.0,,3780.0,9050000,15,15,15,15,Extreme,,"146, TO:AUE",ALL,D,2350,2350
+NPPCWeaponLight,megamek.common.weapons.capitalWeapons.naval,capitalWeapons,Naval PPC (Light),,PPC Naval B,105,7,,,11,22,33,44,,,,,1400.0,,1659.0,2000000,7,7,7,,Long,,"146, TO:AUE",ALL,D,2350,2350
+NPPCWeaponMedium,megamek.common.weapons.capitalWeapons.naval,capitalWeapons,Naval PPC (Medium),,PPC Naval C,135,9,,,12,24,36,48,,,,,1800.0,,2268.0,3250000,9,9,9,9,Extreme,,"146, TO:AUE",ALL,D,2350,2350
+ScreenLauncherWeapon,megamek.common.weapons.capitalWeapons,capitalWeapons,Screen Launcher,,,10,15,,,3,6,9,12,,,,,40.0,,160.0,250000,15,,,,Short,,"237, TM",IS,F,3053,
+CapMissTeleBarracudaWeapon,megamek.common.weapons.capitalWeapons,capitalWeapons,Tele-operated Missile (Barracuda-T),,,10,2,,,20,30,40,50,,,,,100.0,,461.0,100000,2,2,2,2,Extreme,,"210, TM",IS,F,3053,
+CapMissTeleKillerWhaleWeapon,megamek.common.weapons.capitalWeapons,capitalWeapons,Tele-operated Missile (Killer Whale-T),,,20,4,,,7,14,21,28,,,,,160.0,,923.0,165000,4,4,4,4,Extreme,,"210, TM",IS,F,3053,
+CapMissTeleKrakenWeapon,megamek.common.weapons.capitalWeapons,capitalWeapons,Tele-operated Missile (Kraken T),,,50,10,,,11,22,34,46,,,,,220.0,,2306.0,500000,10,10,10,10,Extreme,,"210, TM",IS,F,3053,
+CapMissTeleWhiteSharkWeapon,megamek.common.weapons.capitalWeapons,capitalWeapons,Tele-operated Missile (White Shark-T),,,15,3,,,12,24,36,48,,,,,130.0,,692.0,145000,3,3,3,3,Extreme,,"210, TM",IS,F,3053,
+ISBPod,megamek.common.weapons.defensivePods,defensivePods,Anti-BattleArmor Pods (B-Pods),ISBPod,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ISMPod,megamek.common.weapons.defensivePods,defensivePods,M-Pod,ISMPod,,,,,,,,,,,,,,,,,,,,,,,,"143, TO:AUE",IS,C,3060,
+CLERFlamer,megamek.common.weapons.flamers.clan,flamers,ER Flamer,CLERFlamer,Flamer ER,4,2,,,3,5,7,10,,,,,1,1,16,15000,2,,,,Short,,"124, TO:AUE",CLAN,D,,
+ISERFlamer,megamek.common.weapons.flamers.innerSphere,flamers,ER Flamer,,Flamer X ER,4,2,,,3,5,7,10,,,,,1,1,16,15000,2,,,,Short,,"124, TO:AUE",IS,D,,
+CLFlamer,megamek.common.weapons.flamers.clan,flamers,Flamer,CLFlamer,,3,2,,,1,2,3,4,,,,,0.5,1,6,7500,2,,,,Short,,"218, TM",CLAN,C,,2820
+ISFlamer,megamek.common.weapons.flamers.innerSphere,flamers,Flamer,,Flamer C,3,2,,,1,2,3,4,,,,,1,1,6,7500,2,,,,Short,,"218, TM",ALL,C,,
+ISVehicleFlamer,megamek.common.weapons.flamers.innerSphere,flamers,Flamer (Vehicle),,Flamer V,3,2,2,,1,2,3,4,,,,,0.5,1,5,7500,2,,,,Short,,"218, TM",ALL,B,,
+CLHeavyFlamer,megamek.common.weapons.flamers.clan,flamers,Heavy Flamer,CLHeavyFlamer,Flamer D,5,4,2,,2,3,4,6,,,,,1.5,1,15,11250,4,,,,Short,,"124, TO:AUE",CLAN,C,,
+ISHeavyFlamer,megamek.common.weapons.flamers.innerSphere,flamers,Heavy Flamer,,Flamer D,5,4,2,,2,3,4,6,,,,,1.5,1,15,11250,4,,,,Short,,"124, TO:AUE",IS,C,,
+CLAPGaussRifle,megamek.common.weapons.gaussRifles.clan,gaussRifles,AP Gauss Rifle,CLAPGaussRifle,Gauss X,1,3,,,3,6,9,12,,,,,0.5,1,21,8500,3,,,,Short,3,"218, TM",CLAN,F,,3065
+CLGaussRifle,megamek.common.weapons.gaussRifles.clan,gaussRifles,Gauss Rifle,CLGaussRifle,,1,15,,2,7,15,22,33,,,,,12.0,6,320,300000,15,15,15,,Long,20,"219, TM",CLAN,F,,2822
+ISGaussRifle,megamek.common.weapons.gaussRifles.innerSphere,gaussRifles,Gauss Rifle,ISGaussRifle,Gauss C,1,15,,2,7,15,22,33,,,,,15.0,7,320,300000,15,15,15,,Long,20,"219, TM",IS,E,2587,
+CLHAG20,megamek.common.weapons.gaussRifles.clan,gaussRifles,HAG/20,CLHAG20,,4,,20,2,8,16,24,32,,,,,10.0,6,267,400000,16,12,12,,Long,,"219, TM",CLAN,F,,
+CLHAG30,megamek.common.weapons.gaussRifles.clan,gaussRifles,HAG/30,CLHAG30,,6,,30,2,8,16,24,32,,,,,13.0,8,401,500000,24,18,18,,Long,,"219, TM",CLAN,F,,
+CLHAG40,megamek.common.weapons.gaussRifles.clan,gaussRifles,HAG/40,CLHAG40,,8,,40,2,8,16,24,32,,,,,16.0,10,535,600000,32,24,24,,Long,,"219, TM",CLAN,F,,
+ISHGaussRifle,megamek.common.weapons.gaussRifles.innerSphere,gaussRifles,Heavy Gauss Rifle,ISHeavyGaussRifle,Gauss D,2,,,4,6,13,20,30,,,,,18.0,11,346,500000,25,20,10,,Long,25,"218, TM",IS,E,3051,
+CLImprovedGaussRifle,megamek.common.weapons.gaussRifles.clan,gaussRifles,Improved Gauss Rifle,Improved Gauss Rifle,Gauss Imp,1,15,,2,7,15,22,33,,,,,13.0,6,320,300000,15,15,15,,Long,20,"90, IO:AE",CLAN,E,,2818
+ISImpHGaussRifle,megamek.common.weapons.gaussRifles.innerSphere,gaussRifles,Improved Heavy Gauss Rifle,ISImprovedHeavyGaussRifle,Gauss IMP D,2,22,,3,6,12,19,28,,,,,20.0,11,385,700000,22,22,22,,Long,30,"126, TO:AUE",IS,E,3065,
+ISLGaussRifle,megamek.common.weapons.gaussRifles.innerSphere,gaussRifles,Light Gauss Rifle,ISLightGaussRifle,Gauss B,1,8,,3,8,17,25,37,,,,,12.0,5,159,275000,8,8,8,8,Extreme,16,"219, TM",IS,E,3049,
+ISMagshotGaussRifle,megamek.common.weapons.gaussRifles.innerSphere,gaussRifles,Magshot,ISMagshotGR,Gauss Z,1,2,,,3,6,9,12,,,,,0.5,2,15,8500,2,2,2,,Short,3,"126, TO:AUE",IS,E,3059,
+ISSilverBulletGauss,megamek.common.weapons.gaussRifles.innerSphere,gaussRifles,Silver Bullet Gauss Rifle,ISSBGR,Gauss X,1,15,15,2,7,15,22,33,,,,,15.0,7,198,350000,,,,,Long,20,"127, TO:AUE",IS,E,3051,
+InfantrySupportMk1LightAAWeapon,megamek.common.weapons.infantry.support,infantry,"AA Weapon (Mk. 1, Light)",,,,,,,,,,,,,,,.005,,0.70,1000,,,,,,,"273, TM",ALL,D,2490,2490
+InfantrySupportMk2PortableAAWeapon,megamek.common.weapons.infantry.support,infantry,"AA Weapon (Mk. 2, Man-Portable)",,,,1,,0,2,4,6,8,,,,,.035,,4.14,3500,,,,,,,"273, TM",ALL,D,2498,2498
+InfantryPistolAutoPistolWeapon,megamek.common.weapons.infantry.pistol,infantry,Auto-Pistol,,,,,,,,,,,,,,,.0005,,0.19,50,,,,,,,"273, TM",ALL,C,1950,1950
+InfantryPistolHawkEagleAutoPistolWeapon,megamek.common.weapons.infantry.pistol,infantry,Auto-Pistol (Hawk Eagle),,,,,,,,,,,,,,,.0005,,0.25,100,,,,,,,"273, TM",IS,C,3030,
+InfantryPistolMauserAutoPistolWeapon,megamek.common.weapons.infantry.pistol,infantry,Auto-Pistol (M&G),,,,,,,,,,,,,,,.00065,,0.16,60,,,,,,,"273, TM",IS,C,2490,
+InfantryPistolMagnumAutoPistolWeapon,megamek.common.weapons.infantry.pistol,infantry,Auto-Pistol (Magnum),,,,,,,,,,,,,,,.0005,,0.19,75,,,,,,,"273, TM",ALL,C,1950,1950
+InfantryPistolMydronAutoPistolWeapon,megamek.common.weapons.infantry.pistol,infantry,Auto-Pistol (Mydron),,,,,,,,,,,,,,,.0015,,0.13,100,,,,,,,"273, TM",ALL,C,2607,2607
+InfantryPistolNambuAutoPistolWeapon,megamek.common.weapons.infantry.pistol,infantry,Auto-Pistol (Nambu),,,,,,,,,,,,,,,.00045,,0.19,75,,,,,,,"273, TM",ALL,C,2535,2535
+InfantryPistolAutoPistolNissanWeapon,megamek.common.weapons.infantry.pistol,infantry,Auto-Pistol (Nissan SG-12),,,,,,,,,,,,,,,.0027,,0.19,250,,,,,,,"176,HBHK",IS,C,2600,
+InfantryPistolSerrekAutoPistolWeapon,megamek.common.weapons.infantry.pistol,infantry,Auto-Pistol (Serrek 7875D),,,,,,,,,,,,,,,.0004,,0.15,185,,,,,,,"273, TM",IS,C,2805,
+InfantryPistolSternsnachtPythonAutoPistolWeapon,megamek.common.weapons.infantry.pistol,infantry,Auto-Pistol (Sternsnacht Python),,,,,,,,,,,,,,,.00075,,0.26,125,,,,,,,"273, TM",IS,C,3048,
+InfantryPistolStettaAutoPistolWeapon,megamek.common.weapons.infantry.pistol,infantry,Auto-Pistol (Stetta),,,,,,,,,,,,,,,.002,,0.16,150,,,,,,,"273, TM",IS,D,3005,
+InfantryPistolVintageWeapon,megamek.common.weapons.infantry.pistol,infantry,Auto-Pistol (Vintage),,,,,,,,,,,,,,,.0005,,0.0005,500,,,,,,,"195, AToW-C",ALL,C,,
+InfantryRifleAutoRifleWeapon,megamek.common.weapons.infantry.rifle,infantry,"Auto-Rifle (Modern, Generic)",,,,1,,0,1,2,3,4,,,,,.004,,1.59,80,,,,,,,"273, TM",ALL,C,1950,1950
+InfantryShotgunAutomaticWeapon,megamek.common.weapons.infantry.shotgun,infantry,Auto-Shotgun,,,,,,,,,,,,,,,.005,,0.21,200,,,,,,,"273, TM",ALL,C,2100,2100
+InfantrySupportClanBearhunterAutocannonWeapon,megamek.common.weapons.infantry.support.clan,infantry,Autocannon (Bearhunter Superheavy),,,,,,,,,,,,,,,0.040,,2.13,3000,,,,,,,"273, TM",CLAN,D,,3059
+InfantrySupportPortableAutocannonWeapon,megamek.common.weapons.infantry.support,infantry,Autocannon (Semi-Portable),,,,,,,,,,,,,,,.025,,2.35,2000,,,,,,,"273, TM",ALL,C,2100,2100
+InfantryArchaicBladeArchaicSwordWeapon,megamek.common.weapons.infantry.archaic,infantry,Blade (Archaic Sword)),,,,,,,,,,,,,,,.0035,,0.0,45,,,,,,,"195, ATOW-C",ALL,A,,
+InfantryArchaicAxeWeapon,megamek.common.weapons.infantry.archaic,infantry,Blade (Axe/Hatchet/Tomahawk),,,,,,,,,,,,,,,.004,,0.10,25,,,,,,,"272, TM",ALL,A,,
+InfantryArchaicBokkenWeapon,megamek.common.weapons.infantry.archaic,infantry,Blade (Bokken),,,,,,,,,,,,,,,.002,,0.04,15,,,,,,,"272, TM",ALL,A,,
+InfantryArchaicCarbonReinforcedNailsWeapon,megamek.common.weapons.infantry.archaic,infantry,Blade (Carbon-Reinforced Nails),,,,,,,,,,,,,,,0,,0.02,1000,,,,,,,"272, TM",IS,D,2980,
+InfantryArchaicDaggerWeapon,megamek.common.weapons.infantry.archaic,infantry,Blade (Dagger/Knife/Bayonet),,,,,,,,,,,,,,,.0025,,0.02,8,,,,,,,"272, TM",ALL,A,,
+InfantryArchaicDaoWeapon,megamek.common.weapons.infantry.archaic,infantry,Blade (Dao/Katana/No-Dachi/Sword/Wakizashi),,,,,,,,,,,,,,,.003,,0.04,200,,,,,,,"272, TM",ALL,A,,
+InfantryArchaicHatchetWeapon,megamek.common.weapons.infantry.archaic,infantry,Blade (Hatchet/Tomahawk) (Unofficial),,,,,,,,,,,,,,,.001,,0.04,10,,,,,,,"272, TM",ALL,A,1950,1950
+InfantryArchaicBladeJoustingLanceWeapon,megamek.common.weapons.infantry.archaic,infantry,Blade (Jousting Lance),,,,,,,,,,,,,,,.0035,,0.0,65,,,,,,,"195, ATOW-C",ALL,A,,
+InfantryArchaicNoDachiWeapon,megamek.common.weapons.infantry.archaic,infantry,Blade (No-Dachi),,,,,,,,,,,,,,,.0045,,0.05,300,,,,,,,"272, TM",ALL,A,1950,1950
+InfantryArchaicShurikenWeapon,megamek.common.weapons.infantry.archaic,infantry,Blade (Shuriken/Thrown Knives),,,,,,,,,,,,,,,.0001,,0,5,,,,,,,"272, TM",ALL,A,,
+InfantryArchaicSwordWeapon,megamek.common.weapons.infantry.archaic,infantry,Blade (Sword),,,,,,,,,,,,,,,.003,,0.06,30,,,,,,,"272, TM",ALL,A,,
+InfantryArchaicVibroAxeWeapon,megamek.common.weapons.infantry.archaic,infantry,Blade (Vibro-axe),,,,,,,,,,,,,,,.005,,0.39,150,,,,,,,"272, TM",ALL,E,,
+InfantryArchaicVibroBladeWeapon,megamek.common.weapons.infantry.archaic,infantry,Blade (Vibro-blade),,,,,,,,,,,,,,,.00035,,0.19,100,,,,,,,"272, TM",ALL,D,,
+InfantryArchaicVibroKatanaWeapon,megamek.common.weapons.infantry.archaic,infantry,Blade (Vibro-katana),,,,,,,,,,,,,,,.003,,0.29,350,,,,,,,"272, TM",ALL,E,2440,2440
+InfantryArchaicClanVibroSwordWeapon,megamek.common.weapons.infantry.archaic,infantry,Blade (Vibro-sword) [Clan],,,,,,,,,,,,,,,.004,,0.34,500,,,,,,,"272, TM",CLAN,F,,2815
+InfantryArchaicISVibroSwordWeapon,megamek.common.weapons.infantry.archaic,infantry,"Blade (Vibro-sword, I.S.)",,,,,,,,,,,,,,,.004,,0.29,300,,,,,,,"272, TM",ALL,E,2435,2435
+InfantryArchaicWakizashiWeapon,megamek.common.weapons.infantry.archaic,infantry,Blade (Wakizashi),,,,,,,,,,,,,,,.0002,,0.02,150,,,,,,,"272, TM",ALL,A,1950,1950
+InfantryArchaicBladeZweihanderSwordWeapon,megamek.common.weapons.infantry.archaic,infantry,Blade (Zweihander Sword),,,,,,,,,,,,,,,0.0051,,0.0,60,,,,,,,"195, ATOW-C",ALL,A,1950,1950
+InfantryLaserRifleScorcherVIBlazerRifle,megamek.common.weapons.infantry.laser.rifle,infantry,Blazer Rifle (Scorcher VI),,,,,,,,,,,,,,,0.0075,,1.05,1500,,,,,,,Shrapnel #9,IS,D,,
+InfantryArchaicCompoundBowWeapon,megamek.common.weapons.infantry.archaic,infantry,Bow (Compound),,,,,,,,,,,,,,,.001,,0.01,15,,,,,,,"272, TM",ALL,C,1950,1950
+InfantryArchaicDaikyuBowWeapon,megamek.common.weapons.infantry.archaic,infantry,Bow (Daikyu),,,,,,,,,,,,,,,.001,,0.01,30,,,,,,,"272, TM",ALL,A,1950,1950
+InfantryArchaicHankyuBowWeapon,megamek.common.weapons.infantry.archaic,infantry,Bow (Hankyu),,,,,,,,,,,,,,,.0008,,0.0,15,,,,,,,"272, TM",ALL,A,1950,1950
+InfantryArchaicLongBowWeapon,megamek.common.weapons.infantry.archaic,infantry,Bow (Long bow),,,,,,,,,,,,,,,.0015,,0.01,20,,,,,,,"272, TM",ALL,A,1950,1950
+InfantryArchaicPrimitiveBowWeapon,megamek.common.weapons.infantry.archaic,infantry,Bow (Primitive),,,,,,,,,,,,,,,0.001,,0.0,5,,,,,,,"195, AToW-C",ALL,A,1950,1950
+InfantryArchaicShortBowWeapon,megamek.common.weapons.infantry.archaic,infantry,Bow (Shortbow),,,,,,,,,,,,,,,.0008,,0.0,10,,,,,,,"272, TM",ALL,A,1950,1950
+InfantryShotgunCeresCrowdbusterWeapon,megamek.common.weapons.infantry.shotgun,infantry,Ceres Arms Crowdbuster,,,,,,,,,,,,,,,.001,,0.10,150,,,,,,,"273, TM",IS,D,3028,
+InfantryArchaicBlackjackWeapon,megamek.common.weapons.infantry.archaic,infantry,Club (Blackjack/Sap),,,,,,,,,,,,,,,.001,,0.05,5,,,,,,,"272, TM",ALL,A,1950,1950
+InfantryArchaicImprovisedClubWeapon,megamek.common.weapons.infantry.archaic,infantry,Club (Club/Improvised),,,,,,,,,,,,,,,.002,,0.02,0,,,,,,,"272, TM",ALL,A,1950,1950
+InfantryArchaicVibroMaceWeapon,megamek.common.weapons.infantry.archaic,infantry,Club (Vibro-Mace),,,,,,,,,,,,,,,.004,,0.24,300,,,,,,,"272, TM",IS,E,3000,
+InfantryArchaicYumiBowWeapon,megamek.common.weapons.infantry.archaic,infantry,Compound Yumi (Bow) (Unofficial),,,,,,,,,,,,,,,.001,,0.01,30,,,,,,,"272, TM",ALL,C,1950,1950
+InfantryArchaicBasicCrossbowWeapon,megamek.common.weapons.infantry.archaic,infantry,Crossbow (Basic/Heavy),,,,,,,,,,,,,,,.002,,0.01,10,,,,,,,"272, TM",ALL,A,1950,1950
+InfantryArchaicHeavyCrossbowWeapon,megamek.common.weapons.infantry.archaic,infantry,Crossbow (Heavy)(Unofficial),,,,,,,,,,,,,,,.004,,0.02,20,,,,,,,"272, TM",ALL,A,1950,1950
+InfantryPistolDartGunWeapon,megamek.common.weapons.infantry.pistol,infantry,Dart Gun,,,,,,,,,,,,,,,.00065,,0.01,40,,,,,,,"273, TM",ALL,C,1950,1950
+InfantryRifleElephantGunWeapon,megamek.common.weapons.infantry.rifle,infantry,Elephant Gun,,,,,,,,,,,,,,,.005,,0.34,100,,,,,,,"273, TM",ALL,B,1950,1950
+InfantrySupportHeavyFlamerWeapon,megamek.common.weapons.infantry.support.heavy,infantry,Flamer (Heavy),,,,,,,,,,,,,,,.025,,0.72,200,,,,,,,"273, TM",ALL,C,2100,2100
+InfantrySupportPortableFlamerWeapon,megamek.common.weapons.infantry.support,infantry,Flamer (Man-Portable),,,,,,,,,,,,,,,.015,,0.50,100,,,,,,,"273, TM",ALL,C,,
+InfantryPistolFlarePistolWeapon,megamek.common.weapons.infantry.pistol,infantry,Flare Pistol,,,,,,,,,,,,,,,.0004,,0.08,25,,,,,,,"273, TM",ALL,C,1950,1950
+InfantrySupportGrandMaulerGaussCannonWeapon,megamek.common.weapons.infantry.support.gauss,infantry,Gauss Cannon (Grand Mauler),,,,,,,,,,,,,,,.014,,3.22,5000,,,,,,,"273, TM",IS,E,3055,
+InfantryPistolMandrakeGaussPistolWeapon,megamek.common.weapons.infantry.pistol,infantry,Gauss Pistol (Mandrake Hold-Out),,,,,,,,,,,,,,,.0001,,0.02,750,,,,,,,"273, TM",IS,E,3050,
+InfantryPistolClanGaussPistolWeapon,megamek.common.weapons.infantry.pistol,infantry,Gauss Pistol [Clan],,,,,,,,,,,,,,,.001,,0.13,1500,,,,,,,"273, TM",CLAN,F,,2845
+InfantrySupportGungnirHeavyGaussWeapon,megamek.common.weapons.infantry.support.gauss,infantry,Gauss Rifle (Gungnir Heavy Support),,,,,,,,,,,,,,,0.006,,0.0,15000,,,,,,,"176, AToW-C",IS,E,3074,
+InfantrySupportMagshotGaussRifleWeapon,megamek.common.weapons.infantry.support,infantry,Gauss Rifle (Magshot),,,,,,,,,,,,,,,.045,,3.78,8500,,,,,,,"273, TM",IS,E,3058,
+InfantryRifleThunderstrokeIIWeapon,megamek.common.weapons.infantry.rifle,infantry,Gauss Rifle (Thunderstroke II),,,,,,,,,,,,,,,.0065,,2.71,3500,,,,,,,"273, TM",IS,E,3058,
+InfantryRifleThunderstrokeWeapon,megamek.common.weapons.infantry.rifle,infantry,Gauss Rifle (Thunderstroke),,,,,,,,,,,,,,,.007,,0.79,2500,,,,,,,"273, TM",IS,E,3055,
+InfantrySupportTsunamiHeavyGaussRifleWeapon,megamek.common.weapons.infantry.support,infantry,Gauss Rifle (Tsunami Heavy),,,,,,,,,,,,,,,.0125,,3.22,5500,,,,,,,"273, TM",IS,E,3053,
+InfantrySupportDavidLightGaussRifleWeapon,megamek.common.weapons.infantry.support.gauss,infantry,"Gauss Rifle, Light (David)",,,,1,,0,3,6,9,12,,,,,.018,,4.01,6000,,,,,,,"273, TM",IS,E,3060,
+InfantrySupportKingDavidLightGaussRifleWeapon,megamek.common.weapons.infantry.support.gauss,infantry,"Gauss Rifle, Light (King David)",,,,,,,,,,,,,,,.03,,4.87,8000,,,,,,,"273, TM",IS,E,3060,
+InfantrySMGClanGaussWeapon,megamek.common.weapons.infantry.smg,infantry,Gauss Submachine Gun,,,,,,,,,,,,,,,.0045,,1.38,2000,,,,,,,"273, TM",CLAN,E,,3051
+InfantryShotgunBuccaneerGelGunWeapon,megamek.common.weapons.infantry.shotgun,infantry,Gel Gun (Buccaneer),,,,,,,,,,,,,,,.0025,,0.06,200,,,,,,,"269, ATOW",IS,C,3030,
+InfantryGrenadeInfernoWeapon,megamek.common.weapons.infantry.grenade,infantry,Grenade (Inferno),InfantryGrenadeInferno,,,,,,,,,,,,,,.0006,,0.17,16,,,,,,,"272, TM",ALL,C,1950,1950
+InfantryGrenadeMicroWeapon,megamek.common.weapons.infantry.grenade,infantry,Grenade (Micro),,,,,,,,,,,,,,,.0002,,0.15,2,,,,,,,"272, TM",ALL,C,1950,1950
+InfantryGrenadeMiniInfernoWeapon,megamek.common.weapons.infantry.grenade,infantry,Grenade (Mini) (Inferno),InfantryMiniGrenadeInferno,,,,,,,,,,,,,,.00045,,0.10,8,,,,,,,"272, TM",ALL,C,1950,1950
+InfantryGrenadeMiniWeapon,megamek.common.weapons.infantry.grenade,infantry,Grenade (Mini) (Non-Inferno),InfantryMiniGrenade,,,,,,,,,,,,,,.00045,,0.25,8,,,,,,,"272, TM",ALL,C,1950,1950
+InfantryGrenadeStandardWeapon,megamek.common.weapons.infantry.grenade,infantry,Grenade (Non-Inferno),InfantryGrenade,,,,,,,,,,,,,,.0006,,0.44,16,,,,,,,"273, TM",ALL,C,1950,1950
+InfantryGrenadeRAGWeapon,megamek.common.weapons.infantry.grenade,infantry,Grenade (Rocket-Assisted),,,,,,,,,,,,,,,.0006,,0.92,50,,,,,,,"273, TM",IS,C,3062,
+InfantrySupportGrenadeLauncherWeapon,megamek.common.weapons.infantry.support.grenadeLauncher,infantry,Grenade Launcher,,,,,,,,,,,,,,,.005,,2.48,465,,,,,,,"273, TM",ALL,C,1950,1950
+InfantrySupportGrenadeLauncherAutoWeapon,megamek.common.weapons.infantry.support.grenadeLauncher,infantry,Grenade Launcher (Auto),InfantryAutoGL,,,,,,,,,,,,,,.012,,4.55,975,,,,,,,"273, TM",ALL,C,2100,2100
+InfantrySupportGrenadeLauncherAutoInfernoWeapon,megamek.common.weapons.infantry.support.grenadeLauncher,infantry,Grenade Launcher (Auto) - Inferno,InfantryAutoGLInferno,,,,,,,,,,,,,,.012,,1.25,975,,,,,,,"273, TM",ALL,C,2100,2100
+InfantrySupportGrenadeLauncherCompactWeapon,megamek.common.weapons.infantry.support.grenadeLauncher,infantry,Grenade Launcher (Compact),,,,,,,,,,,,,,,.003,,0.49,290,,,,,,,"273, TM",ALL,C,2100,2100
+InfantrySupportGrenadeLauncherHeavyAutoWeapon,megamek.common.weapons.infantry.support.grenadeLauncher,infantry,Grenade Launcher (Heavy Auto),InfantryHeavyAutoGrenadeLauncher,,,,,,,,,,,,,,.020,,5.90,4500,,,,,,,"273, TM",CLAN,D,,2896
+InfantrySupportGrenadeLauncherHeavyAutoInfernoWeapon,megamek.common.weapons.infantry.support.grenadeLauncher,infantry,Grenade Launcher (Heavy Auto) w/Inferno,InfantryHeavyAutoGrenadeLauncherInferno,,,,,,,,,,,,,,.020,,2.93,4500,,,,,,,"273, TM",CLAN,D,,2896
+InfantrySupportHeavyGrenadeLauncherWeapon,megamek.common.weapons.infantry.support.heavy,infantry,Grenade Launcher (Heavy),InfantryHeavyGrenadeLauncher,,,,,,,,,,,,,,.018,,5.38,1500,,,,,,,"273, TM",IS,C,3049,
+InfantrySupportHeavyGrenadeLauncherInfernoWeapon,megamek.common.weapons.infantry.support.heavy,infantry,Grenade Launcher (Heavy) w/Inferno,InfantryHeavyGrenadeLauncherInferno,,,,,,,,,,,,,,.018,,2.11,1500,,,,,,,"273, TM",IS,C,3049,
+InfantrySupportGrenadeLauncherInfernoWeapon,megamek.common.weapons.infantry.support.grenadeLauncher,infantry,Grenade Launcher - Inferno,InfantryGrenadeLauncherInferno,,,,,,,,,,,,,,.005,,1.04,465,,,,,,,"273, TM",ALL,C,1950,1950
+InfantryRifleHeavyGyrojetGunWeapon,megamek.common.weapons.infantry.rifle,infantry,Gyrojet Gun (Heavy),,,,,,,,,,,,,,,.010,,1.07,2500,,,,,,,"273, TM",ALL,D,2585,2585
+InfantryPistolGyrojetPistolWeapon,megamek.common.weapons.infantry.pistol,infantry,Gyrojet Pistol,,,,,,,,,,,,,,,.0025,,0.04,450,,,,,,,"273, TM",ALL,D,2620,2620
+InfantryPistolCoventryHandrocketGyrojetPistolWeapon,megamek.common.weapons.infantry.pistol,infantry,Gyrojet Pistol (Coventry Handrocket),,,,,,,,,,,,,,,.0031,,0.43,250,,,,,,,"273, TM",IS,D,3050,
+InfantryPistolHoldOutGyroJetPistolWeapon,megamek.common.weapons.infantry.pistol,infantry,Gyrojet Pistol (Hold-Out),,,,,,,,,,,,,,,.00005,,0.04,30,,,,,,,"273, TM",ALL,D,2100,2100
+InfantryRifleGyrojetRifleWeapon,megamek.common.weapons.infantry.rifle,infantry,Gyrojet Rifle,,,,,,,,,,,,,,,.007,,1.07,1000,,,,,,,"273, TM",ALL,D,2535,2535
+InfantryRifleGyroslugCarbineWeapon,megamek.common.weapons.infantry.rifle,infantry,Gyroslug Carbine,,,,,,,,,,,,,,,.004,,0.86,800,,,,,,,"273, TM",ALL,D,2570,2570
+InfantryRifleStarKingGyroslugCarbineWeapon,megamek.common.weapons.infantry.rifle,infantry,Gyroslug Carbine (Star King),,,,,,,,,,,,,,,.008,,1.07,950,,,,,,,"273, TM",IS,D,2775,
+InfantryRifleGyroslugRifleWeapon,megamek.common.weapons.infantry.rifle,infantry,Gyroslug Rifle,,,,,,,,,,,,,,,.008,,1.07,1000,,,,,,,"273, TM",ALL,D,2520,2520
+InfantryArchaicKatanaWeapon,megamek.common.weapons.infantry.archaic,infantry,Katana (Unofficial),,,,,,,,,,,,,,,.0025,,0.06,250,,,,,,,"272, TM",ALL,A,1950,1950
+InfantrySupportLRMWeapon,megamek.common.weapons.infantry.support,infantry,LRM Launcher (Corean Farshot),InfantryLRM,,,,,,,,,,,,,,.03,,3.44,2000,,,,,,,"273, TM",IS,D,3055,
+InfantrySupportLRMInfernoWeapon,megamek.common.weapons.infantry.support,infantry,LRM Launcher (Corean Farshot) w/Inferno,InfantryLRMInferno,,,,,,,,,,,,,,.03,,1.36,2000,,,,,,,"273, TM",IS,D,3055,
+InfantrySupportHellboreAssaultLaserWeapon,megamek.common.weapons.infantry.support.laser,infantry,Laser (Hellbore Assault),,,,,,,,,,,,,,,.020,,3.22,2500,,,,,,,"273, TM",IS,E,3054,
+InfantryLaserCarbineBrightStarL15,megamek.common.weapons.infantry.laser,infantry,Laser Carbine (BrightStar L-15),,,,,,,,,,,,,,,0.0018,,0.2625,2500,,,,,,,Shrapnel #9,CLAN,E,,
+InfantryPistolLaserPistolWeapon,megamek.common.weapons.infantry.pistol,infantry,Laser Pistol,,,,,,,,,,,,,,,.001,,0.64,750,,,,,,,"273, TM",ALL,D,2100,2100
+InfantryLaserPistolAA75L,megamek.common.weapons.infantry.laser.pistol,infantry,Laser Pistol (AA-75L),,,,,,,,,,,,,,,0.0001,,0.021,1500,,,,,,,Shrapnel #9,IS,D,,
+InfantryLaserPistolAWAWilibyMk4LaserPistol,megamek.common.weapons.infantry.laser.pistol,infantry,Laser Pistol (AWA Wiliby MK4 LASER PISTOL),,,,,,,,,,,,,,,0.0018,,0.028,1500,,,,,,,Shrapnel #9,IS,D,,
+InfantryLaserPistolBR25,megamek.common.weapons.infantry.laser.pistol,infantry,Laser Pistol (BR-25),,,,,,,,,,,,,,,0.0013,,0.01575,950,,,,,,,Shrapnel #9,IS,D,,
+InfantryPistolBlazerPistolWeapon,megamek.common.weapons.infantry.pistol,infantry,Laser Pistol (Blazer),,,,,,,,,,,,,,,.002,,0.79,3000,,,,,,,"273, TM",IS,D,2100,
+InfantryLaserPistolBrightStarL12,megamek.common.weapons.infantry.laser.pistol,infantry,Laser Pistol (BrightStar L-12),,,,,,,,,,,,,,,0.0012,,0.056,1100,,,,,,,Shrapnel #9,CLAN,E,,
+InfantryLaserPistolBrightStarL15,megamek.common.weapons.infantry.laser.pistol,infantry,Laser Pistol (BrightStar L-15),,,,,,,,,,,,,,,0.0014,,0.056,1750,,,,,,,Shrapnel #9,CLAN,E,,
+InfantryLaserPistolBrightStarL7,megamek.common.weapons.infantry.laser.pistol,infantry,Laser Pistol (BrightStar L-7),,,,,,,,,,,,,,,0.0011,,0.021,950,,,,,,,Shrapnel #9,IS,E,,
+InfantryLaserPistolDarklightIVLaserPistol,megamek.common.weapons.infantry.laser.pistol,infantry,Laser Pistol (Darklight IV),,,,,,,,,,,,,,,0.0012,,0.021,1200,,,,,,,Shrapnel #9,IS,E,,
+InfantryPistolClanERLaserPistolWeapon,megamek.common.weapons.infantry.pistol,infantry,Laser Pistol (ER),,,,,,,,,,,,,,,.001,,0.61,1000,,,,,,,"273, TM",CLAN,F,,2833
+InfantryPistolWhiteDwarfLaserPistolWeapon,megamek.common.weapons.infantry.pistol,infantry,Laser Pistol (Hold-Out [White Dwarf]),,,,,,,,,,,,,,,.00025,,0.02,250,,,,,,,"273, TM",IS,D,3056,
+InfantryPistolHoldOutLaserPistolWeapon,megamek.common.weapons.infantry.pistol,infantry,Laser Pistol (Hold-Out),,,,,,,,,,,,,,,.00005,,0.13,100,,,,,,,"273, TM",ALL,D,2318,2318
+InfantryLaserPistolKelvin000Lancer3MM,megamek.common.weapons.infantry.laser.pistol,infantry,Laser Pistol (Kelvin 000 Lancer 3-MM),,,,,,,,,,,,,,,0.0016,,0.01575,1250,,,,,,,Shrapnel #9,IS,D,,
+InfantryPistolNakjimaLaserPistolWeapon,megamek.common.weapons.infantry.pistol,infantry,Laser Pistol (Nakjima),,,,,,,,,,,,,,,.001,,0.55,750,,,,,,,"273, TM",IS,D,2875,
+InfantryPistolSunbeamNovaLaserPistolWeapon,megamek.common.weapons.infantry.pistol,infantry,Laser Pistol (Sunbeam Nova),,,,,,,,,,,,,,,.0015,,0.24,1250,,,,,,,"273, TM",IS,D,3050,
+InfantryPistolSunbeamLaserPistolWeapon,megamek.common.weapons.infantry.pistol,infantry,Laser Pistol (Sunbeam),,,,,,,,,,,,,,,.001,,0.86,750,,,,,,,"273, TM",IS,D,3015,
+InfantryLaserPistolXingShan,megamek.common.weapons.infantry.laser.pistol,infantry,Laser Pistol (Xing Shan),,,,,,,,,,,,,,,0.0014,,0.056,795,,,,,,,Shrapnel #9,IS,E,,
+InfantryLaserPistolXingShanER,megamek.common.weapons.infantry.laser.pistol,infantry,Laser Pistol (Xīng Shan ER),,,,,,,,,,,,,,,0.0016,,0.21,830,,,,,,,Shrapnel #9,IS,E,,
+InfantryRifleLaserWeapon,megamek.common.weapons.infantry.rifle,infantry,Laser Rifle,,,,,,,,,,,,,,,.005,,1.43,1250,,,,,,,"273, TM",ALL,D,2100,2100
+InfantryRifleBlazerRifleWeapon,megamek.common.weapons.infantry.rifle,infantry,Laser Rifle (Blazer),,,,,,,,,,,,,,,.007,,1.79,2190,,,,,,,"273, TM",ALL,D,2100,2100
+InfantryLaserRifleDWSL5S,megamek.common.weapons.infantry.laser.rifle,infantry,Laser Rifle (DWS L5S),,,,,,,,,,,,,,,0.0065,,0.4375,2000,,,,,,,Shrapnel #9,IS,D,,
+InfantryLaserRifleDarkLightCLLight,megamek.common.weapons.infantry.laser.rifle,infantry,Laser Rifle (Darklight-CL Light),,,,,,,,,,,,,,,0.0055,,0.84,2400,,,,,,,Shrapnel #9,IS,E,,
+InfantryRifleSunbeamStarfireERLaserWeapon,megamek.common.weapons.infantry.rifle,infantry,Laser Rifle (ER [Sunbeam Starfire]),,,,,,,,,,,,,,,.005,,2.01,2500,,,,,,,"273, TM",IS,E,3050,
+InfantryRifleClanERLaserWeapon,megamek.common.weapons.infantry.rifle,infantry,Laser Rifle (ER),,,,,,,,,,,,,,,.005,,2.01,2000,,,,,,,"273, TM",CLAN,F,,2840
+InfantryRifleEbonyAssaultLaserWeapon,megamek.common.weapons.infantry.rifle,infantry,Laser Rifle (Ebony Assault),,,,,,,,,,,,,,,.010,,1.07,8500,,,,,,,"273, TM",IS,F,3056,
+InfantryRifleFederatedBarrettM61ALaserWeapon,megamek.common.weapons.infantry.rifle,infantry,Laser Rifle (Federated-Barrett M61A),InfantryFederatedBarrettM61A,,,,,,,,,,,,,,.006,,3.83,2150,,,,,,,"273, TM",IS,D,3058,
+InfantryRifleFederatedBarrettM61ALaserInfernoWeapon,megamek.common.weapons.infantry.rifle,infantry,Laser Rifle (Federated-Barrett M61A) (Inferno Grenades),InfantryFederatedBarrettM61AInferno,,,,,,,,,,,,,,.006,,1.17,2150,,,,,,,"273, TM",IS,D,3058,
+InfantryRifleIntekLaserWeapon,megamek.common.weapons.infantry.rifle,infantry,Laser Rifle (Intek),,,,,,,,,,,,,,,.005,,1.51,1250,,,,,,,"273, TM",IS,D,2875,
+InfantryRifleMagnaLaserWeapon,megamek.common.weapons.infantry.rifle,infantry,Laser Rifle (Magna),,,,,,,,,,,,,,,.006,,1.33,1500,,,,,,,"273, TM",ALL,D,2460,2460
+InfantryRifleMarxXXLaserWeapon,megamek.common.weapons.infantry.rifle,infantry,Laser Rifle (Marx XX),,,,,,,,,,,,,,,.006,,1.86,1750,,,,,,,"273, TM",ALL,D,2685,2685
+InfantryRifleMauser1200LSSWeapon,megamek.common.weapons.infantry.rifle,infantry,Laser Rifle (Mauser 1200 LSS),,,,,,,,,,,,,,,.011,,5.32,10000,,,,,,,"273, TM",IS,E,3052,
+InfantryRifleMauser960LaserWeapon,megamek.common.weapons.infantry.rifle,infantry,Laser Rifle (Mauser 960),,,,,,,,,,,,,,,.0108,,4.75,8000,,,,,,,"273, TM",ALL,E,2698,2698
+InfantryRifleClanMauserIICIASWeapon,megamek.common.weapons.infantry.rifle,infantry,Laser Rifle (Mauser IIC IAS),,,,,,,,,,,,,,,0.0012,,9.82,18000,,,,,,,"273, TM",CLAN,F,,3013
+InfantryRifleClanMauserIICIASInfernoWeapon,megamek.common.weapons.infantry.rifle,infantry,Laser Rifle (Mauser IIC IAS) (Inferno Grenades),,,,,,,,,,,,,,,0.0012,,6.45,18000,,,,,,,"273, TM",CLAN,F,,3013
+InfantryRifleMaxellPL10LaserWeapon,megamek.common.weapons.infantry.rifle,infantry,Laser Rifle (Maxell PL-10),,,,,,,,,,,,,,,.0065,,1.33,2000,,,,,,,"273, TM",IS,D,3057,
+InfantryLaserRifleSyrtisFirebolt12Repaired,megamek.common.weapons.infantry.laser.rifle,infantry,Laser Rifle (Syrtis Firebolt-12) (Repaired),,,,,,,,,,,,,,,0.0067,,0.196,2500,,,,,,,Shrapnel #9,IS,D,,
+InfantryLaserRifleSyrtisFirebolt12Unrepaired,megamek.common.weapons.infantry.laser.rifle,infantry,Laser Rifle (Syrtis Firebolt-12) (Unrepaired),,,,,,,,,,,,,,,0.0065,,0.525,2200,,,,,,,Shrapnel #9,IS,D,,
+InfantryLaserRifleWolfBaronSunraker,megamek.common.weapons.infantry.laser.rifle,infantry,Laser Rifle (Wolf-Barron Sunraker),,,,,,,,,,,,,,,0.0067,,1.225,2500,,,,,,,Shrapnel #9,IS,D,,
+InfantryLaserRifleYangLie,megamek.common.weapons.infantry.laser.rifle,infantry,Laser Rifle (Yang Lie),,,,,,,,,,,,,,,0.0055,,0.525,1275,,,,,,,Shrapnel #9,IS,E,,
+InfantryLaserSniperRifleDWSL5L,megamek.common.weapons.infantry.laser,infantry,Laser Sniper Rifle (DWS L5L),,,,,,,,,,,,,,,0.0075,,1.225,2500,,,,,,,Shrapnel #9,IS,D,,
+InfantrySupportOneShotMRMWeapon,megamek.common.weapons.infantry.support,infantry,MRM Launcher,InfantryOneShotMRM,,,,,,,,,,,,,,.03,,2.71,2500,,,,,,,"273, TM",IS,D,3063,
+InfantrySupportOneShotMRMInfernoWeapon,megamek.common.weapons.infantry.support,infantry,MRM Launcher w/Inferno,InfantryOneShotMRMInferno,,,,,,,,,,,,,,.03,,1.33,2500,,,,,,,"273, TM",IS,D,3063,
+InfantrySupportMGLightWeapon,megamek.common.weapons.infantry.support.mg,infantry,Machine Gun (Light),,,,,,,,,,,,,,,.007,,1.50,400,,,,,,,"273, TM",ALL,C,1950,1950
+InfantrySupportMGPortableWeapon,megamek.common.weapons.infantry.support.mg,infantry,Machine Gun (Portable),,,,1,,0,1,2,3,4,,,,,.0115,,1.99,1000,,,,,,,"273, TM",ALL,C,1950,1950
+InfantrySupportMGSemiPortableWeapon,megamek.common.weapons.infantry.support.mg,infantry,Machine Gun (Semi-Portable),,,,,,,,,,,,,,,.020,,2.29,1000,,,,,,,"273, TM",ALL,C,1950,1950
+InfantrySupportMGSupportWeapon,megamek.common.weapons.infantry.support.mg,infantry,Machine Gun (Support),,,,1,,0,2,4,6,8,,,,,.044,,4.80,1750,,,,,,,"273, TM",ALL,C,1950,1950
+InfantrySupportMGVintageWeapon,megamek.common.weapons.infantry.support.mg,infantry,Machine Gun (Vintage),,,,,,,,,,,,,,,.011,,0.0,6000,,,,,,,"195, AToW-C",ALL,C,1950,1950
+InfantryPistolSMGGHTSpec7aWeapon,megamek.common.weapons.infantry.pistol,infantry,Machine Pistol (H-T Spec-7a),,,,,,,,,,,,,,,.0012,,0.23,190,,,,,,,"176,HBHK",IS,D,,
+InfantryPistolMartialEagleMachinePistolWeapon,megamek.common.weapons.infantry.pistol,infantry,Machine Pistol (Martial Eagle),,,,,,,,,,,,,,,.001,,0.23,180,,,,,,,"273, TM",IS,D,3040,
+InfantrySupportMagPulseHarpoonWeapon,megamek.common.weapons.infantry.support,infantry,Mag-Pulse Harpoon Gun,,,,,,,,,,,,,,,.095,,1.47,12000,,,,,,,"176, AToW-C",IS,E,3070,
+InfantrySupportMortarHeavyWeapon,megamek.common.weapons.infantry.support.mortar,infantry,Mortar (Heavy),InfantryHeavyMortar,,,,,,,,,,,,,,.220,,4.09,5000,,,,,,,"273, TM",ALL,B,1950,1950
+InfantrySupportMortarHeavyInfernoWeapon,megamek.common.weapons.infantry.support.mortar,infantry,Mortar (Heavy) - Inferno,InfantryHeavyMortarInferno,,,,,,,,,,,,,,.220,,2.44,5000,,,,,,,"273, TM",ALL,B,1950,1950
+InfantrySupportMortarLightWeapon,megamek.common.weapons.infantry.support.mortar,infantry,Mortar (Light),InfantryLightMortar,,,,,,,,,,,,,,.050,,1.62,1400,,,,,,,"273, TM",ALL,B,1950,1950
+InfantrySupportMortarLightInfernoWeapon,megamek.common.weapons.infantry.support.mortar,infantry,Mortar (Light) - Inferno,InfantryLightMortarInferno,,,,,,,,,,,,,,.050,,0.79,1400,,,,,,,"273, TM",ALL,B,1950,1950
+InfantryPistolNeedlerPistolWeapon,megamek.common.weapons.infantry.pistol,infantry,Needler Pistol,,,,,,,,,,,,,,,.0003,,0.21,50,,,,,,,"273, TM",ALL,D,1950,1950
+InfantryPistolHoldOutNeedlerPistolWeapon,megamek.common.weapons.infantry.pistol,infantry,Needler Pistol (Hold-Out),,,,,,,,,,,,,,,.00005,,0.10,20,,,,,,,"273, TM",ALL,D,2510,2510
+InfantryPistolMauserNeedlerPistolWeapon,megamek.common.weapons.infantry.pistol,infantry,Needler Pistol (M&G Flechette),,,,,,,,,,,,,,,.0005,,0.10,100,,,,,,,"273, TM",ALL,D,2350,2350
+InfantryPistolSeaEagleNeedlerPistolWeapon,megamek.common.weapons.infantry.pistol,infantry,Needler Pistol (Sea Eagle),,,,,,,,,,,,,,,.00035,,0.10,110,,,,,,,"273, TM",IS,D,3030,
+InfantryRifleNeedlerWeapon,megamek.common.weapons.infantry.rifle,infantry,Needler Rifle,,,,,,,,,,,,,,,.001,,0.21,75,,,,,,,"273, TM",ALL,D,2100,2100
+InfantryRifleMGFlechetteNeedlerWeapon,megamek.common.weapons.infantry.rifle,infantry,Needler Rifle (M&G Flechette),,,,,,,,,,,,,,,.0015,,0.10,200,,,,,,,"273, TM",ALL,D,2320,2320
+InfantryRifleShredderHeavyNeedlerWeapon,megamek.common.weapons.infantry.rifle,infantry,Needler Rifle (Shredder Heavy),,,,,,,,,,,,,,,.001,,0.31,150,,,,,,,"273, TM",IS,D,3051,
+InfantrySupportFiredrakeNeedlerWeapon,megamek.common.weapons.infantry.support,infantry,"Needler, Support (Firedrake)",,,,,,,,,,,,,,,.025,,6.13,500,,,,,,,"273, TM",IS,D,3058,
+InfantryPistolPaintGunPistolWeapon,megamek.common.weapons.infantry.pistol,infantry,Paint Gun (LGB-46R),,,,,,,,,,,,,,,.0018,,0,50,,,,,,,"273, TM",ALL,C,1950,1950
+InfantrySupportSemiPortablePPCWeapon,megamek.common.weapons.infantry.support,infantry,Particle Cannon (Semi-Portable),,,,,,,,,,,,,,,.040,,3.68,7000,,,,,,,"273, TM",ALL,E,2430,2430
+InfantrySupportHeavyPPCWeapon,megamek.common.weapons.infantry.support.heavy,infantry,Particle Cannon (Support),,,,,,,,,,,,,,,1.800,,11.32,45000,,,,,,,"273, TM",ALL,E,2465,2465
+InfantryPistolAAGemini,megamek.common.weapons.infantry.pistol,infantry,Pistol (AA Gemini),,,,,,,,,,,,,,,0.0015,,0.28,400,,,,,,,Shrapnel #3,IS,D,,
+InfantryPistolAlamo17,megamek.common.weapons.infantry.pistol,infantry,Pistol (Alamo-17),,,,,,,,,,,,,,,0.001,,0.28,250,,,,,,,Shrapnel #3,IS,C,,
+InfantryPistolCamdenHR7,megamek.common.weapons.infantry.pistol,infantry,Pistol (Camden HR-7),,,,,,,,,,,,,,,0.0025,,0.44,650,,,,,,,Shrapnel #3,IS,C,,
+InfantryPistolDreamelDerringer,megamek.common.weapons.infantry.pistol,infantry,Pistol (Dreamel J-4 Derringer),,,,,,,,,,,,,,,0.0002,,0.042,60,,,,,,,Shrapnel #3,IS,C,,
+InfantryPistolFlamerPistolWeapon,megamek.common.weapons.infantry.pistol,infantry,Pistol (Flamer),,,,,,,,,,,,,,,.0012,,0.31,50,,,,,,,"273, TM",ALL,C,2100,2100
+InfantryPistolHCKP14,megamek.common.weapons.infantry.pistol,infantry,Pistol (HCK P-14),,,,,,,,,,,,,,,0.0012,,0.056,130,,,,,,,Shrapnel #3,IS,C,,
+InfantryPistolHoldOutPistolWeapon,megamek.common.weapons.infantry.pistol,infantry,Pistol (Hold-Out),,,,,,,,,,,,,,,.0002,,0.03,20,,,,,,,"273, TM",ALL,D,1950,1950
+InfantryPistolLemisonCombatRevolver,megamek.common.weapons.infantry.pistol,infantry,Pistol (Lemison Combat Revolver),,,,,,,,,,,,,,,0.0016,,0.28,120,,,,,,,Shrapnel #3,IS,C,,
+InfantryPistolMPH45,megamek.common.weapons.infantry.pistol,infantry,Pistol (MPH-45),,,,,,,,,,,,,,,0.001,,0.7,500,,,,,,,Shrapnel #3,IS,D,,
+InfantryPistolMakeshiftPistolWeapon,megamek.common.weapons.infantry.pistol,infantry,Pistol (Makeshift),,,,,,,,,,,,,,,.001,,0.02,15,,,,,,,"273, TM",ALL,B,1950,1950
+InfantryPistolMomoDeBaoyingSpecial,megamek.common.weapons.infantry.pistol,infantry,Pistol (Momo De Baoying (Special)),,,,,,,,,,,,,,,0.0011,,1.05,275,,,,,,,Shrapnel #3,IS,D,,
+InfantryPistolMomoDeBaoyingStandard,megamek.common.weapons.infantry.pistol,infantry,Pistol (Momo De Baoying (Standard)),,,,,,,,,,,,,,,0.0011,,.42,275,,,,,,,Shrapnel #3,IS,D,,
+InfantryPistolNambu380,megamek.common.weapons.infantry.pistol,infantry,Pistol (Nambu 380),,,,,,,,,,,,,,,0.00095,,0.21,350,,,,,,,Shrapnel #3,IS,C,,
+InfantryPistolNambu480,megamek.common.weapons.infantry.pistol,infantry,Pistol (Nambu 480),,,,,,,,,,,,,,,0.0008,,0.21,350,,,,,,,Shrapnel #3,IS,C,,
+InfantryPistolRFWGalahad,megamek.common.weapons.infantry.pistol,infantry,Pistol (RFW Galahad),,,,,,,,,,,,,,,0.0021,,0.315,200,,,,,,,Shrapnel #3,IS,D,,
+InfantryPistolSerrek7994SF,megamek.common.weapons.infantry.pistol,infantry,Pistol (Serrek 7994 SF),,,,,,,,,,,,,,,0.0011,,.202,400,,,,,,,Shrapnel #3,IS,C,,
+InfantryPistolSerrek7994,megamek.common.weapons.infantry.pistol,infantry,Pistol (Serrek 7994),,,,,,,,,,,,,,,0.0009,,0.202,300,,,,,,,Shrapnel #3,IS,C,,
+InfantryPistolSpitballGasPistolWeapon,megamek.common.weapons.infantry.pistol,infantry,Pistol (Spitball Gas Weapon),,,,,,,,,,,,,,,.001,,0,6,,,,,,,"273, TM",IS,C,3056,
+InfantryPistolSternsnachtPistolWeapon,megamek.common.weapons.infantry.pistol,infantry,Pistol (Sternsnacht Heavy [Claymore]),,,,,,,,,,,,,,,.0025,,0.08,200,,,,,,,"273, TM",IS,C,2882,
+InfantryPistolSturmEagleMK4M,megamek.common.weapons.infantry.pistol,infantry,Pistol (Sturm Eagle Mk4M),,,,,,,,,,,,,,,0.0012,,.28,120,,,,,,,Shrapnel #3,IS,C,,
+InfantryPistolSturmEagleMK4P,megamek.common.weapons.infantry.pistol,infantry,Pistol (Sturm Eagle Mk4P),,,,,,,,,,,,,,,0.0013,,.28,145,,,,,,,Shrapnel #3,IS,C,,
+InfantryPistolTKEnforcerAutoPistolWeapon,megamek.common.weapons.infantry.pistol,infantry,Pistol (TK Enforcer Semi-Auto),,,,,,,,,,,,,,,.0016,,0.18,110,,,,,,,"273, TM",IS,C,3055,
+InfantryPistolType74DPistol,megamek.common.weapons.infantry.pistol,infantry,Pistol (Type 74D Pistol),,,,,,,,,,,,,,,0.0007,,.28,140,,,,,,,Shrapnel #3,IS,D,,
+InfantryPistolType74PPistol,megamek.common.weapons.infantry.pistol,infantry,Pistol (Type 74P Pistol),,,,,,,,,,,,,,,0.0008,,.28,150,,,,,,,Shrapnel #3,IS,D,,
+InfantryPistolWhisper4Standard,megamek.common.weapons.infantry.pistol,infantry,Pistol (Whisper-4 (Standard Rounds)),,,,,,,,,,,,,,,0.0012,,.42,650,,,,,,,Shrapnel #3,IS,D,,
+InfantryPistolWhisper4Subsonic,megamek.common.weapons.infantry.pistol,infantry,Pistol (Whisper-4 (Sub-Sonic)),,,,,,,,,,,,,,,0.0012,,.0945,650,,,,,,,Shrapnel #3,IS,D,,
+InfantryPistolWolfM30,megamek.common.weapons.infantry.pistol,infantry,Pistol (Wolf M30),,,,,,,,,,,,,,,0.00095,,.35,250,,,,,,,Shrapnel #3,IS,C,,
+InfantryPistolYaNjingshe,megamek.common.weapons.infantry.pistol,infantry,Pistol (Ya Njingshe),,,,,,,,,,,,,,,0.001,,.35,300,,,,,,,Shrapnel #3,IS,D,,
+InfantrySupportPortablePlasmaWeapon,megamek.common.weapons.infantry.support,infantry,Plasma Rifle (Man-Portable),,,,,,,,,,,,,,,.030,,8.08,7500,,,,,,,"273, TM",IS,E,3063,
+InfantryProstheticBallisticWeapon,megamek.common.weapons.infantry.prosthetic,infantry,Prosthetic Ballistic,,,,,,,,,,,,,,,,,0.0,500,,,,,,,"78, IO:AE",ALL,E,,
+InfantryProstheticBladeWeapon,megamek.common.weapons.infantry.prosthetic,infantry,Prosthetic Blade,,,,,,,,,,,,,,,,,0.0,400,,,,,,,"78, IO:AE",ALL,E,,
+InfantryProstheticClimbingClawsWeapon,megamek.common.weapons.infantry.prosthetic,infantry,Prosthetic Climbing Claws,,,,,,,,,,,,,,,,,0.02,1000,,,,,,,"78, IO:AE",ALL,E,,
+InfantryProstheticDartGunWeapon,megamek.common.weapons.infantry.prosthetic,infantry,Prosthetic Dart Gun,,,,,,,,,,,,,,,,,0.0,750,,,,,,,"78, IO:AE",ALL,E,,
+InfantryProstheticLaserWeapon,megamek.common.weapons.infantry.prosthetic,infantry,Prosthetic Laser,,,,,,,,,,,,,,,,,0.0,1000,,,,,,,"78, IO:AE",ALL,E,,
+InfantryProstheticNeedleWeapon,megamek.common.weapons.infantry.prosthetic,infantry,Prosthetic Needle,,,,,,,,,,,,,,,,,0.0,500,,,,,,,"78, IO:AE",ALL,E,,
+InfantryProstheticNeedlerWeapon,megamek.common.weapons.infantry.prosthetic,infantry,Prosthetic Needler,,,,,,,,,,,,,,,,,0.0,650,,,,,,,"78, IO:AE",ALL,E,2510,2510
+InfantryProstheticRumalGarroteWeapon,megamek.common.weapons.infantry.prosthetic,infantry,Prosthetic Rumal/Garrote,,,,,,,,,,,,,,,,,0.0,500,,,,,,,"84, IO",ALL,E,,
+InfantryProstheticSMGWeapon,megamek.common.weapons.infantry.prosthetic,infantry,Prosthetic SMG,,,,,,,,,,,,,,,,,0.0,600,,,,,,,"78, IO:AE",ALL,E,,
+InfantryProstheticShockerWeapon,megamek.common.weapons.infantry.prosthetic,infantry,Prosthetic Shocker,,,,,,,,,,,,,,,,,0.0,650,,,,,,,"78, IO:AE",ALL,E,,
+InfantryProstheticShotgunWeapon,megamek.common.weapons.infantry.prosthetic,infantry,Prosthetic Shotgun,,,,,,,,,,,,,,,,,0.0,600,,,,,,,"78, IO:AE",ALL,E,,
+InfantryProstheticSonicStunnerWeapon,megamek.common.weapons.infantry.prosthetic,infantry,Prosthetic Sonic Stunner,,,,,,,,,,,,,,,,,0.0,800,,,,,,,"78, IO:AE",ALL,E,2365,2365
+InfantryProstheticVibroBladeWeapon,megamek.common.weapons.infantry.prosthetic,infantry,Prosthetic Vibro Blade,,,,,,,,,,,,,,,,,0.0,1000,,,,,,,"78, IO:AE",ALL,E,2398,2398
+InfantrySupportDragonsbaneDisposablePulseLaserWeapon,megamek.common.weapons.infantry.support.laser,infantry,Pulse Laser (Dragonsbane Disposable),,,,,,,,,,,,,,,.007,,5.08,5000,,,,,,,"273, TM",IS,E,3054,
+InfantryPistolISPulseLaserPistolWeapon,megamek.common.weapons.infantry.pistol,infantry,Pulse Laser Pistol (IS),,,,,,,,,,,,,,,.001,,0.13,1000,,,,,,,"273, TM",ALL,D,,
+InfantryPulseLaserPistolMedusaIII,megamek.common.weapons.infantry.pulseLaser,infantry,Pulse Laser Pistol (Medusa III),,,,,,,,,,,,,,,0.0011,,0.0315,950,,,,,,,Shrapnel #9,IS,D,,
+InfantryPulseLaserPistolMedusaIV,megamek.common.weapons.infantry.pulseLaser,infantry,Pulse Laser Pistol (Medusa IV),,,,,,,,,,,,,,,0.0001,,0.063,1500,,,,,,,Shrapnel #9,IS,E,,
+InfantryPulseLaserPistolNWW12,megamek.common.weapons.infantry.pulseLaser,infantry,Pulse Laser Pistol (NWW-12),,,,,,,,,,,,,,,0.0009,,0.054,850,,,,,,,Shrapnel #9,IS,C,,
+InfantryPulseLaserPistolRDISunSwarmPulsar,megamek.common.weapons.infantry.pulseLaser,infantry,Pulse Laser Pistol (RDI SunSwarm Pulsar),,,,,,,,,,,,,,,0.0001,,0.054,1050,,,,,,,Shrapnel #9,IS,C,,
+InfantryPistolClanPulseLaserPistolWeapon,megamek.common.weapons.infantry.pistol,infantry,Pulse Laser Pistol [Clan],,,,,,,,,,,,,,,.001,,0.61,1500,,,,,,,"273, TM",CLAN,F,,2835
+InfantryPulseLaserRifleDWSL5C,megamek.common.weapons.infantry.pulseLaser,infantry,Pulse Laser Rifle (DWS L5C),,,,,,,,,,,,,,,0.0055,,0.252,1800,,,,,,,Shrapnel #9,IS,C,,
+InfantryPulseLaserRifleGaul,megamek.common.weapons.infantry.pulseLaser,infantry,Pulse Laser Rifle (Gaul),,,,,,,,,,,,,,,0.0075,,0.252,2200,,,,,,,Shrapnel #9,IS,D,,
+InfantryRiflePulseLaserWeapon,megamek.common.weapons.infantry.rifle,infantry,Pulse Laser Rifle (Inner Sphere),,,,,,,,,,,,,,,.005,,0.76,1000,,,,,,,"273, TM",ALL,D,2678,2678
+InfantryPulseLaserRifleTirbuni,megamek.common.weapons.infantry.pulseLaser,infantry,Pulse Laser Rifle (Tirbuni),,,,,,,,,,,,,,,0.0074,,0.9,1900,,,,,,,Shrapnel #9,IS,D,,
+InfantryRifleClanPulseLaserWeapon,megamek.common.weapons.infantry.rifle,infantry,Pulse Laser Rifle [Clan],,,,,,,,,,,,,,,.005,,1.69,3000,,,,,,,"273, TM",CLAN,F,,2833
+InfantrySupportRecoillessRifleHeavyWeapon,megamek.common.weapons.infantry.support.recoillessRifle,infantry,Recoilless Rifle (Heavy),InfantryHRR,,,,,,,,,,,,,,.060,,2.91,3000,,,,,,,"273, TM",ALL,C,1950,1950
+InfantrySupportRecoillessRifleHeavyInfernoWeapon,megamek.common.weapons.infantry.support.recoillessRifle,infantry,Recoilless Rifle (Heavy) - Inferno,InfantryHRRInferno,,,,,,,,,,,,,,.060,,1.74,3000,,,,,,,"273, TM",ALL,C,1950,1950
+InfantrySupportRecoillessRifleLightWeapon,megamek.common.weapons.infantry.support.recoillessRifle,infantry,Recoilless Rifle (Light),InfantryLRR,,,,,,,,,,,,,,.008,,2.45,300,,,,,,,"273, TM",ALL,C,1950,1950
+InfantrySupportRecoillessRifleLightInfernoWeapon,megamek.common.weapons.infantry.support.recoillessRifle,infantry,Recoilless Rifle (Light) - Inferno,InfantryLRRInferno,,,,,,,,,,,,,,.008,,0.97,300,,,,,,,"273, TM",ALL,C,1950,1950
+InfantrySupportRecoillessRifleMediumWeapon,megamek.common.weapons.infantry.support.recoillessRifle,infantry,Recoilless Rifle (Medium),InfantryMRR,,,,,,,,,,,,,,.032,,2.71,2000,,,,,,,"273, TM",ALL,C,1950,1950
+InfantrySupportRecoillessRifleMediumInfernoWeapon,megamek.common.weapons.infantry.support.recoillessRifle,infantry,Recoilless Rifle (Medium) - Inferno,InfantryMRRInferno,,,,,,,,,,,,,,.032,,1.33,2000,,,,,,,"273, TM",ALL,C,1950,1950
+InfantryPistolRevolverWeapon,megamek.common.weapons.infantry.pistol,infantry,Revolver,,,,,,,,,,,,,,,.0005,,0.16,60,,,,,,,"273, TM",ALL,B,1950,1950
+InfantryPistolMagnumRevolverWeapon,megamek.common.weapons.infantry.pistol,infantry,Revolver (Magnum),,,,,,,,,,,,,,,.0005,,0.17,60,,,,,,,"273, TM",ALL,C,1950,1950
+InfantryRifleBoltActionWeapon,megamek.common.weapons.infantry.rifle,infantry,Rifle (Bolt-Action),,,,,,,,,,,,,,,.003,,0.43,60,,,,,,,"273, TM",ALL,B,1950,1950
+InfantryRifleFederatedLongWeapon,megamek.common.weapons.infantry.rifle,infantry,Rifle (Federated Long),,,,,,,,,,,,,,,.005,,1.07,120,,,,,,,"273, TM",IS,C,2860,
+InfantryRifleFederatedBarrettM42BWeapon,megamek.common.weapons.infantry.rifle,infantry,Rifle (Federated-Barrett M42B),InfantryFederatedBarrettM42B,,,,,,,,,,,,,,.006,,3.12,1385,,,,,,,"273, TM",IS,C,3060,
+InfantryRifleFederatedBarrettM42BInfernoWeapon,megamek.common.weapons.infantry.rifle,infantry,Rifle (Federated-Barrett M42B) (Inferno Grenades),InfantryFederatedBarrettM42BInferno,,,,,,,,,,,,,,.006,,2.3,1385,,,,,,,"273, TM",IS,C,3060,
+InfantryRifleImperatorAX22AssaultWeapon,megamek.common.weapons.infantry.rifle,infantry,Rifle (Imperator AX-22 Assault),,,,,,,,,,,,,,,.0035,,1.59,200,,,,,,,"273, TM",IS,C,3052,
+InfantryRifleMauserG150Weapon,megamek.common.weapons.infantry.rifle,infantry,Rifle (M&G G-150),,,,,,,,,,,,,,,.0035,,1.64,270,,,,,,,"273, TM",IS,C,3058,
+InfantryRifleMakeshiftWeapon,megamek.common.weapons.infantry.rifle,infantry,Rifle (Makeshift),,,,,,,,,,,,,,,.006,,0.09,20,,,,,,,"273, TM",IS,B,1950,
+InfantryRifleStrikerCarbineRifleWeapon,megamek.common.weapons.infantry.rifle,infantry,Rifle (Striker Carbine),,,,1,,,,,,,,,,,.003,,.29,875,,,,,,,"HBHL, 147",IS,D,3055,
+InfantryRifleTKAssaultWeapon,megamek.common.weapons.infantry.rifle,infantry,Rifle (TK Assault),,,,,,,,,,,,,,,.0055,,1.34,150,,,,,,,"273, TM",IS,C,2865,
+InfantryRifleVintageWeapon,megamek.common.weapons.infantry.rifle,infantry,Rifle (Vintage Assault),,,,,,,,,,,,,,,0.0045,,0.0,2000,,,,,,,"195, AToW-C",ALL,C,1950,1950
+InfantryRifleZeusHeavyWeapon,megamek.common.weapons.infantry.rifle,infantry,Rifle (Zeus Heavy),,,,,,,,,,,,,,,.008,,0.67,200,,,,,,,"273, TM",ALL,C,2740,2740
+InfantrySupportRocketLauncherLAWWeapon,megamek.common.weapons.infantry.support,infantry,Rocket Launcher (LAW),,,,,,,,,,,,,,,.004,,2.71,350,,,,,,,"273, TM",ALL,C,1950,1950
+InfantrySupportRocketLauncherVLAWWeapon,megamek.common.weapons.infantry.support,infantry,Rocket Launcher (V-LAW),,,,,,,,,,,,,,,.0022,,1.47,75,,,,,,,"273, TM",ALL,C,1950,1950
+InfantrySMGAWAStarlingMk7,megamek.common.weapons.infantry.smg,infantry,SMG (AWA Starling Mk7),,,,,,,,,,,,,,,0.0029,,.33,300,,,,,,,Shrapnel #5,IS,D,,
+InfantrySMGAWAStarlingMk7LB,megamek.common.weapons.infantry.smg,infantry,SMG (AWA Starling Mk7-LB),,,,,,,,,,,,,,,0.0031,,.33,400,,,,,,,Shrapnel #5,IS,D,,
+InfantrySMGAWAStarlingMk7SF,megamek.common.weapons.infantry.smg,infantry,SMG (AWA Starling Mk7-SF),,,,,,,,,,,,,,,0.0034,,.33,600,,,,,,,Shrapnel #5,IS,D,,
+InfantrySMGBlackfieldScorpionMk65,megamek.common.weapons.infantry.smg,infantry,SMG (Blackfield Scorpion Mk 65),,,,,,,,,,,,,,,0.0014,,.202,420,,,,,,,Shrapnel #5,IS,C,,
+InfantrySMGBoudicca4,megamek.common.weapons.infantry.smg,infantry,SMG (Boudicca-4),,,,,,,,,,,,,,,0.0025,,.27,300,,,,,,,Shrapnel #5,IS,C,,
+InfantrySMGBoudicca5,megamek.common.weapons.infantry.smg,infantry,SMG (Boudicca-5),,,,,,,,,,,,,,,0.0023,,.9,500,,,,,,,Shrapnel #5,IS,C,,
+InfantrySMGBoudicca7,megamek.common.weapons.infantry.smg,infantry,SMG (Boudicca-7),,,,,,,,,,,,,,,0.0021,,1.375,700,,,,,,,Shrapnel #5,IS,C,,
+InfantrySMGDSKLargoSGA,megamek.common.weapons.infantry.smg,infantry,SMG (DSK Largo SGA),,,,,,,,,,,,,,,0.0037,,.44,600,,,,,,,Shrapnel #5,IS,C,,
+InfantrySMGDSKLargoSGB,megamek.common.weapons.infantry.smg,infantry,SMG (DSK Largo SGB),,,,,,,,,,,,,,,0.0035,,.44,700,,,,,,,Shrapnel #5,IS,C,,
+InfantrySMGGuntherMP20Weapon,megamek.common.weapons.infantry.smg,infantry,SMG (Gunther MP-20),,,,,,,,,,,,,,,.0025,,0.30,125,,,,,,,"273, TM",IS,C,3005,
+InfantrySMGHouwei,megamek.common.weapons.infantry.smg,infantry,SMG (Houwei),,,,,,,,,,,,,,,0.0035,,.36,250,,,,,,,Shrapnel #5,IS,D,,
+InfantrySMGHunkleV,megamek.common.weapons.infantry.smg,infantry,SMG (Hunkle V),,,,,,,,,,,,,,,0.0027,,1.1,600,,,,,,,Shrapnel #5,IS,C,,
+InfantrySMGImperator2894A1Weapon,megamek.common.weapons.infantry.smg,infantry,SMG (Imperator 2894A1),,,,,,,,,,,,,,,.004,,0.20,100,,,,,,,"273, TM",IS,C,2838,
+InfantrySMGJ15Hagel,megamek.common.weapons.infantry.smg,infantry,SMG (J-15 Hagel),,,,,,,,,,,,,,,0.0027,,.33,400,,,,,,,Shrapnel #5,IS,D,,
+InfantrySMGJ17Hagel,megamek.common.weapons.infantry.smg,infantry,SMG (J-17 Hagel),,,,,,,,,,,,,,,0.0023,,.55,700,,,,,,,Shrapnel #5,IS,D,,
+InfantrySMGJinseYanjingsheAPRounds,megamek.common.weapons.infantry.smg,infantry,SMG (Jinse Yanjingshe (AP Rounds)),,,,,,,,,,,,,,,0.0031,,1.26,675,,,,,,,Shrapnel #5,IS,C,,
+InfantrySMGJinseYanjingsheStandard,megamek.common.weapons.infantry.smg,infantry,SMG (Jinse Yanjingshe (Standard)),,,,,,,,,,,,,,,0.0031,,1.125,675,,,,,,,Shrapnel #5,IS,C,,
+InfantrySMGKA23Weapon,megamek.common.weapons.infantry.smg,infantry,SMG (KA-23 Submachine Gun),,,,,,,,,,,,,,,.0025,,0.20,350,,,,,,,"273, TM",IS,D,2890,
+InfantrySMGNambuTypeS124,megamek.common.weapons.infantry.smg,infantry,SMG (Nambu Type S-124),,,,,,,,,,,,,,,0.0039,,.202,450,,,,,,,Shrapnel #5,IS,C,,
+InfantrySMGRFWBedivere,megamek.common.weapons.infantry.smg,infantry,SMG (RFW Bedivere),,,,,,,,,,,,,,,0.0012,,.202,560,,,,,,,Shrapnel #5,IS,D,,
+InfantrySMGRorynexRM3XXIWeapon,megamek.common.weapons.infantry.smg,infantry,SMG (Rorynex RM-3/XXI),,,,,,,,,,,,,,,.003,,0.18,80,,,,,,,"273, TM",ALL,D,2655,2655
+InfantrySMGRuganWeapon,megamek.common.weapons.infantry.smg,infantry,SMG (Rugan),,,,,,,,,,,,,,,.0035,,0.18,100,,,,,,,"273, TM",ALL,C,2718,2718
+InfantrySMGSpartacus,megamek.common.weapons.infantry.smg,infantry,SMG (Spartacus),,,,,,,,,,,,,,,0.0028,,.44,750,,,,,,,Shrapnel #5,IS,D,,
+InfantrySMGSturmHornetMkIII,megamek.common.weapons.infantry.smg,infantry,SMG (Sturm Hornet Mk III),,,,,,,,,,,,,,,0.0034,,.27,750,,,,,,,Shrapnel #5,IS,C,,
+InfantrySMGSupekuta,megamek.common.weapons.infantry.smg,infantry,SMG (Supekuta),,,,,,,,,,,,,,,0.0025,,.33,200,,,,,,,Shrapnel #5,IS,C,,
+InfantrySMGTiberius,megamek.common.weapons.infantry.smg,infantry,SMG (Tiberius),,,,,,,,,,,,,,,0.003,,1.1,600,,,,,,,Shrapnel #5,IS,D,,
+InfantrySMGWC2,megamek.common.weapons.infantry.smg,infantry,SMG (WC-2),,,,,,,,,,,,,,,0.0023,,.202,700,,,,,,,Shrapnel #5,IS,C,,
+InfantrySMGWC6,megamek.common.weapons.infantry.smg,infantry,SMG (WC-6),,,,,,,,,,,,,,,0.0022,,.27,800,,,,,,,Shrapnel #5,CLAN,C,,
+InfantrySMGWolfBarronA7,megamek.common.weapons.infantry.smg,infantry,SMG (Wolf-Barron A7),,,,,,,,,,,,,,,0.0029,,.2475,450,,,,,,,Shrapnel #5,IS,C,,
+InfantrySupportSRMHeavyWeapon,megamek.common.weapons.infantry.support.srm,infantry,SRM Launcher (Heavy),InfantryHeavySRM,SRM Launcher D,,,,,,,,,,,,,.020,,2.91,3000,,,,,,,"273, TM",ALL,C,2366,2366
+InfantrySupportSRMHeavyInfernoWeapon,megamek.common.weapons.infantry.support.srm,infantry,SRM Launcher (Heavy) w/ Inferno,InfantryHeavySRMInferno,SRM Launcher DI,,,,,,,,,,,,,0.020,,1.74,3000,,,,,,,"273, TM",ALL,C,2366,2366
+InfantrySupportSRMLightWeapon,megamek.common.weapons.infantry.support.srm,infantry,SRM Launcher (Light),InfantrySRMLight,SRM Launcher B,,,,,,,,,,,,,.010,,2.91,1500,,,,,,,"273, TM",ALL,C,2365,2365
+InfantrySupportSRMLightInfernoWeapon,megamek.common.weapons.infantry.support.srm,infantry,SRM Launcher (Light) - Inferno,InfantrySRMLightInferno,SRM Launcher BI,,,,,,,,,,,,,.010,,1.74,1500,,,,,,,"273, TM",ALL,C,2365,2365
+InfantrySupportSRMStandardWeapon,megamek.common.weapons.infantry.support.srm,infantry,"SRM Launcher (Std, Two-Shot)",InfantryStandardSRM,SRM Launcher C,,,,,,,,,,,,,.030,,5.83,1500,,,,,,,"273, TM",ALL,C,2365,2365
+InfantrySupportSRMStandardInfernoWeapon,megamek.common.weapons.infantry.support.srm,infantry,"SRM Launcher (Std, Two-Shot) - Inferno",InfantryStandardSRMInferno,SRM Launcher CI,,,,,,,,,,,,,.030,,3.48,1500,,,,,,,"273, TM",ALL,C,2365,2365
+InfantryShotgunAMIKeymaster15,megamek.common.weapons.infantry.shotgun,infantry,Shotgun (AMI Keymaster-15),,,,,,,,,,,,,,,0.0012,,.084,250,,,,,,,Shrapnel #7,IS,C,,
+InfantryShotgunAWAAS105,megamek.common.weapons.infantry.shotgun,infantry,Shotgun (AWA AS-105),,,,,,,,,,,,,,,0.0029,,.36,350,,,,,,,Shrapnel #7,IS,D,,
+InfantryShotgunAWASS112,megamek.common.weapons.infantry.shotgun,infantry,Shotgun (AWA SS-112),,,,,,,,,,,,,,,0.0028,,.252,300,,,,,,,Shrapnel #7,IS,D,,
+InfantryShotgunAvengerCCWWeapon,megamek.common.weapons.infantry.shotgun,infantry,Shotgun (Avenger CCW),,,,,,,,,,,,,,,.0055,,0.30,345,,,,,,,"273, TM",CLAN,C,,3019
+InfantryShotgunByron15S,megamek.common.weapons.infantry.shotgun,infantry,Shotgun (Byron 15S),,,,,,,,,,,,,,,0.0035,,.675,600,,,,,,,Shrapnel #7,IS,D,,
+InfantryShotgunCWIJianhuren,megamek.common.weapons.infantry.shotgun,infantry,Shotgun (CWI Jianhuren),,,,,,,,,,,,,,,0.0027,,.054,225,,,,,,,Shrapnel #7,IS,D,,
+InfantryShotgunCombatWeapon,megamek.common.weapons.infantry.shotgun,infantry,Shotgun (Combat),,,,,,,,,,,,,,,.0045,,0.25,175,,,,,,,"273, TM",ALL,C,1950,1950
+InfantryShotgunDPS305,megamek.common.weapons.infantry.shotgun,infantry,Shotgun (DPS-305),,,,,,,,,,,,,,,0.0035,,.27,350,,,,,,,Shrapnel #7,IS,C,,
+InfantryShotgunDaystarIC,megamek.common.weapons.infantry.shotgun,infantry,Shotgun (Daystar I (C)),,,,,,,,,,,,,,,0.0028,,.202,250,,,,,,,Shrapnel #7,IS,C,,
+InfantryShotgunDaystarIM,megamek.common.weapons.infantry.shotgun,infantry,Shotgun (Daystar I (M)),,,,,,,,,,,,,,,0.0029,,.248,200,,,,,,,Shrapnel #7,IS,C,,
+InfantryShotgunDaystarIIC,megamek.common.weapons.infantry.shotgun,infantry,Shotgun (Daystar II (C)),,,,,,,,,,,,,,,0.0028,,.202,250,,,,,,,Shrapnel #7,IS,C,,
+InfantryShotgunDaystarIIM,megamek.common.weapons.infantry.shotgun,infantry,Shotgun (Daystar II (M)),,,,,,,,,,,,,,,0.0029,,.248,200,,,,,,,Shrapnel #7,IS,C,,
+InfantryShotgunDaystarIIIC,megamek.common.weapons.infantry.shotgun,infantry,Shotgun (Daystar III (C)),,,,,,,,,,,,,,,0.0026,,.36,350,,,,,,,Shrapnel #7,IS,C,,
+InfantryShotgunDaystarIIIM,megamek.common.weapons.infantry.shotgun,infantry,Shotgun (Daystar III (M)),,,,,,,,,,,,,,,0.0027,,.44,400,,,,,,,Shrapnel #7,IS,C,,
+InfantryShotgunDaystarIVC,megamek.common.weapons.infantry.shotgun,infantry,Shotgun (Daystar IV (C)),,,,,,,,,,,,,,,0.0026,,.36,350,,,,,,,Shrapnel #7,IS,C,,
+InfantryShotgunDaystarIVM,megamek.common.weapons.infantry.shotgun,infantry,Shotgun (Daystar IV (M)),,,,,,,,,,,,,,,0.0027,,.44,400,,,,,,,Shrapnel #7,IS,C,,
+InfantryShotgunDaystarVC,megamek.common.weapons.infantry.shotgun,infantry,Shotgun (Daystar V (C)),,,,,,,,,,,,,,,0.0024,,.44,450,,,,,,,Shrapnel #7,IS,C,,
+InfantryShotgunDaystarVM,megamek.common.weapons.infantry.shotgun,infantry,Shotgun (Daystar V (M)),,,,,,,,,,,,,,,0.0025,,.55,600,,,,,,,Shrapnel #7,IS,C,,
+InfantryShotgunDokuhebi,megamek.common.weapons.infantry.shotgun,infantry,Shotgun (Dokuhebi),,,,,,,,,,,,,,,0.0024,,.225,420,,,,,,,Shrapnel #7,IS,C,,
+InfantryShotgunDoubleBarrelWeapon,megamek.common.weapons.infantry.shotgun,infantry,Shotgun (Double-Barrel),,,,,,,,,,,,,,,.004,,0.03,30,,,,,,,"273, TM",ALL,B,1950,1950
+InfantryShotgunSawedOffDoubleBarrelWeapon,megamek.common.weapons.infantry.shotgun,infantry,"Shotgun (Double-Barrel, Sawed Off)",,,,,,,,,,,,,,,.003,,0.03,30,,,,,,,"273, TM",ALL,B,1950,1950
+InfantryShotgunDuckettA5,megamek.common.weapons.infantry.shotgun,infantry,Shotgun (Duckett A-5),,,,,,,,,,,,,,,0.0029,,.288,400,,,,,,,Shrapnel #7,IS,D,,
+InfantryShotgunHastariIII,megamek.common.weapons.infantry.shotgun,infantry,Shotgun (Hastari III),,,,,,,,,,,,,,,0.0035,,.27,800,,,,,,,Shrapnel #7,IS,D,,
+InfantryShotgunMarburg20,megamek.common.weapons.infantry.shotgun,infantry,Shotgun (Marburg-20),,,,,,,,,,,,,,,0.0043,,.36,500,,,,,,,Shrapnel #7,IS,C,,
+InfantryShotgunMarburg20M,megamek.common.weapons.infantry.shotgun,infantry,Shotgun (Marburg-20M),,,,,,,,,,,,,,,0.0039,,.36,600,,,,,,,Shrapnel #7,IS,C,,
+InfantryShotgunMorriganStormsweeper,megamek.common.weapons.infantry.shotgun,infantry,Shotgun (Morrigan Stormsweeper),,,,,,,,,,,,,,,0.004,,1.125,800,,,,,,,Shrapnel #7,IS,C,,
+InfantryShotgunPumpActionWeapon,megamek.common.weapons.infantry.shotgun,infantry,Shotgun (Pump-Action),,,,,,,,,,,,,,,.004,,0.07,40,,,,,,,"273, TM",ALL,B,1950,1950
+InfantryShotgunSawedOffPumpActionWeapon,megamek.common.weapons.infantry.shotgun,infantry,"Shotgun (Pump-Action, Sawed Off)",,,,,,,,,,,,,,,.003,,0.07,40,,,,,,,"273, TM",ALL,B,1950,1950
+InfantryShotgunRisen15,megamek.common.weapons.infantry.shotgun,infantry,Shotgun (Risen-15),,,,,,,,,,,,,,,0.0039,,.216,250,,,,,,,Shrapnel #7,IS,C,,
+InfantryShotgunSDType31,megamek.common.weapons.infantry.shotgun,infantry,Shotgun (SD Type-31),,,,,,,,,,,,,,,0.003,,.45,450,,,,,,,Shrapnel #7,IS,D,,
+InfantryShotgunSGM3,megamek.common.weapons.infantry.shotgun,infantry,Shotgun (SGM-3),,,,,,,,,,,,,,,0.0029,,.248,1000,,,,,,,Shrapnel #7,IS,C,,
+InfantryShotgunSGS9,megamek.common.weapons.infantry.shotgun,infantry,Shotgun (SGS-9),,,,,,,,,,,,,,,0.0027,,.36,1200,,,,,,,Shrapnel #7,CLAN,C,,
+InfantryShotgunSGS9E,megamek.common.weapons.infantry.shotgun,infantry,Shotgun (SGS-9E),,,,,,,,,,,,,,,0.0045,,1.375,1500,,,,,,,Shrapnel #7,CLAN,C,,
+InfantryShotgunWakazashiWeapon,megamek.common.weapons.infantry.shotgun,infantry,Shotgun (Wakazashi O-12),,,,,,,,,,,,,,,.0052,,0.35,180,,,,,,,"176,HBHK",ALL,D,,
+InfantryShotgunWranglemanTriBarrel,megamek.common.weapons.infantry.shotgun,infantry,Shotgun (Wrangleman Tri-Barrel),,,,,,,,,,,,,,,0.003,,.243,750,,,,,,,Shrapnel #7,IS,C,,
+InfantrySniperRifleBartonAMRAntiArmor,megamek.common.weapons.infantry.sniperRifle,infantry,Sniper Rifle (Barton AMR (Anti-Armor)),,,,,,,,,,,,,,,0.014,,1.176,700,,,,,,,Shrapnel #1,IS,D,,
+InfantrySniperRifleBartonAMRStandard,megamek.common.weapons.infantry.sniperRifle,infantry,Sniper Rifle (Barton AMR (Standard)),,,,,,,,,,,,,,,0.014,,.98,700,,,,,,,Shrapnel #1,IS,D,,
+InfantrySniperRifleSniperWeapon,megamek.common.weapons.infantry.sniperRifle,infantry,Sniper Rifle (Bolt Action),,,,,,,,,,,,,,,.010,,0.92,350,,,,,,,"273, TM",ALL,B,1950,1950
+InfantrySniperRifleFNFJ12DarkCaste,megamek.common.weapons.infantry.sniperRifle,infantry,Sniper Rifle (FNF-J12 (Dark Caste)),,,,,,,,,,,,,,,0.006,,.336,3500,,,,,,,Shrapnel #1,CLAN,E,,
+InfantrySniperRifleFNFJ12SLDF,megamek.common.weapons.infantry.sniperRifle,infantry,Sniper Rifle (FNF-J12 (SLDF)),,,,,,,,,,,,,,,0.006,,.336,3500,,,,,,,Shrapnel #1,IS,E,,
+InfantrySniperRifleHammelMarksman,megamek.common.weapons.infantry.sniperRifle,infantry,Sniper Rifle (Hammel Marksman),,,,,,,,,,,,,,,0.005,,.28,500,,,,,,,Shrapnel #1,IS,C,,
+InfantrySniperRifleLRS53SniperRifle,megamek.common.weapons.infantry.sniperRifle,infantry,Sniper Rifle (LRS-53 Sniper Rifle),,,,,,,,,,,,,,,0.006,,.252,1000,,,,,,,Shrapnel #1,IS,C,,
+InfantrySniperRifleLancelotMkV,megamek.common.weapons.infantry.sniperRifle,infantry,Sniper Rifle (Lancelot Mk V),,,,,,,,,,,,,,,0.006,,.28,400,,,,,,,Shrapnel #1,IS,C,,
+InfantrySniperRifleMinolta9000Weapon,megamek.common.weapons.infantry.sniperRifle,infantry,Sniper Rifle (Minolta 9000 Advanced Sniper System),,,,,,,,,,,,,,,.006,,1.79,1000,,,,,,,"273, TM",IS,D,3052,
+InfantrySniperRiflePraetorianS3,megamek.common.weapons.infantry.sniperRifle,infantry,Sniper Rifle (Praetorian S-3),,,,,,,,,,,,,,,0.008,,.875,400,,,,,,,Shrapnel #1,IS,C,,
+InfantrySniperRiflePraetorianS5,megamek.common.weapons.infantry.sniperRifle,infantry,Sniper Rifle (Praetorian S-5),,,,,,,,,,,,,,,0.007,,1.05,600,,,,,,,Shrapnel #1,IS,C,,
+InfantrySniperRifleRadiumLaserWeapon,megamek.common.weapons.infantry.sniperRifle,infantry,Sniper Rifle (Radium Sniper),,,,,,,,,,,,,,,.012,,2.58,9500,,,,,,,"273, TM",IS,E,2582,
+InfantrySniperRifleSR17SunsKiller,megamek.common.weapons.infantry.sniperRifle,infantry,Sniper Rifle (SR-17 Suns Killer),,,,,,,,,,,,,,,0.006,,.35,600,,,,,,,Shrapnel #1,IS,C,,
+InfantrySniperRifleSairentosutomu,megamek.common.weapons.infantry.sniperRifle,infantry,Sniper Rifle (Sairentosutomu),,,,,,,,,,,,,,,0.007,,.224,900,,,,,,,Shrapnel #1,IS,D,,
+InfantrySniperStalkerWeapon,megamek.common.weapons.infantry,infantry,Sniper Rifle (Stalker Sniper Rifle),,,,1,,,,,,,,,,,.009,,.25,5000,,,,,,,"HBHL, 147",IS,C,3055,
+InfantrySniperRifleThorsHammer,megamek.common.weapons.infantry.sniperRifle,infantry,Sniper Rifle (Thors Hammer),,,,,,,,,,,,,,,0.007,,0.28,750,,,,,,,Shrapnel #1,IS,D,,
+InfantrySniperRifleWilimtonRS14,megamek.common.weapons.infantry.sniperRifle,infantry,Sniper Rifle (Wilimton RS-14),,,,,,,,,,,,,,,0.007,,0.35,1500,,,,,,,Shrapnel #1,IS,E,,
+InfantrySniperRifleWilimtonRS17Stripped,megamek.common.weapons.infantry.sniperRifle,infantry,Sniper Rifle (Wilimton RS-17 (Stripped)),,,,,,,,,,,,,,,0.009,,1.05,2000,,,,,,,Shrapnel #1,IS,E,,
+InfantrySniperRifleYuanLing,megamek.common.weapons.infantry.sniperRifle,infantry,Sniper Rifle (Yuan Ling),,,,,,,,,,,,,,,0.006,,0.28,1000,,,,,,,Shrapnel #1,IS,D,,
+InfantryPistolSonicStunnerWeapon,megamek.common.weapons.infantry.pistol,infantry,Sonic Stunner,,,,,,,,,,,,,,,.0006,,0.06,100,,,,,,,"273, TM",ALL,D,2365,2365
+InfantryArchaicNunchakuWeapon,megamek.common.weapons.infantry.archaic,infantry,Staff (Nunchaku/Pole Arm),,,,,,,,,,,,,,,.00015,,0.02,10,,,,,,,"272, TM",ALL,A,1950,1950
+InfantryArchaicPolearmWeapon,megamek.common.weapons.infantry.archaic,infantry,Staff (Pole Arm) (Unofficial),,,,,,,,,,,,,,,.006,,0.04,50,,,,,,,"272, TM",ALL,A,1950,1950
+InfantryArchaicShockStaffWeapon,megamek.common.weapons.infantry.archaic,infantry,Staff (Shock Staff),,,,,,,,,,,,,,,0.003,,0.0,1500,,,,,,,"195, AToW-C",IS,E,3074,
+InfantryArchaicDoubleStunStaffWeapon,megamek.common.weapons.infantry.archaic,infantry,"Staff (Stun Staff, Double-End)",,,,,,,,,,,,,,,.003,,0.06,500,,,,,,,"272, TM",ALL,C,2100,2100
+InfantryArchaicSingleStunStaffWeapon,megamek.common.weapons.infantry.archaic,infantry,"Staff (Stun Staff, Single-End)",,,,,,,,,,,,,,,.0003,,0.06,300,,,,,,,"272, TM",ALL,C,2100,2100
+InfantryArchaicStaffWeapon,megamek.common.weapons.infantry.archaic,infantry,Staff (Unofficial),,,,,,,,,,,,,,,.0025,,0.04,5,,,,,,,"272, TM",ALL,A,1950,1950
+InfantryArchaicStunstickWeapon,megamek.common.weapons.infantry.archaic,infantry,Stunstick,,,,,,,,,,,,,,,.0002,,0.06,200,,,,,,,"272, TM",ALL,C,2100,2100
+InfantryArchaicMiniStunstickWeapon,megamek.common.weapons.infantry.archaic,infantry,Stunstick (Mini),,,,,,,,,,,,,,,.00015,,0.05,50,,,,,,,"272, TM",ALL,C,2100,2100
+InfantrySMGWeapon,megamek.common.weapons.infantry.smg,infantry,Submachine Gun,,,,,,,,,,,,,,,.003,,0.23,80,,,,,,,"273, TM",ALL,C,1950,1950
+InfantrySupportLaserWeapon,megamek.common.weapons.infantry.support.laser,infantry,Support Laser,,,,1,,0,3,6,9,12,,,,,.072,,6.02,10000,,,,,,,"273, TM",ALL,D,2377,2377
+InfantrySupportClanERHeavyLaserWeapon,megamek.common.weapons.infantry.support.clan,infantry,"Support Laser (ER Heavy, Clan)",,,,,,,,,,,,,,,.240,,18.52,80000,,,,,,,"273, TM",CLAN,F,,2825
+InfantrySupportERHeavyLaserWeapon,megamek.common.weapons.infantry.support.laser,infantry,"Support Laser (ER Heavy, IS)",,,,1,,0,6,12,18,24,,,,,.250,,13.88,80000,,,,,,,"273, TM",IS,E,3054,
+InfantrySupportClanERLaserWeapon,megamek.common.weapons.infantry.support.clan,infantry,"Support Laser (ER, Clan)",,,,,,,,,,,,,,,.100,,10.27,11250,,,,,,,"273, TM",CLAN,F,,2824
+InfantrySupportERLaserWeapon,megamek.common.weapons.infantry.support.laser,infantry,"Support Laser (ER, IS)",,,,,,,,,,,,,,,.110,,8.21,11250,,,,,,,"273, TM",IS,E,3054,
+InfantrySupportClanSemiPortableERLaserWeapon,megamek.common.weapons.infantry.support.clan,infantry,"Support Laser (ER, Semi-Portable)",,,,,,,,,,,,,,,.025,,5.02,10000,,,,,,,"273, TM",CLAN,F,,3056
+InfantrySupportHeavyLaserWeapon,megamek.common.weapons.infantry.support.heavy,infantry,Support Laser (Heavy),,,,,,,,,,,,,,,.300,,17.35,40000,,,,,,,"273, TM",ALL,D,2400,2400
+InfantrySupportClanSemiPortableHeavyLaserWeapon,megamek.common.weapons.infantry.support.clan,infantry,"Support Laser (Heavy, Semi-Portable)",,,,,,,,,,,,,,,0.025,,7.53,20000,,,,,,,"273, TM",CLAN,F,,3055
+InfantrySupportSemiPortableLaserWeapon,megamek.common.weapons.infantry.support.laser,infantry,Support Laser (Semi-Portable),,,,,,,,,,,,,,,.040,,4.37,5000,,,,,,,"273, TM",ALL,D,2395,2395
+InfantrySupportLaserUltraHeavyWeapon,megamek.common.weapons.infantry.support.laser,infantry,Support Laser (Ultra-Heavy),,,,,,,,,,,,,,,.250,,20.31,100000,,,,,,,"273, TM",CLAN,F,,3055
+InfantrySupportSnubNoseSupportPPCWeapon,megamek.common.weapons.infantry.support,infantry,Support PPC (Snub-Nose),,,,,,,,,,,,,,,1.6,,0.0,60000,,,,,,,"176, AToW-C",IS,E,3075,
+InfantrySupportPulseLaserWeapon,megamek.common.weapons.infantry.support.laser,infantry,Support Pulse Laser,,,,,,,,,,,,,,,.150,,5.81,16000,,,,,,,"273, TM",ALL,E,2605,2605
+InfantrySupportHeavyPulseLaserWeapon,megamek.common.weapons.infantry.support.heavy,infantry,Support Pulse Laser (Heavy),,,,,,,,,,,,,,,.300,,9.58,60000,,,,,,,"273, TM",ALL,E,2610,2610
+InfantrySupportClanSemiPortablePulseLaserWeapon,megamek.common.weapons.infantry.support.clan,infantry,Support Pulse Laser (Semi-Portable),,,,,,,,,,,,,,,.040,,2.81,12500,,,,,,,"273, TM",CLAN,F,,3056
+InfantrySupportTAGWeapon,megamek.common.weapons.infantry.support,infantry,"TAG (Light, Man-Portable)",,,,0,,,3,6,9,12,,,,,.020,,,40000,,,,,,,"273, TM",ALL,E,2598,2598
+InfantryTWFlamerWeapon,megamek.common.weapons.infantry,infantry,Total Warfare Flamer,,,,,,,,,,,,,,,.015,,0.36,100,,,,,,,,ALL,C,2100,2100
+InfantryPistolTranqGunWeapon,megamek.common.weapons.infantry.pistol,infantry,Tranq Gun,,,,,,,,,,,,,,,.0015,,0.13,30,,,,,,,"273, TM",ALL,A,1950,1950
+InfantryRifleVSPLaserWeapon,megamek.common.weapons.infantry.rifle,infantry,Variable-Pulse Laser Rifle,,,,,,,,,,,,,,,0.006,,0.0,4500,,,,,,,"195, AToW-C",IS,E,3075,
+InfantrySupportVintageGatlingGunWeapon,megamek.common.weapons.infantry.support,infantry,Vintage Gatling Gun,,,,,,,,,,,,,,,0.296,,0.0,450000,,,,,,,"195, AToW-C",ALL,B,1950,1950
+InfantrySupportVintageMiniGunWeapon,megamek.common.weapons.infantry.support,infantry,Vintage MiniGun,,,,,,,,,,,,,,,.021,,0.0,50000,,,,,,,"195, AToW-C",ALL,C,1950,1950
+InfantryArchaicWhipWeapon,megamek.common.weapons.infantry.archaic,infantry,Whip,,,,,,,,,,,,,,,.00035,,0.05,18,,,,,,,"195, AToW-C",ALL,A,1950,1950
+InfantryArchaicMedusaWhipWeapon,megamek.common.weapons.infantry.archaic,infantry,Whip (Medusa),,,,,,,,,,,,,,,.00045,,0.15,2200,,,,,,,"272, TM",CLAN,E,,2820
+InfantryArchaicMonowireWeapon,megamek.common.weapons.infantry.archaic,infantry,Whip (Monowire),,,,,,,,,,,,,,,.00025,,0.32,200,,,,,,,"272, TM",ALL,E,2100,2100
+InfantryArchaicNeuralLashWeapon,megamek.common.weapons.infantry.archaic,infantry,Whip (Neural Lash),,,,,,,,,,,,,,,.0001,,0.08,750,,,,,,,"272, TM",ALL,D,2300,2300
+InfantryArchaicNeuralWhipWeapon,megamek.common.weapons.infantry.archaic,infantry,Whip (Neural Whip),,,,,,,,,,,,,,,.0003,,0.08,500,,,,,,,"272, TM",ALL,D,2315,2315
+InfantrySupportWireGuidedMissileWeapon,megamek.common.weapons.infantry.support,infantry,Wire-Guided Missile Launcher,,,,,,,,,,,,,,,0.095,,0.00,800000,,,,,,,"195, AToW-C",ALL,C,,
+ISBinaryLaserCannon,megamek.common.weapons.lasers.innerSphere,lasers,Binary Laser (Blazer) Cannon,,,16,12,,,5,10,15,20,3,6,9,12,9.0,4,222,200000,12,12,,,Medium,,"131, TO:AUE",IS,D,2812,
+ISBombastLaser,megamek.common.weapons.lasers.innerSphere,lasers,Bombast Laser,,,12,12,,,5,10,15,20,3,6,9,12,7.0,3,137,200000,12,12,,,Medium,,"132, TO:AUE",IS,D,3064,
+CLERLaserLarge,megamek.common.weapons.lasers.clan.large,lasers,ER Large Laser,CLERLargeLaser,Laser ER D,12,10,,,8,15,25,37,5,10,16,24,4.0,1,248,200000,10,10,10,10,Extreme,,"226, TM",CLAN,F,,2820
+ISERLaserLarge,megamek.common.weapons.lasers.innerSphere.large,lasers,ER Large Laser,ISERLargeLaser,Laser ER D,12,8,,,7,14,19,28,3,9,12,18,5.0,2,163,200000,8,8,8,,Long,,"226, TM",IS,E,2610,
+CLERPulseLaserLarge,megamek.common.weapons.lasers.clan.large,lasers,ER Large Pulse Laser,CLERLargePulseLaser,Laser Pulse ER D,13,10,,,7,15,23,34,4,10,16,24,6.0,3,272,400000,10,10,10,,Long,,"132, TO:AUE",CLAN,F,,
+CLERLaserMedium,megamek.common.weapons.lasers.clan.medium,lasers,ER Medium Laser,CLERMediumLaser,Laser ER C,5,7,,,5,10,15,20,3,7,10,15,1.0,1,108,80000,7,7,,,Medium,,"226, TM",CLAN,F,,2822
+ISERLaserMedium,megamek.common.weapons.lasers.innerSphere.medium,lasers,ER Medium Laser,ISERMediumLaser,Laser ER C,5,5,,,4,8,12,16,3,5,8,12,1.0,1,62,80000,5,5,,,Medium,,"226, TM",IS,E,3052,
+CLERPulseLaserMedium,megamek.common.weapons.lasers.clan.medium,lasers,ER Medium Pulse Laser,CLERMediumPulseLaser,Laser Pulse ER C,6,7,,,5,9,14,21,3,6,9,12,2.0,2,117,150000,7,7,,,Medium,,"132, TO:AUE",CLAN,F,,
+CLERLaserMicro,megamek.common.weapons.lasers.clan,lasers,ER Micro Laser,CLERMicroLaser,Laser ER A,1,2,,,1,2,4,6,1,2,2,2,0.25,1,7,10000,2,,,,Short,,"226, TM",CLAN,F,,3059
+CLERLaserSmall,megamek.common.weapons.lasers.clan.small,lasers,ER Small Laser,CLERSmallLaser,Laser ER B,2,5,,,2,4,6,8,1,2,4,6,0.5,1,31,11250,5,,,,Short,,"226, TM",CLAN,F,,2822
+ISERLaserSmall,megamek.common.weapons.lasers.innerSphere.small,lasers,ER Small Laser,ISERSmallLaser,Laser ER B,2,3,,,2,4,5,7,1,2,3,4,0.5,1,17,11250,3,,,,Short,,"226, TM",IS,E,3052,
+CLERPulseLaserSmall,megamek.common.weapons.lasers.clan.small,lasers,ER Small Pulse Laser,CLERSmallPulseLaser,Laser Pulse ER B,3,5,,,2,4,6,8,1,2,4,6,1.5,1,36,30000,5,,,,Short,,"132, TO:AUE",CLAN,F,,
+CLHeavyLaserLarge,megamek.common.weapons.lasers.clan.large,lasers,Heavy Large Laser,CLHeavyLargeLaser,Laser Heavy D,18,16,,,5,10,15,20,3,6,9,12,4.0,3,244,250000,16,16,,,Medium,,"226, TM",CLAN,F,,3057
+CLHeavyLaserMedium,megamek.common.weapons.lasers.clan.medium,lasers,Heavy Medium Laser,CLHeavyMediumLaser,Laser Heavy C,7,10,,,3,6,9,12,2,4,6,8,1.0,2,76,100000,10,,,,Short,,"226, TM",CLAN,F,,3057
+CLHeavyLaserSmall,megamek.common.weapons.lasers.clan.small,lasers,Heavy Small Laser,CLHeavySmallLaser,Laser Heavy B,3,6,,,1,2,3,4,1,2,2,2,0.5,1,15,20000,6,,,,Short,,"226, TM",CLAN,F,,3057
+CLImprovedHeavyLaserLarge,megamek.common.weapons.lasers.clan.large,lasers,Improved Heavy Large Laser,CLImprovedHeavyLargeLaser,Laser Heavy Imp D,18,16,,,5,10,15,20,3,6,9,12,4.0,3,296,350000,16,16,,,Medium,8,"133, TO:AUE",CLAN,F,,
+CLImprovedHeavyLaserMedium,megamek.common.weapons.lasers.clan.medium,lasers,Improved Heavy Medium Laser,CLImprovedMediumHeavyLaser,Laser Heavy Imp C,7,10,,,3,6,9,12,2,4,6,8,1.0,2,93,150000,10,,,,Short,5,"133, TO:AUE",CLAN,F,,
+CLImprovedHeavyLaserSmall,megamek.common.weapons.lasers.clan.small,lasers,Improved Heavy Small Laser,CLImprovedSmallHeavyLaser,Laser Heavy Imp B,3,6,,,1,2,3,4,1,2,2,2,0.5,1,19,30000,6,,,,Short,3,"133, TO:AUE",CLAN,F,,
+CLImprovedLaserLarge,megamek.common.weapons.lasers.clan.large,lasers,Improved Large Laser,,Laser Imp D,8,8,,,5,10,15,20,3,6,9,12,4.0,1,123,100000,8,8,,,Medium,,"89, IO:AE",CLAN,E,,2812
+CLImprovedPulseLaserLarge,megamek.common.weapons.lasers.clan.large,lasers,Improved Large Pulse Laser,ImprovedLargePulseLaser,Laser Pulse Imp D,10,9,,,3,7,10,15,2,5,7,10,6.0,2,119,175000,9,9,,,Medium,,"89, IO:AE",CLAN,E,,2815
+CLChemicalLaserLarge,megamek.common.weapons.lasers.clan.large,lasers,Large Chemical Laser,CLLargeChemicalLaser,Chem Laser D,6,8,1,,5,10,15,20,3,6,9,12,5.0,2,99,75000,8,8,,,Medium,,"132, TO:AUE",CLAN,E,,
+ISLaserLarge,megamek.common.weapons.lasers.innerSphere.large,lasers,Large Laser,,Laser AA D,8,8,,,5,10,15,20,3,6,9,12,5.0,2,123,100000,8,8,,,Medium,,"227, TM",IS,C,2306,2306
+CLPulseLaserLarge,megamek.common.weapons.lasers.clan.large,lasers,Large Pulse Laser,CLLargePulseLaser,Laser Pulse D,10,10,,,6,14,20,30,4,10,14,21,6.0,2,265,175000,10,10,10,,Long,,"226, TM",CLAN,F,,2820
+ISPulseLaserLarge,megamek.common.weapons.lasers.innerSphere.large,lasers,Large Pulse Laser,ISLargePulseLaser,Laser Pulse D,10,9,,,3,7,10,15,2,5,7,10,7.0,2,119,175000,9,9,,,Medium,,"226, TM",IS,E,2595,
+ISReengineeredLaserLarge,megamek.common.weapons.lasers.innerSphere.large,lasers,Large Re-engineered Laser,,Laser REENG D,9,9,,,5,10,15,20,3,6,9,12,8.0,5,161,250000,9,9,,,Medium,,"83, IO:AE",IS,E,3120,
+ISVariableSpeedPulseLaserLarge,megamek.common.weapons.lasers.innerSphere.large,lasers,Large VSP Laser,ISLargeVSPLaser,Laser VSP D,10,,,,4,8,15,22,2,5,9,13,9.0,4,123,465000,10,7,,,Medium,,"133, TO:AUE",IS,E,3070,
+ISXPulseLaserLarge,megamek.common.weapons.lasers.innerSphere.large,lasers,Large X-Pulse Laser,ISLargeXPulseLaser,Laser XPULSE D,14,9,,,5,10,15,20,3,6,9,12,7.0,2,178,275000,9,9,,,Medium,,"133, TO:AUE",IS,E,,
+ISLBinaryLaserCannon,megamek.common.weapons.lasers.innerSphere,lasers,Light Blazer,,,6,7,,,3,6,9,12,2,4,6,8,1.5,2,65,15000,7,,,,Short,,Gothic,IS,D,2852,
+CLChemicalLaserMedium,megamek.common.weapons.lasers.clan.medium,lasers,Medium Chemical Laser,CLMediumChemicalLaser,Chem Laser C,2,5,5,,3,6,9,12,2,4,6,8,1.0,1,37,30000,5,,,,Short,,"132, TO:AUE",CLAN,E,,
+ISLaserMedium,megamek.common.weapons.lasers.innerSphere.medium,lasers,Medium Laser,,Laser AA C,3,5,,,3,6,9,12,2,4,6,8,1.0,1,46,40000,5,,,,Short,,"227, TM",IS,C,2290,2290
+CLPulseLaserMedium,megamek.common.weapons.lasers.clan.medium,lasers,Medium Pulse Laser,CLMediumPulseLaser,Laser Pulse C,4,7,,,4,8,12,16,3,5,8,12,2.0,1,111,60000,7,7,,,Medium,,"226, TM",CLAN,F,,2825
+ISPulseLaserMedium,megamek.common.weapons.lasers.innerSphere.medium,lasers,Medium Pulse Laser,ISMediumPulseLaser,Laser Pulse C,4,6,,,2,4,6,8,2,3,4,6,2.0,1,48,60000,6,,,,Short,,"226, TM",IS,E,2595,
+ISReengineeredLaserMedium,megamek.common.weapons.lasers.innerSphere.medium,lasers,Medium Re-engineered Laser,,Laser REENG C,6,6,,,3,6,9,12,2,4,6,8,2.5,2,65,100000,6,,,,Short,,"83, IO:AE",IS,E,3120,
+ISVariableSpeedPulseLaserMedium,megamek.common.weapons.lasers.innerSphere.medium,lasers,Medium VSP Laser,ISMediumVSPLaser,Laser VSP C,7,,,,2,5,9,13,1,3,6,9,4.0,2,56,200000,7,,,,Short,,"133, TO:AUE",IS,E,3070,
+ISXPulseLaserMedium,megamek.common.weapons.lasers.innerSphere.medium,lasers,Medium X-Pulse Laser,ISMediumXPulseLaser,Laser XPULSE C,6,6,,,3,6,9,12,2,4,6,8,2.0,1,71,110000,6,,,,Short,,"133, TO:AUE",IS,E,,
+CLPulseLaserMicro,megamek.common.weapons.lasers.clan,lasers,Micro Pulse Laser,CLMicroPulseLaser,Laser Pulse A,1,3,,,1,2,3,4,1,2,2,2,0.5,1,12,12500,3,,,,Short,,"226, TM",CLAN,F,,3059
+ISRISCHyperLaser,megamek.common.weapons.lasers.innerSphere,lasers,RISC Hyper Laser,ISRISCHyperLaser,,24,20,,,8,15,25,37,5,10,18,27,8.0,6,596,750000,20,20,20,20,Extreme,10,"87, IO:AE",IS,F,3134,
+CLChemicalLaserSmall,megamek.common.weapons.lasers.clan.small,lasers,Small Chemical Laser,CLSmallChemicalLaser,Chem Laser B,1,3,3,,1,2,3,4,1,2,2,2,0.5,1,7,10000,3,,,,Short,,"132, TO:AUE",CLAN,E,,
+ISLaserSmall,megamek.common.weapons.lasers.innerSphere.small,lasers,Small Laser,,Laser AA B,1,3,,,1,2,3,4,1,2,2,2,0.5,1,9,11250,3,,,,Short,,"227, TM",IS,C,2290,2290
+CLPulseLaserSmall,megamek.common.weapons.lasers.clan.small,lasers,Small Pulse Laser,CLSmallPulseLaser,Laser Pulse B,2,3,,,2,4,6,8,1,2,4,6,1.0,1,24,16000,3,,,,Short,,"226, TM",CLAN,F,,2825
+ISPulseLaserSmall,megamek.common.weapons.lasers.innerSphere.small,lasers,Small Pulse Laser,ISSmallPulseLaser,Laser Pulse B,2,3,,,1,2,3,4,1,2,2,2,1.0,1,12,16000,3,,,,Short,,"226, TM",IS,E,2595,
+ISReengineeredLaserSmall,megamek.common.weapons.lasers.innerSphere.small,lasers,Small Re-engineered Laser,,Laser REENG B,4,4,,,1,2,3,4,1,2,2,2,1.5,1,14,25000,4,,,,Short,,"83, IO:AE",IS,E,3120,
+ISVariableSpeedPulseLaserSmall,megamek.common.weapons.lasers.innerSphere.small,lasers,Small VSP Laser,ISSmallVSPLaser,Laser VSP B,3,,,,2,4,6,8,1,2,3,4,2.0,1,22,60000,4,,,,Short,,"133, TO:AUE",IS,E,3070,
+ISXPulseLaserSmall,megamek.common.weapons.lasers.innerSphere.small,lasers,Small X-Pulse Laser,ISSmallXPulseLaser,Laser XPULSE B,3,3,,,2,4,5,7,1,2,3,4,1.0,1,21,31000,3,,,,Short,,"133, TO:AUE",IS,E,,
+ISEnhancedLRM10,megamek.common.weapons.lrms.innerSphere.enhancedLRM,lrms,Enhanced LRM 10,,,4,,10,3,7,14,21,28,,,,,6.0,4,104,125000,6,6,6,,Long,,"138, TO:AUE",IS,E,3058,
+ISEnhancedLRM15,megamek.common.weapons.lrms.innerSphere.enhancedLRM,lrms,Enhanced LRM 15,,,5,,15,3,7,14,21,28,,,,,9.0,6,157,218750,9,9,9,,Long,,"138, TO:AUE",IS,E,3058,
+ISEnhancedLRM20,megamek.common.weapons.lrms.innerSphere.enhancedLRM,lrms,Enhanced LRM 20,,,6,,20,3,7,14,21,28,,,,,12.0,9,210,312500,12,12,12,,Long,,"138, TO:AUE",IS,E,3058,
+ISEnhancedLRM5,megamek.common.weapons.lrms.innerSphere.enhancedLRM,lrms,Enhanced LRM 5,,,2,,5,3,7,14,21,28,,,,,3.0,2,52,37500,3,3,3,,Long,,"138, TO:AUE",IS,E,3058,
+ISEnhancedLRT10,megamek.common.weapons.lrms.innerSphere.torpedo,lrms,Enhanced LRT 10,,,4,,10,,,,,,,,,,6.0,4,104,125000,6,6,6,,,,,,,,
+ISEnhancedLRT15,megamek.common.weapons.lrms.innerSphere.torpedo,lrms,Enhanced LRT 15,,,5,,15,,,,,,,,,,9.0,6,157,218750,9,9,9,,,,,,,,
+ISEnhancedLRT20,megamek.common.weapons.lrms.innerSphere.torpedo,lrms,Enhanced LRT 20,,,6,,20,,,,,,,,,,12.0,9,210,312500,12,12,12,,,,,,,,
+ISEnhancedLRT5,megamek.common.weapons.lrms.innerSphere.torpedo,lrms,Enhanced LRT 5,,,2,,5,,,,,,,,,,3.0,2,52,37500,3,3,3,,,,,,,,
+ISExtendedLRM10,megamek.common.weapons.lrms.innerSphere.enhancedLRM,lrms,Extended LRM 10,,,6,,10,,,,,,,,,,8.0,4,133,200000,6,6,6,6,,,"139, TO:AUE",IS,E,,
+ISExtendedLRM15,megamek.common.weapons.lrms.innerSphere.enhancedLRM,lrms,Extended LRM 15,,,8,,15,,,,,,,,,,12.0,6,200,350000,9,9,9,9,,,"139, TO:AUE",IS,E,,
+ISExtendedLRM20,megamek.common.weapons.lrms.innerSphere.enhancedLRM,lrms,Extended LRM 20,,,10,,20,,,,,,,,,,18.0,8,268,500000,12,12,12,12,,,"139, TO:AUE",IS,E,,
+ISExtendedLRM5,megamek.common.weapons.lrms.innerSphere.enhancedLRM,lrms,Extended LRM 5,,,3,,5,,,,,,,,,,6.0,1,67,60000,3,3,3,3,,,"139, TO:AUE",IS,E,,
+CLImprovedLRM10,megamek.common.weapons.lrms.clan.improvedLRM,lrms,Improved LRM 10,,,4,,10,6,,,,,,,,,2.5,1,90,100000,6,6,6,,Long,,"90, IO:AE",CLAN,F,,2815
+CLImprovedLRM15,megamek.common.weapons.lrms.clan.improvedLRM,lrms,Improved LRM 15,,,5,,15,6,,,,,,,,,3.5,2,136,175000,9,9,9,,Long,,"90, IO:AE",CLAN,F,,2815
+CLImprovedLRM20,megamek.common.weapons.lrms.clan.improvedLRM,lrms,Improved LRM 20,,,6,,20,6,,,,,,,,,5.0,4,181,250000,12,12,12,,Long,,"90, IO:AE",CLAN,F,,2815
+CLImprovedLRM5,megamek.common.weapons.lrms.clan.improvedLRM,lrms,Improved LRM 5,,,2,,5,6,,,,,,,,,1.0,1,45,30000,3,3,3,,Long,,"90, IO:AE",CLAN,F,,2815
+CLLRM1,megamek.common.weapons.lrms.clan,lrms,LRM 1,CLLRM1,,0,,1,,,,,,,,,,0.4,0,17,,,,,,,,"231, TM",CLAN,F,,3055
+CLLRM1OS,megamek.common.weapons.lrms.clan.oneShot,lrms,LRM 1,CLLRM1OS,,0,,1,,,,,,,,,,0.4,0,3,,,,,,,,"231, TM",CLAN,F,,3055
+CLLRM10,megamek.common.weapons.lrms.clan,lrms,LRM 10,CLLRM10,,4,,10,,,,,,,,,,2.5,1,109,100000,6,6,6,,Long,,"229, TM",CLAN,F,,2820
+ISLRM10,megamek.common.weapons.lrms.innerSphere,lrms,LRM 10,,,4,,10,6,,,,,,,,,5.0,2,90,100000,6,6,6,,Long,,"229, TM",ALL,C,2295,2295
+CLLRM10IOS,megamek.common.weapons.lrms.clan.oneShot,lrms,LRM 10 (I-OS),CLLRM10 (IOS),,4,,10,,,,,,,,,,2.0,1,22,80000,6,6,6,,Long,,"139, TO:AUE",CLAN,B,,3058
+ISLRM10IOS,megamek.common.weapons.lrms.innerSphere.oneShot,lrms,LRM 10 (I-OS),,,4,,10,6,,,,,,,,,4.5,2,18,80000,6,6,6,,Long,,"139, TO:AUE",IS,B,3056,
+CLLRM10OS,megamek.common.weapons.lrms.clan.oneShot,lrms,LRM 10 (OS),CLLRM10 (OS),,4,,10,,,,,,,,,,3.0,1,22,50000,6,6,6,,Long,,"228, TM",CLAN,F,,2820
+ISLRM10OS,megamek.common.weapons.lrms.innerSphere.oneShot,lrms,LRM 10 (OS),,,4,,10,6,,,,,,,,,5.5,2,18,50000,6,6,6,,Long,,"230, TM",ALL,C,2665,2665
+CLLRM11,megamek.common.weapons.lrms.clan,lrms,LRM 11,CLLRM11,,0,,11,,,,,,,,,,2.2,0,139,,,,,,,,"231, TM",CLAN,F,,3055
+CLLRM12,megamek.common.weapons.lrms.clan,lrms,LRM 12,CLLRM12,,0,,12,,,,,,,,,,2.4,0,141,,,,,,,,"231, TM",CLAN,F,,3055
+CLLRM13,megamek.common.weapons.lrms.clan,lrms,LRM 13,CLLRM13,,0,,13,,,,,,,,,,2.6,0,161,,,,,,,,"231, TM",CLAN,F,,3055
+CLLRM14,megamek.common.weapons.lrms.clan,lrms,LRM 14,CLLRM14,,0,,14,,,,,,,,,,2.8,0,163,,,,,,,,"231, TM",CLAN,F,,3055
+CLLRM15,megamek.common.weapons.lrms.clan,lrms,LRM 15,CLLRM15,,5,,15,,,,,,,,,,3.5,2,164,175000,9,9,9,,Long,,"229, TM",CLAN,F,,2820
+ISLRM15,megamek.common.weapons.lrms.innerSphere,lrms,LRM 15,,,5,,15,6,,,,,,,,,7.0,3,136,175000,9,9,9,,Long,,"229, TM",ALL,C,2295,2295
+CLLRM15IOS,megamek.common.weapons.lrms.clan.oneShot,lrms,LRM 15 (I-OS),CLLRM15 (IOS),,5,,15,,,,,,,,,,3.0,2,33,140000,9,9,9,,Long,,"139, TO:AUE",CLAN,B,,3058
+ISLRM15IOS,megamek.common.weapons.lrms.innerSphere.oneShot,lrms,LRM 15 (I-OS),,,5,,15,6,,,,,,,,,6.5,3,27,140000,9,9,9,,Long,,"139, TO:AUE",IS,B,3056,
+CLLRM15OS,megamek.common.weapons.lrms.clan.oneShot,lrms,LRM 15 (OS),CLLRM15 (OS),,5,,15,,,,,,,,,,4.0,2,33,87500,9,9,9,,Long,,"228, TM",CLAN,F,,2820
+ISLRM15OS,megamek.common.weapons.lrms.innerSphere.oneShot,lrms,LRM 15 (OS),,,5,,15,6,,,,,,,,,7.5,3,27,87500,9,9,9,,Long,,"230, TM",ALL,C,2665,2665
+CLLRM16,megamek.common.weapons.lrms.clan,lrms,LRM 16,CLLRM16,,0,,16,,,,,,,,,,3.2,0,214,,,,,,,,"231, TM",CLAN,F,,3055
+CLLRM17,megamek.common.weapons.lrms.clan,lrms,LRM 17,CLLRM17,,0,,17,,,,,,,,,,3.4,0,215,,,,,,,,"231, TM",CLAN,F,,3055
+CLLRM18,megamek.common.weapons.lrms.clan,lrms,LRM 18,CLLRM18,,0,,18,,,,,,,,,,3.6,0,217,,,,,,,,"231, TM",CLAN,F,,3055
+CLLRM19,megamek.common.weapons.lrms.clan,lrms,LRM 19,CLLRM19,,0,,19,,,,,,,,,,3.8,0,218,,,,,,,,"231, TM",CLAN,F,,3055
+CLLRM2,megamek.common.weapons.lrms.clan,lrms,LRM 2,CLLRM2,,0,,2,,,,,,,,,,0.4,0,24,,,,,,,,"231, TM",CLAN,F,,3055
+CLLRM2OS,megamek.common.weapons.lrms.clan.oneShot,lrms,LRM 2 (OS),CLLRM2OS,,0,,2,,,,,,,,,,0.4,0,5,,,,,,,,"231, TM",CLAN,F,,3055
+CLLRM20,megamek.common.weapons.lrms.clan,lrms,LRM 20,CLLRM20,,6,,20,,,,,,,,,,5.0,4,220,250000,12,12,12,,Long,,"229, TM",CLAN,F,,2820
+ISLRM20,megamek.common.weapons.lrms.innerSphere,lrms,LRM 20,,,6,,20,6,,,,,,,,,10.0,5,181,250000,12,12,12,,Long,,"229, TM",ALL,C,2295,2295
+CLLRM20IOS,megamek.common.weapons.lrms.clan.oneShot,lrms,LRM 20 (I-OS),CLLRM20 (IOS),,6,,20,,,,,,,,,,4.5,4,44,200000,12,12,12,,Long,,"139, TO:AUE",CLAN,B,,3058
+ISLRM20IOS,megamek.common.weapons.lrms.innerSphere.oneShot,lrms,LRM 20 (I-OS),,,6,,20,6,,,,,,,,,9.5,5,36,200000,12,12,12,,Long,,"139, TO:AUE",IS,B,3056,
+CLLRM20OS,megamek.common.weapons.lrms.clan.oneShot,lrms,LRM 20 (OS),CLLRM20 (OS),,6,,20,,,,,,,,,,5.5,4,44,125000,12,12,12,,Long,,"228, TM",CLAN,F,,2820
+ISLRM20OS,megamek.common.weapons.lrms.innerSphere.oneShot,lrms,LRM 20 (OS),,,6,,20,6,,,,,,,,,10.5,5,36,125000,12,12,12,,Long,,"230, TM",ALL,C,2665,2665
+CLLRM3,megamek.common.weapons.lrms.clan,lrms,LRM 3,CLLRM3,,0,,3,,,,,,,,,,0.6,0,34,,,,,,,,"231, TM",CLAN,F,,3055
+CLLRM3OS,megamek.common.weapons.lrms.clan.oneShot,lrms,LRM 3 (OS),CLLRM3OS,,0,,3,,,,,,,,,,0.6,0,7,,,,,,,,"231, TM",CLAN,F,,3055
+CLLRM4,megamek.common.weapons.lrms.clan,lrms,LRM 4,CLLRM4,,0,,4,,,,,,,,,,0.8,0,46,,,,,,,,"231, TM",CLAN,F,,3055
+CLLRM4OS,megamek.common.weapons.lrms.clan.oneShot,lrms,LRM 4 (OS),CLLRM4OS,,0,,4,,,,,,,,,,0.8,0,9,,,,,,,,"231, TM",CLAN,F,,3055
+CLLRM5,megamek.common.weapons.lrms.clan,lrms,LRM 5,CLLRM5,,2,,5,,,,,,,,,,1.0,1,55,30000,3,3,3,,Long,,"229, TM",CLAN,F,,2820
+ISLRM5,megamek.common.weapons.lrms.innerSphere,lrms,LRM 5,,,2,,5,6,,,,,,,,,2.0,1,45,30000,3,3,3,,Long,,"229, TM",ALL,C,2295,2295
+CLLRM5IOS,megamek.common.weapons.lrms.clan.oneShot,lrms,LRM 5 (I-OS),CLLRM5 (IOS),,2,,5,,,,,,,,,,0.5,1,11,24000,3,3,3,,Long,,"139, TO:AUE",CLAN,B,,3058
+ISLRM5IOS,megamek.common.weapons.lrms.innerSphere.oneShot,lrms,LRM 5 (I-OS),,,2,,5,6,,,,,,,,,1.5,1,9,24000,3,3,3,,Long,,"139, TO:AUE",IS,B,3056,
+CLLRM5OS,megamek.common.weapons.lrms.clan.oneShot,lrms,LRM 5 (OS),CLLRM5 (OS),,2,,5,,,,,,,,,,1.5,1,11,15000,3,3,3,,Long,,"228, TM",CLAN,F,,2820
+ISLRM5OS,megamek.common.weapons.lrms.innerSphere.oneShot,lrms,LRM 5 (OS),,,2,,5,6,,,,,,,,,2.5,1,9,15000,3,3,3,,Long,,"230, TM",ALL,C,2665,2665
+CLLRM6,megamek.common.weapons.lrms.clan,lrms,LRM 6,CLLRM6,,0,,6,,,,,,,,,,1.2,0,69,,,,,,,,"231, TM",CLAN,F,,3055
+CLLRM7,megamek.common.weapons.lrms.clan,lrms,LRM 7,CLLRM7,,0,,7,,,,,,,,,,1.4,0,82,,,,,,,,"231, TM",CLAN,F,,3055
+CLLRM8,megamek.common.weapons.lrms.clan,lrms,LRM 8,CLLRM8,,0,,8,,,,,,,,,,1.6,0,93,,,,,,,,"231, TM",CLAN,F,,3055
+CLLRM9,megamek.common.weapons.lrms.clan,lrms,LRM 9,CLLRM9,,0,,9,,,,,,,,,,1.8,0,95,,,,,,,,"231, TM",CLAN,F,,3055
+CLLRT1,megamek.common.weapons.lrms.clan.torpedo,lrms,LRT 1,CLLRTorpedo1,,0,,1,,,,,,7,14,21,28,0.2,0,17,,,,,,,,"231, TM",CLAN,F,,3055
+CLLRT10,megamek.common.weapons.lrms.clan.torpedo,lrms,LRT 10,CLLRTorpedo10,,4,,10,,,,,,7,14,21,28,2.5,1,109,100000,,,,,,,"230, TM",CLAN,C,,2820
+ISLRT10,megamek.common.weapons.lrms.innerSphere.torpedo,lrms,LRT 10,,,4,,10,6,,,,,7,14,21,28,5.0,2,90,100000,,,,,,,"230, TM",IS,C,2370,
+CLLRT10IOS,megamek.common.weapons.lrms.clan.torpedo.oneShot,lrms,LRT 10 (I-OS),CLLRTorpedo10 (IOS),,4,,10,,,,,,7,14,21,28,2.0,1,22,80000,,,,,,,"139, TO:AUE",CLAN,B,,3058
+ISLRT10IOS,megamek.common.weapons.lrms.innerSphere.torpedo.oneShot,lrms,LRT 10 (I-OS),,,4,,10,6,,,,,7,14,21,28,4.5,2,18,80000,,,,,,,"139, TO:AUE",IS,B,3056,
+CLLRT10OS,megamek.common.weapons.lrms.clan.torpedo.oneShot,lrms,LRT 10 (OS),CLLRTorpedo10 (OS),,4,,10,,,,,,7,14,21,28,3.0,1,22,50000,,,,,,,"230, TM",CLAN,C,,2820
+ISLRT10OS,megamek.common.weapons.lrms.innerSphere.torpedo.oneShot,lrms,LRT 10 (OS),,,4,,10,6,,,,,7,14,21,28,5.5,2,18,50000,,,,,,,"230, TM",IS,C,2665,
+CLLRT11,megamek.common.weapons.lrms.clan.torpedo,lrms,LRT 11,CLLRTorpedo11,,0,,11,,,,,,7,14,21,28,2.2,0,139,,,,,,,,"231, TM",CLAN,F,,3055
+CLLRT12,megamek.common.weapons.lrms.clan.torpedo,lrms,LRT 12,CLLRTorpedo12,,0,,12,,,,,,7,14,21,28,2.4,0,141,,,,,,,,"231, TM",CLAN,F,,3055
+CLLRT13,megamek.common.weapons.lrms.clan.torpedo,lrms,LRT 13,CLLRTorpedo13,,0,,13,,,,,,7,14,21,28,2.6,0,161,,,,,,,,"231, TM",CLAN,F,,3055
+CLLRT14,megamek.common.weapons.lrms.clan.torpedo,lrms,LRT 14,CLLRTorpedo14,,0,,14,,,,,,7,14,21,28,2.8,0,163,,,,,,,,"231, TM",CLAN,F,,3055
+CLLRT15,megamek.common.weapons.lrms.clan.torpedo,lrms,LRT 15,CLLRTorpedo15,,5,,15,,,,,,7,14,21,28,3.5,2,164,175000,,,,,,,"230, TM",CLAN,C,,2820
+ISLRT15,megamek.common.weapons.lrms.innerSphere.torpedo,lrms,LRT 15,,,5,,15,6,,,,,7,14,21,28,7.0,3,136,175000,,,,,,,"230, TM",IS,C,2370,
+CLLRT15IOS,megamek.common.weapons.lrms.clan.torpedo.oneShot,lrms,LRT 15 (I-OS),CLLRTorpedo15 (IOS),,5,,15,,,,,,7,14,21,28,3.0,2,33,140000,,,,,,,"139, TO:AUE",CLAN,B,,3058
+ISLRT15IOS,megamek.common.weapons.lrms.innerSphere.torpedo.oneShot,lrms,LRT 15 (I-OS),,,5,,15,6,,,,,7,14,21,28,6.5,3,27,140000,,,,,,,"139, TO:AUE",IS,B,3056,
+CLLRT15OS,megamek.common.weapons.lrms.clan.torpedo.oneShot,lrms,LRT 15 (OS),CLLRTorpedo15 (OS),,5,,15,,,,,,7,14,21,28,4.0,2,33,87500,,,,,,,"230, TM",CLAN,C,,2820
+ISLRT15OS,megamek.common.weapons.lrms.innerSphere.torpedo.oneShot,lrms,LRT 15 (OS),,,5,,15,6,,,,,7,14,21,28,7.5,3,27,87500,,,,,,,"230, TM",IS,C,2665,
+CLLRT16,megamek.common.weapons.lrms.clan.torpedo,lrms,LRT 16,CLLRTorpedo16,,0,,16,,,,,,7,14,21,28,3.2,0,214,,,,,,,,"231, TM",CLAN,F,,3055
+CLLRT17,megamek.common.weapons.lrms.clan.torpedo,lrms,LRT 17,CLLRTorpedo17,,0,,17,,,,,,7,14,21,28,3.4,0,215,,,,,,,,"231, TM",CLAN,F,,3055
+CLLRT18,megamek.common.weapons.lrms.clan.torpedo,lrms,LRT 18,CLLRTorpedo18,,0,,18,,,,,,7,14,21,28,3.6,0,217,,,,,,,,"231, TM",CLAN,F,,3055
+CLLRT19,megamek.common.weapons.lrms.clan.torpedo,lrms,LRT 19,CLLRTorpedo19,,0,,19,,,,,,7,14,21,28,3.8,0,218,,,,,,,,"231, TM",CLAN,F,,3055
+CLLRT2,megamek.common.weapons.lrms.clan.torpedo,lrms,LRT 2,CLLRTorpedo2,,0,,2,,,,,,7,14,21,28,0.4,0,24,,,,,,,,"231, TM",CLAN,F,,3055
+CLLRT20,megamek.common.weapons.lrms.clan.torpedo,lrms,LRT 20,CLLRTorpedo20,,6,,20,,,,,,7,14,21,28,5.0,4,220,250000,,,,,,,"230, TM",CLAN,C,,2820
+ISLRT20,megamek.common.weapons.lrms.innerSphere.torpedo,lrms,LRT 20,,,6,,20,6,,,,,7,14,21,28,10.0,5,181,250000,,,,,,,"230, TM",IS,C,2370,
+CLLRT20IOS,megamek.common.weapons.lrms.clan.torpedo.oneShot,lrms,LRT 20 (I-OS),CLLRTorpedo20 (IOS),,6,,20,,,,,,7,14,21,28,4.5,4,44,200000,,,,,,,"139, TO:AUE",CLAN,B,,3058
+ISLRT20IOS,megamek.common.weapons.lrms.innerSphere.torpedo.oneShot,lrms,LRT 20 (I-OS),,,6,,20,6,,,,,7,14,21,28,9.5,5,36,200000,,,,,,,"139, TO:AUE",IS,B,3056,
+CLLRT20OS,megamek.common.weapons.lrms.clan.torpedo.oneShot,lrms,LRT 20 (OS),CLLRTorpedo20 (OS),,6,,20,,,,,,7,14,21,28,5.5,4,44,125000,,,,,,,"230, TM",CLAN,C,,2820
+ISLRT20OS,megamek.common.weapons.lrms.innerSphere.torpedo.oneShot,lrms,LRT 20 (OS),,,6,,20,6,,,,,7,14,21,28,10.5,5,36,125000,,,,,,,"230, TM",IS,C,2665,
+CLLRT3,megamek.common.weapons.lrms.clan.torpedo,lrms,LRT 3,CLLRTorpedo3,,0,,3,,,,,,7,14,21,28,0.6,0,35,,,,,,,,"231, TM",CLAN,F,,3055
+CLLRT4,megamek.common.weapons.lrms.clan.torpedo,lrms,LRT 4,CLLRTorpedo4,,0,,4,,,,,,7,14,21,28,0.8,0,46,,,,,,,,"231, TM",CLAN,F,,3055
+CLLRT5,megamek.common.weapons.lrms.clan.torpedo,lrms,LRT 5,CLLRTorpedo5,,2,,5,,,,,,7,14,21,28,1.0,1,55,30000,,,,,,,"230, TM",CLAN,C,,2820
+ISLRT5,megamek.common.weapons.lrms.innerSphere.torpedo,lrms,LRT 5,,,2,,5,6,,,,,7,14,21,28,2.0,1,45,30000,,,,,,,"230, TM",IS,C,2370,
+CLLRT5IOS,megamek.common.weapons.lrms.clan.torpedo.oneShot,lrms,LRT 5 (I-OS),CLLRTorpedo5 (IOS),,2,,5,,,,,,7,14,21,28,0.5,1,11,24000,,,,,,,"139, TO:AUE",CLAN,B,,3058
+ISLRT5IOS,megamek.common.weapons.lrms.innerSphere.torpedo.oneShot,lrms,LRT 5 (I-OS),,,2,,5,6,,,,,7,14,21,28,1.5,1,9,24000,,,,,,,"139, TO:AUE",IS,B,3056,
+CLLRT5OS,megamek.common.weapons.lrms.clan.torpedo.oneShot,lrms,LRT 5 (OS),CLLRTorpedo5 (OS),,2,,5,,,,,,7,14,21,28,1.5,1,11,15000,,,,,,,"230, TM",CLAN,C,,2820
+ISLRT5OS,megamek.common.weapons.lrms.innerSphere.torpedo.oneShot,lrms,LRT 5 (OS),,,2,,5,6,,,,,7,14,21,28,2.5,1,9,15000,,,,,,,"230, TM",IS,C,2665,
+CLLRT6,megamek.common.weapons.lrms.clan.torpedo,lrms,LRT 6,CLLRTorpedo6,,0,,6,,,,,,7,14,21,28,1.2,0,69,,,,,,,,"231, TM",CLAN,F,,3055
+CLLRT7,megamek.common.weapons.lrms.clan.torpedo,lrms,LRT 7,CLLRTorpedo7,,0,,7,,,,,,7,14,21,28,1.4,0,82,,,,,,,,"231, TM",CLAN,F,,3055
+CLLRT8,megamek.common.weapons.lrms.clan.torpedo,lrms,LRT 8,CLLRTorpedo8,,0,,8,,,,,,7,14,21,28,1.6,0,93,,,,,,,,"231, TM",CLAN,F,,3055
+CLLRT9,megamek.common.weapons.lrms.clan.torpedo,lrms,LRT 9,CLLRTorpedo9,,0,,9,,,,,,7,14,21,28,1.8,0,95,,,,,,,,"231, TM",CLAN,F,,3055
+CLStreakLRM1,megamek.common.weapons.lrms.clan.streak,lrms,Streak LRM 1,CLStreakLRM1,,1,,1,,7,14,21,28,,,,,0.4,1,17,15000,,,,,,,"139, TO:AUE",,,,
+CLStreakLRM1OS,megamek.common.weapons.lrms.clan.streak.oneShot,lrms,Streak LRM 1 (OS),CLStreakLRM1OS,,0,,1,,7,14,21,28,,,,,.9,1,17,15000,,,,,,,,CLAN,F,,3057
+CLStreakLRM10,megamek.common.weapons.lrms.clan.streak,lrms,Streak LRM 10,CLStreakLRM10,,4,,10,,7,14,21,28,,,,,5.0,2,173,225000,10,10,10,,Long,,"139, TO:AUE",,,,
+CLStreakLRM10IOS,megamek.common.weapons.lrms.clan.streak.oneShot,lrms,Streak LRM 10 (I-OS),CLIOSStreakLRM10,,4,,10,,7,14,21,28,,,,,4.5,2,35,180000,15,15,15,,Long,,"139, TO:AUE",CLAN,B,,3058
+CLStreakLRM10OS,megamek.common.weapons.lrms.clan.streak.oneShot,lrms,Streak LRM 10 (OS),CLOSStreakLRM10,,4,,10,,7,14,21,28,,,,,5.5,2,35,112500,10,10,10,,Long,,"139, TO:AUE",CLAN,F,,3057
+CLStreakLRM11,megamek.common.weapons.lrms.clan.streak,lrms,Streak LRM 11,CLStreakLRM11,,0,,11,,7,14,21,28,,,,,4.4,1,190,165000,,,,,,,"139, TO:AUE",,,,
+CLStreakLRM11OS,megamek.common.weapons.lrms.clan.streak.oneShot,lrms,Streak LRM 11 (OS),CLStreakLRM11OS,,0,,11,,7,14,21,28,,,,,4.9,1,190,165000,,,,,,,,CLAN,F,,3057
+CLStreakLRM12,megamek.common.weapons.lrms.clan.streak,lrms,Streak LRM 12,CLStreakLRM12,,0,,12,,7,14,21,28,,,,,4.8,1,207,180000,,,,,,,"139, TO:AUE",,,,
+CLStreakLRM12OS,megamek.common.weapons.lrms.clan.streak.oneShot,lrms,Streak LRM 12 (OS),CLStreakLRM12 (OS),,0,,12,,7,14,21,28,,,,,5.3,1,207,180000,,,,,,,,CLAN,F,,3057
+CLStreakLRM13,megamek.common.weapons.lrms.clan.streak,lrms,Streak LRM 13,CLStreakLRM13,,0,,13,,7,14,21,28,,,,,5.2,1,224,195000,,,,,,,"139, TO:AUE",,,,
+CLStreakLRM13OS,megamek.common.weapons.lrms.clan.streak.oneShot,lrms,Streak LRM 13 (OS),CLStreakLRM13OS,,0,,13,,7,14,21,28,,,,,5.7,1,224,195000,,,,,,,,CLAN,F,,3057
+CLStreakLRM14,megamek.common.weapons.lrms.clan.streak,lrms,Streak LRM 14,CLStreakLRM14,,0,,14,,7,14,21,28,,,,,5.6,1,241,210000,,,,,,,"139, TO:AUE",,,,
+CLStreakLRM14OS,megamek.common.weapons.lrms.clan.streak.oneShot,lrms,Streak LRM 14 (OS),CLStreakLRM14OS,,0,,14,,7,14,21,28,,,,,6.1,1,241,210000,,,,,,,,CLAN,F,,3057
+CLStreakLRM15,megamek.common.weapons.lrms.clan.streak,lrms,Streak LRM 15,CLStreakLRM15,,5,,15,,7,14,21,28,,,,,7.0,3,259,400000,15,15,15,,Long,,"139, TO:AUE",,,,
+CLStreakLRM15IOS,megamek.common.weapons.lrms.clan.streak.oneShot,lrms,Streak LRM 15 (I-OS),CLIOSStreakLRM15,,5,,15,,7,14,21,28,,,,,6.5,3,52,320000,15,15,15,,Long,,"139, TO:AUE",CLAN,B,,3058
+CLStreakLRM15OS,megamek.common.weapons.lrms.clan.streak.oneShot,lrms,Streak LRM 15 (OS),CLOSStreakLRM15,,5,,15,,7,14,21,28,,,,,7.5,3,52,200000,15,15,15,,Long,,"139, TO:AUE",CLAN,F,,3057
+CLStreakLRM16,megamek.common.weapons.lrms.clan.streak,lrms,Streak LRM 16,CLStreakLRM16,,0,,16,,7,14,21,28,,,,,6.4,1,276,240000,,,,,,,"139, TO:AUE",,,,
+CLStreakLRM16OS,megamek.common.weapons.lrms.clan.streak.oneShot,lrms,Streak LRM 16 (OS),CLStreakLRM16OS,,0,,16,,7,14,21,28,,,,,6.9,1,276,240000,,,,,,,,CLAN,F,,3057
+CLStreakLRM17,megamek.common.weapons.lrms.clan.streak,lrms,Streak LRM 17,CLStreakLRM17,,0,,17,,7,14,21,28,,,,,6.80,1,293,255000,,,,,,,"139, TO:AUE",,,,
+CLStreakLRM17OS,megamek.common.weapons.lrms.clan.streak.oneShot,lrms,Streak LRM 17 (OS),CLStreakLRM17OS,,0,,17,,7,14,21,28,,,,,7.3,1,293,255000,,,,,,,,CLAN,F,,3057
+CLStreakLRM18,megamek.common.weapons.lrms.clan.streak,lrms,Streak LRM 18,CLStreakLRM18,,0,,18,,7,14,21,28,,,,,7.2,1,310,270000,,,,,,,"139, TO:AUE",,,,
+CLStreakLRM18OS,megamek.common.weapons.lrms.clan.streak.oneShot,lrms,Streak LRM 18 (OS),CLStreakLRM18OS,,0,,18,,7,14,21,28,,,,,7.7,1,310,270000,,,,,,,,CLAN,F,,3057
+CLStreakLRM19,megamek.common.weapons.lrms.clan.streak,lrms,Streak LRM 19,CLStreakLRM19,,0,,19,,7,14,21,28,,,,,7.6,1,327,285000,,,,,,,"139, TO:AUE",,,,
+CLStreakLRM19OS,megamek.common.weapons.lrms.clan.streak.oneShot,lrms,Streak LRM 19 (OS),CLStreakLRM19OS,,0,,19,,7,14,21,28,,,,,8.1,1,327,285000,,,,,,,,CLAN,F,,3057
+CLStreakLRM2,megamek.common.weapons.lrms.clan.streak,lrms,Streak LRM 2,CLStreakLRM2,,0,,2,,7,14,21,28,,,,,0.8,1,34,30000,,,,,,,,,,,
+CLStreakLRM2OS,megamek.common.weapons.lrms.clan.streak.oneShot,lrms,Streak LRM 2 (OS),CLStreakLRM2OS,,0,,2,,7,14,21,28,,,,,1.3,1,34,30000,,,,,,,"139, TO:AUE",CLAN,F,,3057
+CLStreakLRM20,megamek.common.weapons.lrms.clan.streak,lrms,Streak LRM 20,CLStreakLRM20,,6,,20,,7,14,21,28,,,,,10.0,5,345,600000,20,20,20,,Long,,"139, TO:AUE",,,,
+CLStreakLRM20IOS,megamek.common.weapons.lrms.clan.streak.oneShot,lrms,Streak LRM 20 (I-OS),CLIOSStreakLRM20,,6,,20,,7,14,21,28,,,,,9.5,5,69,480000,20,20,20,,Long,,"139, TO:AUE",CLAN,B,,3058
+CLStreakLRM20OS,megamek.common.weapons.lrms.clan.streak.oneShot,lrms,Streak LRM 20 (OS),CLOSStreakLRM20,,6,,20,,7,14,21,28,,,,,10.5,5,69,300000,20,20,20,,Long,,"139, TO:AUE",CLAN,F,,3057
+CLStreakLRM3,megamek.common.weapons.lrms.clan.streak,lrms,Streak LRM 3,CLStreakLRM3,,0,,3,,7,14,21,28,,,,,1.2,1,51,45000,,,,,,,"139, TO:AUE",,,,
+CLStreakLRM3OS,megamek.common.weapons.lrms.clan.streak.oneShot,lrms,Streak LRM 3 (OS),CLStreakLRM3OS,,0,,3,,7,14,21,28,,,,,1.7,1,51,45000,,,,,,,"139, TO:AUE",CLAN,F,,3057
+CLStreakLRM4,megamek.common.weapons.lrms.clan.streak,lrms,Streak LRM 4,CLStreakLRM4,,0,,4,,7,14,21,28,,,,,1.6,1,68,60000,,,,,,,"139, TO:AUE",,,,
+CLStreakLRM4OS,megamek.common.weapons.lrms.clan.streak.oneShot,lrms,Streak LRM 4 (OS),CLStreakLRM4OS,,0,,4,,7,14,21,28,,,,,2.1,1,68,60000,,,,,,,"139, TO:AUE",CLAN,F,,3057
+CLStreakLRM5,megamek.common.weapons.lrms.clan.streak,lrms,Streak LRM 5,CLStreakLRM5,,2,,5,,7,14,21,28,,,,,2.0,1,86,75000,5,5,5,,Long,,"139, TO:AUE",,,,
+CLStreakLRM5IOS,megamek.common.weapons.lrms.clan.streak.oneShot,lrms,Streak LRM 5 (I-OS),CLIOSStreakLRM5,,2,,5,,7,14,21,28,,,,,1.5,1,17,60000,5,5,5,,Long,,"139, TO:AUE",CLAN,B,,3058
+CLStreakLRM5OS,megamek.common.weapons.lrms.clan.streak.oneShot,lrms,Streak LRM 5 (OS),CLOSStreakLRM5,,2,,5,,7,14,21,28,,,,,2.5,1,17,37500,5,5,5,,Long,,"139, TO:AUE",CLAN,F,,3057
+CLStreakLRM6,megamek.common.weapons.lrms.clan.streak,lrms,Streak LRM 6,CLStreakLRM6,,0,,6,,7,14,21,28,,,,,2.4,1,103,90000,,,,,,,"139, TO:AUE",,,,
+CLStreakLRM6OS,megamek.common.weapons.lrms.clan.streak.oneShot,lrms,Streak LRM 6 (OS),CLStreakLRM6OS,,0,,6,,7,14,21,28,,,,,2.9,1,103,90000,,,,,,,"139, TO:AUE",CLAN,F,,3057
+CLStreakLRM7,megamek.common.weapons.lrms.clan.streak,lrms,Streak LRM 7,CLStreakLRM7,,0,,7,,7,14,21,28,,,,,2.8,1,120,105000,,,,,,,"139, TO:AUE",,,,
+CLStreakLRM7OS,megamek.common.weapons.lrms.clan.streak.oneShot,lrms,Streak LRM 7 (OS),CLStreakLRM7OS,,0,,7,,7,14,21,28,,,,,3.0,1,120,105000,,,,,,,"139, TO:AUE",CLAN,F,,3057
+CLStreakLRM8,megamek.common.weapons.lrms.clan.streak,lrms,Streak LRM 8,CLStreakLRM8,,0,,8,,7,14,21,28,,,,,3.2,1,137,120000,,,,,,,"139, TO:AUE",,,,
+CLStreakLRM8OS,megamek.common.weapons.lrms.clan.streak.oneShot,lrms,Streak LRM 8 (OS),CLStreakLRM8OS,,0,,8,,7,14,21,28,,,,,3.7,1,137,120000,,,,,,,"139, TO:AUE",CLAN,F,,3057
+CLStreakLRM9,megamek.common.weapons.lrms.clan.streak,lrms,Streak LRM 9,CLStreakLRM9,,0,,9,,7,14,21,28,,,,,3.6,1,155,135000,,,,,,,"139, TO:AUE",,,,
+CLStreakLRM9OS,megamek.common.weapons.lrms.clan.streak.oneShot,lrms,Streak LRM 9 (OS),CLStreakLRM9OS,,0,,9,,7,14,21,28,,,,,4.1,1,155,135000,,,,,,,"139, TO:AUE",CLAN,F,,3057
+CLHeavyMG,megamek.common.weapons.mgs.clan,mgs,Heavy Machine Gun,CLHeavyMG,MG D,0,3,3,,1,2,2,2,,,,,0.5,1,6,7500,3,,,,Short,,"228, TM",CLAN,C,,3054
+ISHeavyMG,megamek.common.weapons.mgs.innerSphere,mgs,Heavy Machine Gun,,MG D,0,3,3,,1,2,2,2,,,,,1.0,1,6,7500,3,,,,Short,,"228, TM",IS,B,3063,
+CLHeavyMGA,megamek.common.weapons.mgs.clan,mgs,Heavy Machine Gun Array,CLHMGA,MGA D,0,3,3,,1,2,2,4,,,,,0.25,1,0,1250,,,,,,,"228, TM",CLAN,E,,
+ISHeavyMGA,megamek.common.weapons.mgs.innerSphere,mgs,Heavy Machine Gun Array,ISHMGA,MGA D,0,3,3,,1,2,2,4,,,,,0.5,1,0,1250,,,,,,,"228, TM",IS,E,3066,
+CLLightMG,megamek.common.weapons.mgs.clan,mgs,Light Machine Gun,CLLightMG,MG B,0,1,1,,2,4,6,8,,,,,0.25,1,5,5000,1,,,,Short,,"228, TM",CLAN,C,,3055
+ISLightMG,megamek.common.weapons.mgs.innerSphere,mgs,Light Machine Gun,,MG B,0,1,1,,2,4,6,8,,,,,0.5,1,5,5000,1,,,,Short,,"228, TM",IS,B,3064,
+CLLightMGA,megamek.common.weapons.mgs.clan,mgs,Light Machine Gun Array,CLLMGA,MGA B,0,1,1,,2,4,6,8,,,,,0.25,1,0,1250,,,,,,,"228, TM",CLAN,E,,
+ISLightMGA,megamek.common.weapons.mgs.innerSphere,mgs,Light Machine Gun Array,ISLMGA,MGA B,0,1,1,,2,4,6,8,,,,,0.5,1,0,1250,,,,,,,"228, TM",IS,E,3066,
+CLMG,megamek.common.weapons.mgs.clan,mgs,Machine Gun,CLMG,MG C,0,2,2,,1,2,3,4,,,,,0.25,1,5,5000,2,,,,Short,,"228, TM",CLAN,C,,2821
+ISMG,megamek.common.weapons.mgs.innerSphere,mgs,Machine Gun,,MG C,0,2,2,,1,2,3,4,,,,,0.5,1,5,5000,2,,,,Short,,"228, TM",ALL,B,,
+CLMGA,megamek.common.weapons.mgs.clan,mgs,Machine Gun Array,CLMGA,MGA C,0,2,2,,1,2,3,4,,,,,0.25,1,0,1250,,,,,,,"228, TM",CLAN,E,,
+ISMGA,megamek.common.weapons.mgs.innerSphere,mgs,Machine Gun Array,ISMGA,MGA C,0,2,2,,1,2,3,4,,,,,0.5,1,0,1250,,,,,,,"228, TM",IS,E,3066,
+CLATM12,megamek.common.weapons.missiles.clan,missiles,ATM 12,CLATM12,,8,,12,4,5,10,15,20,,,,,7.0,5,212,350000,20,20,,,Medium,,"229, TM",CLAN,F,,3052
+CLATM3,megamek.common.weapons.missiles.clan,missiles,ATM 3,CLATM3,,2,,3,4,5,10,15,20,,,,,1.5,2,53,50000,4,4,,,Medium,,"229, TM",CLAN,F,,3052
+CLATM6,megamek.common.weapons.missiles.clan,missiles,ATM 6,CLATM6,,4,,6,4,5,10,15,20,,,,,3.5,3,105,125000,8,8,,,Medium,,"229, TM",CLAN,F,,3052
+CLATM9,megamek.common.weapons.missiles.clan,missiles,ATM 9,CLATM9,,6,,9,4,5,10,15,20,,,,,5.0,4,147,225000,14,14,,,Medium,,"229, TM",CLAN,F,,3052
+CLIATM12,megamek.common.weapons.missiles.clan,missiles,Improved ATM 12,CLiATM12,,8,,12,4,5,10,15,20,,,,,7.0,5,333,700000,,,,,Medium,,"59, IO:AE",CLAN,F,,3054
+CLIATM3,megamek.common.weapons.missiles.clan,missiles,Improved ATM 3,CLiATM3,,2,,3,4,5,10,15,20,,,,,1.5,2,83,100000,,,,,Medium,,"59, IO:AE",CLAN,F,,3054
+CLIATM6,megamek.common.weapons.missiles.clan,missiles,Improved ATM 6,CLiATM6,,4,,6,4,5,10,15,20,,,,,3.5,3,165,250000,,,,,Medium,,"59, IO:AE",CLAN,F,,3054
+CLIATM9,megamek.common.weapons.missiles.clan,missiles,Improved ATM 9,CLiATM9,,6,,9,4,5,10,15,20,,,,,5.0,4,231,450000,,,,,Medium,,"59, IO:AE",CLAN,F,,3054
+ISMML3,megamek.common.weapons.missiles.innerSphere.mml,missiles,MML 3,ISMML3,,2,,3,,,,,,,,,,1.5,2,29,45000,2,2,2,,Long,,"229, TM",IS,D,,
+ISMML5,megamek.common.weapons.missiles.innerSphere.mml,missiles,MML 5,ISMML5,,3,,5,,,,,,,,,,3,3,45,75000,3,3,3,,Long,,"229, TM",IS,D,,
+ISMML7,megamek.common.weapons.missiles.innerSphere.mml,missiles,MML 7,ISMML7,,4,,7,,,,,,,,,,4.5,4,67,105000,4,4,4,,Long,,"229, TM",IS,D,,
+ISMML9,megamek.common.weapons.missiles.innerSphere.mml,missiles,MML 9,ISMML9,,5,,9,,,,,,,,,,6,5,86,125000,5,5,5,,Long,,"229, TM",IS,D,,
+ISMRM10,megamek.common.weapons.missiles.innerSphere.mrm,missiles,MRM 10,,,4,,10,,3,8,15,22,,,,,3.0,2,56,50000,6,6,,,Medium,,"229, TM",IS,C,3052,
+ISMRM10IOS,megamek.common.weapons.missiles.innerSphere.mrm.oneShot,missiles,MRM 10 (I-OS),,,4,,10,,3,8,15,22,,,,,2.5,2,11,40000,6,6,,,Medium,,"139, TO:AUE",IS,B,3056,
+ISMRM10OS,megamek.common.weapons.missiles.innerSphere.mrm.oneShot,missiles,MRM 10 (OS),,,4,,10,,3,8,15,22,,,,,3.5,2,11,25000,6,6,,,Medium,,"229, TM",IS,C,3052,
+ISMRM20,megamek.common.weapons.missiles.innerSphere.mrm,missiles,MRM 20,,,6,,20,,3,8,15,22,,,,,7.0,3,112,125000,12,12,,,Medium,,"229, TM",IS,C,3052,
+ISMRM20IOS,megamek.common.weapons.missiles.innerSphere.mrm.oneShot,missiles,MRM 20 (I-OS),,,6,,20,,3,8,15,22,,,,,6.5,3,22,100000,12,12,,,Medium,,"139, TO:AUE",IS,B,3056,
+ISMRM20OS,megamek.common.weapons.missiles.innerSphere.mrm.oneShot,missiles,MRM 20 (OS),,,6,,20,,3,8,15,22,,,,,7.5,3,22,62500,12,12,,,Medium,,"229, TM",IS,C,3052,
+ISMRM30,megamek.common.weapons.missiles.innerSphere.mrm,missiles,MRM 30,,,10,,30,,3,8,15,22,,,,,10.0,5,168,225000,18,18,,,Medium,,"229, TM",IS,C,3052,
+ISMRM30IOS,megamek.common.weapons.missiles.innerSphere.mrm.oneShot,missiles,MRM 30 (I-OS),,,10,,30,,3,8,15,22,,,,,9.5,5,34,180000,18,18,,,Medium,,"139, TO:AUE",IS,B,3056,
+ISMRM30OS,megamek.common.weapons.missiles.innerSphere.mrm.oneShot,missiles,MRM 30 (OS),,,10,,30,,3,8,15,22,,,,,10.5,5,34,112500,18,18,,,Medium,,"229, TM",IS,C,3052,
+ISMRM40,megamek.common.weapons.missiles.innerSphere.mrm,missiles,MRM 40,,,12,,40,,3,8,15,22,,,,,12.0,7,224,350000,24,24,,,Medium,,"229, TM",IS,C,3052,
+ISMRM40IOS,megamek.common.weapons.missiles.innerSphere.mrm.oneShot,missiles,MRM 40 (I-OS),,,12,,40,,3,8,15,22,,,,,11.5,7,49,280000,24,24,,,Medium,,"139, TO:AUE",IS,B,3056,
+ISMRM40OS,megamek.common.weapons.missiles.innerSphere.mrm.oneShot,missiles,MRM 40 (OS),,,12,,40,,3,8,15,22,,,,,12.5,7,45,175000,24,24,,,Medium,,"229, TM",IS,C,3052,
+ISRL1,megamek.common.weapons.missiles.innerSphere.rocketLauncher,missiles,Rocket Launcher 1,RL1,,,,1,,3,7,12,18,,,,,,,2,,,,,,,,"229, TM",ALL,B,,
+RocketLauncher10,megamek.common.weapons.missiles.rocketLauncher,missiles,Rocket Launcher 10,RL10,,3,,10,,5,11,18,27,,,,,.5,1,18,15000,6,6,,,Medium,,"229, TM",ALL,B,,
+RocketLauncher15,megamek.common.weapons.missiles.rocketLauncher,missiles,Rocket Launcher 15,RL15,,4,,15,,4,9,15,22,,,,,1.0,2,23,30000,9,9,,,Medium,,"229, TM",ALL,B,,
+ISRL2,megamek.common.weapons.missiles.innerSphere.rocketLauncher,missiles,Rocket Launcher 2,RL2,,,,2,,3,7,12,18,,,,,,,3,,,,,,,,"229, TM",ALL,B,,
+RocketLauncher20,megamek.common.weapons.missiles.rocketLauncher,missiles,Rocket Launcher 20,RL20,,5,,20,,3,7,12,18,,,,,1.5,3,24,45000,12,12,,,Medium,,"229, TM",ALL,B,,
+ISRL3,megamek.common.weapons.missiles.innerSphere.rocketLauncher,missiles,Rocket Launcher 3,RL3,,,,3,,3,7,12,18,,,,,,,4,,,,,,,,"229, TM",ALL,B,,
+ISRL4,megamek.common.weapons.missiles.innerSphere.rocketLauncher,missiles,Rocket Launcher 4,RL4,,,,4,,3,7,12,18,,,,,,,5,,,,,,,,"229, TM",ALL,B,,
+ISRL5,megamek.common.weapons.missiles.innerSphere.rocketLauncher,missiles,Rocket Launcher 5,RL 5,,,,5,,3,7,12,18,,,,,7.0,2,6,,,,,,,,"229, TM",ALL,B,,
+ISThunderbolt10,megamek.common.weapons.missiles.innerSphere.thunderbolt,missiles,Thunderbolt 10,,,,,,,,,,,,,,,7,,127,175000,,,,,,,,,,,
+ISThunderbolt10IOS,megamek.common.weapons.missiles.innerSphere.thunderbolt.oneShot,missiles,Thunderbolt 10 (I-OS),,,,,,,,,,,,,,,6.5,,25,140000,,,,,,,,,B,3056,
+ISThunderbolt10OS,megamek.common.weapons.missiles.innerSphere.thunderbolt.oneShot,missiles,Thunderbolt 10 (OS),,,,,,,,,,,,,,,7.5,,25,87500,,,,,,,,,,,
+ISThunderbolt15,megamek.common.weapons.missiles.innerSphere.thunderbolt,missiles,Thunderbolt 15,,,,,,,,,,,,,,,11.0,,229,325000,,,,,,,,,,,
+ISThunderbolt15IOS,megamek.common.weapons.missiles.innerSphere.thunderbolt.oneShot,missiles,Thunderbolt 15 (I-OS),,,,,,,,,,,,,,,10.5,,46,260000,,,,,,,,,B,3056,
+ISThunderbolt15OS,megamek.common.weapons.missiles.innerSphere.thunderbolt.oneShot,missiles,Thunderbolt 15 (OS),,,,,,,,,,,,,,,11.5,,46,162500,,,,,,,,,,,
+ISThunderbolt20,megamek.common.weapons.missiles.innerSphere.thunderbolt,missiles,Thunderbolt 20,,,,,,,,,,,,,,,15,,305,450000,,,,,,,,,,,
+ISThunderbolt20IOS,megamek.common.weapons.missiles.innerSphere.thunderbolt.oneShot,missiles,Thunderbolt 20 (I-OS),,,,,,,,,,,,,,,14.5,,61,360000,,,,,,,,,B,3056,
+ISThunderbolt20OS,megamek.common.weapons.missiles.innerSphere.thunderbolt.oneShot,missiles,Thunderbolt 20 (OS),,,,,,,,,,,,,,,15.5,,61,225000,,,,,,,,,,,
+ISThunderbolt5,megamek.common.weapons.missiles.innerSphere.thunderbolt,missiles,Thunderbolt 5,,,,,,,,,,,,,,,3.0,,64,50000,,,,,,,,,,,
+ISThunderbolt5IOS,megamek.common.weapons.missiles.innerSphere.thunderbolt.oneShot,missiles,Thunderbolt 5 (I-OS),,,,,,,,,,,,,,,2.5,,13,40000,,,,,,,,,B,3056,
+ISThunderbolt5OS,megamek.common.weapons.missiles.innerSphere.thunderbolt.oneShot,missiles,Thunderbolt 5 (OS),,,,,,,,,,,,,,,3.5,,13,25000,,,,,,,,,,,
+CLMekMortar1,megamek.common.weapons.mortars.clan,mortars,'Mech Mortar 1,Clan Mech Mortar-1,,1,,1,6,7,14,21,28,,,,,1,1,10.0,7000,,,,,,,"136, TO:AUE",CLAN,B,,2835
+ISMekMortar1,megamek.common.weapons.mortars.innerSphere,mortars,'Mech Mortar 1,IS Mech Mortar-1,,1,,1,6,7,14,21,28,,,,,2,1,10.0,7000,,,,,,,"136, TO:AUE",ALL,B,2526,2526
+CLMekMortar2,megamek.common.weapons.mortars.clan,mortars,'Mech Mortar 2,Clan Mech Mortar-2,,2,,2,6,7,14,21,28,,,,,2.5,1,14.0,15000,,,,,,,"136, TO:AUE",CLAN,B,,2835
+ISMekMortar2,megamek.common.weapons.mortars.innerSphere,mortars,'Mech Mortar 2,IS Mech Mortar-2,,2,,2,6,7,14,21,28,,,,,5,2,14.0,15000,,,,,,,"136, TO:AUE",ALL,B,2526,2526
+CLMekMortar4,megamek.common.weapons.mortars.clan,mortars,'Mech Mortar 4,Clan Mech Mortar-4,,5,,4,6,7,14,21,28,,,,,3.5,2,26.0,32000,,,,,,,"136, TO:AUE",CLAN,B,,2835
+ISMekMortar4,megamek.common.weapons.mortars.innerSphere,mortars,'Mech Mortar 4,IS Mech Mortar-4,,5,,4,6,7,14,21,28,,,,,7,3,26.0,32000,,,,,,,"136, TO:AUE",ALL,B,2526,2526
+CLMekMortar8,megamek.common.weapons.mortars.clan,mortars,'Mech Mortar 8,Clan Mech Mortar-8,,10,,8,6,7,14,21,28,,,,,5,3,50.0,70000,,,,,,,"136, TO:AUE",CLAN,B,,2835
+ISMekMortar8,megamek.common.weapons.mortars.innerSphere,mortars,'Mech Mortar 8,IS Mech Mortar-8,,10,,8,6,7,14,21,28,,,,,10,5,50.0,70000,,,,,,,"136, TO:AUE",ALL,B,2526,2526
+ISVehicularGrenadeLauncher,megamek.common.weapons.mortars.innerSphere,mortars,Vehicular Grenade Launcher,ISVehicularGrenadeLauncher,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CLAMS,megamek.common.weapons.other.clan,other,Anti-Missile System,CLAntiMissileSystem,,1,2,2,0,1,1,1,1,,,,,0.5,1,32.0,100000,3,,,,Short,,"204, TM",CLAN,F,,2824
+ISAMS,megamek.common.weapons.other.innerSphere,other,Anti-Missile System,ISAntiMissileSystem,,1,2,2,0,1,1,1,1,,,,,0.5,1,32,100000,3,,,,Short,,"204, TM",IS,E,2613,
+ISMekTaser,megamek.common.weapons.other.innerSphere,other,BattleMech Taser,Mek Taser,,6,1,1,,1,2,4,6,,,,,4,3,40,200000,,,,,,6,"157, TO:AUE",IS,E,3065,
+ISCenturionWeaponSystem,megamek.common.weapons.other.innerSphere,other,Centurion Weapon System,,,4,0,,0,6,12,18,24,4,7,10,14,5.0,2,190,1000000,0,0,,,Medium,,"79, IO:AE",IS,E,2762,
+CLFireExtinguisher,megamek.common.weapons.other.clan,other,Fire Extinguisher,,,0,0,,,1,1,1,1,,,,,0.0,0,,,,,,,,,,CLAN,B,,
+ISFireExtinguisher,megamek.common.weapons.other.innerSphere,other,Fire Extinguisher,,,0,0,,,1,1,1,1,,,,,0.0,0,,,,,,,,,,IS,B,,
+CLFluidGun,megamek.common.weapons.other.clan,other,Fluid Gun,Clan Fluid Gun,,0,,1,,1,2,3,4,,,,,2,2,6.0,35000,,,,,,,"125, TO:AUE",CLAN,B,,
+ISFluidGun,megamek.common.weapons.other.innerSphere,other,Fluid Gun,IS Fluid Gun,,0,,1,,1,2,3,4,,,,,2,2,6,35000,,,,,,,"125, TO:AUE",IS,B,,
+CLFussilade,megamek.common.weapons.other.clan,other,Fusillade Launcher,Fusillade,,,6,3,4,5,10,15,20,,,,,1.5,1,11.0,100000,6,6,6,,Medium,,"59, IO:AE",CLAN,F,,3072
+CLLaserAMS,megamek.common.weapons.other.clan,other,Laser AMS,CLLaserAntiMissileSystem,Anti-Missile System Laser,5,3,2,0,1,1,1,1,,,,,1,1,45,225000,3,,,,Short,,"134, TO:AUE",CLAN,F,,
+ISLaserAMS,megamek.common.weapons.other.innerSphere,other,Laser AMS,ISLaserAntiMissileSystem,Anti-Missile System Laser,7,3,2,0,1,1,1,1,,,,,1.5,2,45,225000,3,,,,Short,,"134, TO:AUE",IS,E,,
+CLNarc,megamek.common.weapons.other.clan,other,Narc,CLNarcBeacon,,0,,1,,4,8,12,16,,,,,2.0,1,30,100000,,,,,,,"232, TM",CLAN,F,,2820
+ISNarc,megamek.common.weapons.other.innerSphere,other,Narc,ISNarcBeacon,,0,,1,,3,6,9,12,,,,,3.0,2,30,100000,,,,,,,"232, TM",ALL,E,2580,2580
+CLNarcIOS,megamek.common.weapons.other.clan,other,Narc (I-OS),CLNarcBeacon (I-OS),,0,,1,,4,8,12,16,,,,,1.5,1,6,100000,,,,,,,"139, TO:AUE",CLAN,B,,3058
+ISNarcIOS,megamek.common.weapons.other.innerSphere,other,Narc (I-OS),ISNarcBeacon (I-OS),,0,,1,,3,6,9,12,,,,,2.5,2,6,100000,,,,,,,"139, TO:AUE",IS,B,3056,
+CLNarcOS,megamek.common.weapons.other.clan,other,Narc (OS),CLNarcBeacon (OS),,0,,1,,4,8,12,16,,,,,2.5,1,6,100000,,,,,,,"232, TM",CLAN,F,,2820
+ISNarcOS,megamek.common.weapons.other.innerSphere,other,Narc (OS),ISNarcBeacon (OS),,0,,1,,3,6,9,12,,,,,3.5,2,6,100000,,,,,,,"232, TM",ALL,E,2665,2665
+ISAPDS,megamek.common.weapons.other.innerSphere,other,RISC Advanced Point Defense System,ISAPDS,,2,2,2,0,1,2,3,3,,,,,3,2,64,200000,,,,,Long,,"85, IO:AE",IS,E,3134,
+ISTSEMPCannon,megamek.common.weapons.other.innerSphere,other,TSEMP Cannon,,,,,,,,,,,,,,,6,5,488,800000,,,,,,,"84, IO:AE",IS,E,3085,
+ISTSEMPOneShot,megamek.common.weapons.other.innerSphere,other,TSEMP One-Shot,,,,,,,,,,,,,,,4,3,98,500000,,,,,,,"84, IO:AE",IS,E,3095,
+ISTSEMPRepeatingCannon,megamek.common.weapons.other.innerSphere,other,TSEMP Repeating Cannon,,,,,,,,,,,,,,,8,7,600,1200000,,,,,,,"88, IO:AE",IS,F,3133,
+ISImprovedNarc,megamek.common.weapons.other.innerSphere,other,iNarc,ISImprovedNarc,Narc X,0,,1,,4,9,15,22,,,,,5.0,3,75,250000,,,,,,,"232, TM",IS,E,3054,
+ISImprovedNarcOS,megamek.common.weapons.other.innerSphere,other,iNarc (OS),ISImprovedNarc (OS),Narc X OS,0,,1,,4,9,15,22,,,,,5.5,2,15,250000,,,,,,,"232, TM",IS,E,3054,
+CLERPPC,megamek.common.weapons.ppc.clan,ppc,ER PPC,CLERPPC,PPC ER,15,15,,,7,14,23,34,4,10,16,24,6.0,2,412.0,300000,15,15,15,,Long,,"233, TM",CLAN,F,,2823
+ISERPPC,megamek.common.weapons.ppc.innerSphere,ppc,ER PPC,ISERPPC,PPC ER,15,10,,,7,14,23,34,4,10,16,24,7.0,3,229,300000,10,10,10,,Long,,"234, TM",ALL,E,2740,2740
+CLEnhancedPPC,megamek.common.weapons.ppc.clan,ppc,Enhanced PPC,CLWERPPC,PPC Enhanced,15,12,,,7,14,23,34,4,10,16,24,7.0,3,329.0,300000,12,12,12,,Long,,"89, IO:AE",CLAN,F,,2822
+ISHeavyPPC,megamek.common.weapons.ppc.innerSphere,ppc,Heavy PPC,,PPC D,15,15,,3,6,12,18,24,4,7,10,15,10.0,4,317,250000,15,15,,,Medium,,"234, TM",IS,E,3062,
+CLImprovedPPC,megamek.common.weapons.ppc.clan,ppc,Improved PPC,,PPC IMP,10,10,,3,6,12,18,24,4,7,10,14,6.0,2,176,200000,10,10,,,Medium,,"89, IO:AE",CLAN,F,,2819
+ISKinsSlaughterPPC,megamek.common.weapons.ppc.innerSphere,ppc,Kins Slaughter H ER PPC,ISKinHERPPC,PPC ER Kins,13,10,,,4,10,16,24,4,10,16,24,7.0,3,229,450000,,,,,,,Unofficial,ALL,E,2740,2740
+ISLightPPC,megamek.common.weapons.ppc.innerSphere,ppc,Light PPC,,PPC B,5,5,,3,6,12,18,24,4,7,10,15,3.0,2,88,150000,5,5,,,Medium,,"234, TM",IS,E,3064,
+ISPPC,megamek.common.weapons.ppc.innerSphere,ppc,PPC,,PPC C,10,10,,3,6,12,18,24,4,7,10,15,7.0,3,176,200000,10,10,,,Medium,,"234, TM",ALL,D,2440,2440
+CLPlasmaCannon,megamek.common.weapons.ppc.clan,ppc,Plasma Cannon,CLPlasmaCannon,,7,,2,,6,12,18,24,,,,,3.0,1,170,320000,10,10,,,Medium,,"234, TM",CLAN,F,,3068
+ISPlasmaRifle,megamek.common.weapons.ppc.innerSphere,ppc,Plasma Rifle,ISPlasmaRifle,,10,10,1,,5,10,15,20,,,,,6.0,2,210,260000,10,10,,,Medium,,"234, TM",IS,E,3061,
+ISSnubNosePPC,megamek.common.weapons.ppc.innerSphere,ppc,Snub-Nose PPC,ISSNPPC,PPC Snub,10,,,0,9,13,15,22,6,8,9,13,6.0,2,165,300000,10,8,,,Medium,,"234, TM",IS,E,2695,
+ISAC10Primitive,megamek.common.weapons.primitive,primitive,Primitive Prototype Autocannon/10,Autocannon/10 Primitive,,3,10,10,,5,10,15,20,,,,,12.0,7,123,200000,10,10,,,Medium,,"112, IO:AE",IS,C,2450,
+ISAC2Primitive,megamek.common.weapons.primitive,primitive,Primitive Prototype Autocannon/2,Autocannon/2p,Primitive Prototype Autocannon/02,1,2,2,4,8,16,24,32,,,,,6.0,1,37,75000,2,2,2,2,Long,,"112, IO:AE",IS,C,2290,
+ISAC20Primitive,megamek.common.weapons.primitive,primitive,Primitive Prototype Autocannon/20,Autocannon/20 Primitive,,7,20,20,,3,6,9,12,,,,,14.0,10,178,300000,20,,,,Short,,"112, IO:AE",IS,C,2488,
+ISAC5Primitive,megamek.common.weapons.primitive,primitive,Primitive Prototype Autocannon/5,Autocannon/5 Primitive,Primitive Prototype Autocannon/05,1,5,5,3,6,12,18,24,,,,,8.0,4,70,125000,5,5,,,Medium,,"112, IO:AE",IS,C,2240,
+ISLRM10Primitive,megamek.common.weapons.primitive,primitive,Primitive Prototype LRM 10,,,4,,10,6,,,,,,,,,5.0,2,90,100000,6,6,6,,Long,,"112, IO:AE",IS,C,2295,
+ISLRM15Primitive,megamek.common.weapons.primitive,primitive,Primitive Prototype LRM 15,,,5,,15,6,,,,,,,,,7.0,3,136,175000,9,9,9,,Long,,"112, IO:AE",IS,C,2295,
+ISLRM20Primitive,megamek.common.weapons.primitive,primitive,Primitive Prototype LRM 20,,,6,,20,6,,,,,,,,,10.0,5,181,250000,12,12,12,,Long,,"112, IO:AE",IS,C,2295,
+ISLRM5Primitive,megamek.common.weapons.primitive,primitive,Primitive Prototype LRM 5,,Primitive Prototype LRM 05,2,,5,6,,,,,,,,,2.0,1,45,30000,3,3,3,,Long,,"112, IO:AE",IS,C,2295,
+ISLaserPrimitiveLarge,megamek.common.weapons.primitive,primitive,Primitive Prototype Large Laser,,Laser Proto D,12,8,,,5,10,15,20,3,6,9,12,5.0,2,123,100000,8,8,,,Medium,,"112, IO:AE",IS,C,2306,
+ISLongTomPrimitive,megamek.common.weapons.primitive,primitive,Primitive Prototype Long Tom Artillery,ISPrimitiveLongTom,,20,,25,,1,2,30,30,,,,,30,30,368,450000,,,,,,,"112, IO:AE",IS,E,2445,
+ISLaserPrimitiveMedium,megamek.common.weapons.primitive,primitive,Primitive Prototype Medium Laser,,Laser Proto C,5,5,,,3,6,9,12,2,4,6,8,1.0,1,46,40000,5,,,,Short,,"112, IO:AE",IS,C,2290,
+ISPPCPrimitive,megamek.common.weapons.primitive,primitive,Primitive Prototype PPC,,PPC Proto C,15,10,,3,6,12,18,24,4,7,10,15,7.0,3,176,200000,10,10,,,Medium,,"112, IO:AE",IS,C,2439,
+ISSRM2Primitive,megamek.common.weapons.primitive,primitive,Primitive Prototype SRM 2,,SRM Proto 2,2,,2,,3,6,9,12,,,,,1.0,1,21,10000,2,,,,Short,,"112, IO:AE",IS,C,2365,
+ISSRM4Primitive,megamek.common.weapons.primitive,primitive,Primitive Prototype SRM 4,,SRM Proto 4,3,,4,,3,6,9,12,,,,,2.0,1,39,60000,4,,,,Short,,"112, IO:AE",IS,C,2365,
+ISSRM6Primitive,megamek.common.weapons.primitive,primitive,Primitive Prototype SRM 6,,SRM Proto 6,4,,6,,3,6,9,12,,,,,3.0,2,59,80000,8,,,,Short,,"112, IO:AE",IS,C,2365,
+ISLaserPrimitiveSmall,megamek.common.weapons.primitive,primitive,Primitive Prototype Small Laser,,Laser Proto B,2,3,,,1,2,3,4,1,2,2,2,0.5,1,9,11250,3,,,,Short,,"112, IO:AE",IS,C,2290,
+ISPulseLaserMediumRecovered,megamek.common.weapons.prototypes.innerSphere,prototypes,Medium Pulse Laser (Recovered Prototype),ISMediumPulseLaserRecovered,,4,6,,,2,4,6,8,2,3,4,6,2.0,1,48,240000,,,,,,,"97, IO:AE",IS,E,3031,
+PrototypeArrowIV,megamek.common.weapons.prototypes,prototypes,Prototype Arrow IV,ProtoTypeArrowIV,,10,,20,,1,2,8,8,,,,,16,16,240,1800000,,,,,,,"64, IO:AE",IS,E,2593,
+ISERLaserLargePrototype,megamek.common.weapons.prototypes.innerSphere,prototypes,Prototype ER Large Laser,ISERLargeLaserPrototype,,12,8,,,7,14,19,28,3,9,12,18,5.0,2,136,600000,8,8,8,,Long,,"97, IO:AE",IS,E,3030,
+CLERLaserMediumPrototype,megamek.common.weapons.prototypes.clan,prototypes,Prototype ER Medium Laser (CP),CLERMediumLaserPrototype,,5,5,,,4,8,12,16,3,5,8,12,1.5,1,62,80000,5,5,,,Medium,,"91, IO:AE",CLAN,E,,2819
+CLERLaserSmallPrototype,megamek.common.weapons.prototypes.clan,prototypes,Prototype ER Small Laser (CP),CLERSmallLaserPrototype,,2,3,,,2,4,5,7,1,2,3,4,0.5,1,17,11250,3,,,,Short,,"91, IO:AE",CLAN,E,,2819
+ISGaussRiflePrototype,megamek.common.weapons.prototypes.innerSphere,prototypes,Prototype Gauss Rifle,ISGaussRiflePrototype,Gauss PROTO,1,15,,2,7,15,22,33,,,,,15.0,8,320,1200000,,,,,,20,"66, IO:AE",IS,E,2587,
+ISLB10XACPrototype,megamek.common.weapons.prototypes.innerSphere,prototypes,Prototype LB 10-X Autocannon,ISLBXAC10Prototype,LB Proto 10-X AC,2,10,10,,6,12,18,24,,,,,11.0,7,148,2000000,,,,,,,"66, IO:AE",IS,E,2590,
+CLLB2XACPrototype,megamek.common.weapons.prototypes.clan,prototypes,Prototype LB 2-X Autocannon,CLLBXAC2Prototype,Prototype LB 02-X Autocannon,1,2,2,4,9,18,27,36,,,,,6.0,5,42,150000,2,2,2,2,Extreme,,"91, IO:AE",CLAN,F,,2820
+CLLB20XACPrototype,megamek.common.weapons.prototypes.clan,prototypes,Prototype LB 20-X Autocannon,CLLBXAC20Prototype,,6,20,20,,4,8,12,16,,,,,14.0,12,237,600000,20,20,,,Medium,,"91, IO:AE",CLAN,F,,2820
+CLLB5XACPrototype,megamek.common.weapons.prototypes.clan,prototypes,Prototype LB 5-X Autocannon,CLLBXAC5Prototype,Prototype LB 05-X Autocannon,1,5,5,3,7,14,21,28,,,,,8.0,6,83,250000,5,5,5,,Long,,"91, IO:AE",CLAN,F,,2820
+ISPulseLaserLargePrototype,megamek.common.weapons.prototypes.innerSphere,prototypes,Prototype Large Pulse Laser,ISLargePulseLaserPrototype,,10,9,,,3,7,10,15,2,5,7,10,7.0,2,108,875000,9,9,,,Medium,,"67, IO:AE",IS,E,2595,
+ISPulseLaserMediumPrototype,megamek.common.weapons.prototypes.innerSphere,prototypes,Prototype Medium Pulse Laser,ISMediumPulseLaserPrototype,,4,6,,,2,4,6,8,2,3,4,6,2.0,1,43,300000,,,,,,,"67, IO:AE",IS,E,2595,
+ISNarcPrototype,megamek.common.weapons.prototypes.innerSphere,prototypes,Prototype Narc Missile Beacon,ISNarcBeaconPrototype,,0,,1,,3,6,9,12,,,,,3.0,2,15,300000,,,,,,,"66, IO:AE",IS,E,2580,
+PrototypeRL10,megamek.common.weapons.prototypes,prototypes,Prototype Rocket Launcher 10,CLRocketLauncher10Prototype,,3,,10,,5,11,18,27,,,,,.5,1,15,15000,6,6,,,Medium,,"67, IO:AE",ALL,B,,
+PrototypeRL15,megamek.common.weapons.prototypes,prototypes,Prototype Rocket Launcher 15,CLRocketLauncher15Prototype,,4,,15,,4,9,15,22,,,,,1.0,2,18,30000,9,9,,,Medium,,"67, IO:AE",ALL,B,,
+PrototypeRL20,megamek.common.weapons.prototypes,prototypes,Prototype Rocket Launcher 20,RocketLauncher20Prototype,,5,,20,,3,7,12,18,,,,,1.5,3,19,45000,12,12,,,Medium,,"67, IO:AE",ALL,B,,
+ISPulseLaserSmallPrototype,megamek.common.weapons.prototypes.innerSphere,prototypes,Prototype Small Pulse Laser,ISSmallPulseLaserPrototype,,2,3,,,1,2,3,4,1,2,2,2,1.0,1,11,80000,3,,,,Short,,"67, IO:AE",IS,E,2595,
+CLStreakSRM4Prototype,megamek.common.weapons.prototypes.clan,prototypes,Prototype Streak SRM 4,CLStreakSRM4Prototype,,3,,4,,3,6,9,12,,,,,3.0,2,59,60000,4,,,,Short,,"91, IO:AE",CLAN,E,,2819
+CLStreakSRM6Prototype,megamek.common.weapons.prototypes.clan,prototypes,Prototype Streak SRM 6,CLStreakSRM6Prototype,,4,,6,,3,6,9,12,,,,,4.5,2,89,120000,8,,,,Short,,"91, IO:AE",CLAN,E,,2819
+ISPrototypeTAG,megamek.common.weapons.prototypes.innerSphere,prototypes,Prototype TAG,ISProtoTypeTAG,,0,0,,,5,9,15,18,,,,,1.5,1,0,150000,,,,,,,"67, IO:AE",IS,E,2593,
+CLUAC10Prototype,megamek.common.weapons.prototypes.clan,prototypes,Prototype Ultra Autocannon/10,CLUltraAC10Prototype,,4,10,10,,6,12,18,24,,,,,13.0,8,210,320000,15,15,,,Medium,,"92, IO:AE",CLAN,F,,2820
+CLUAC2Prototype,megamek.common.weapons.prototypes.clan,prototypes,Prototype Ultra Autocannon/2,CLUltraAC2Prototype,,1,2,2,3,8,17,25,34,,,,,7.0,4,56,120000,3,3,3,3,Extreme,,"92, IO:AE",CLAN,F,,2820
+CLUAC20Prototype,megamek.common.weapons.prototypes.clan,prototypes,Prototype Ultra Autocannon/20,CLUltraAC20Prototype,,8,20,20,,3,7,10,14,,,,,15.0,11,281,480000,30,30,,,Medium,,"92, IO:AE",CLAN,F,,2820
+ISUAC5Prototype,megamek.common.weapons.prototypes.innerSphere,prototypes,Prototype Ultra Autocannon/5,ISUltraAC5Prototype,,1,5,5,2,6,13,20,26,,,,,9.0,6,112,1000000,7,7,7,,Long,,"98, IO:AE",IS,E,3029,
+CLImprovedSRM2,megamek.common.weapons.srms.clan.improvedSRM,srms,Improved SRM 2,,,2,,2,,4,8,12,16,,,,,1.0,1,28,10000,3,3,,,Medium,,"90, IO:AE",CLAN,F,,2815
+CLImprovedSRM4,megamek.common.weapons.srms.clan.improvedSRM,srms,Improved SRM 4,,,3,,4,,4,8,12,16,,,,,2.0,1,39,60000,6,6,,,Medium,,"90, IO:AE",CLAN,F,,2815
+CLImprovedSRM6,megamek.common.weapons.srms.clan.improvedSRM,srms,Improved SRM 6,Improved SRM 6,,4,,6,,4,8,12,16,,,,,3.0,2,79,80000,9,9,,,Medium,,"90, IO:AE",CLAN,F,,2815
+CLSRM1,megamek.common.weapons.srms.clan,srms,SRM 1,CLSRM1,,,,1,,3,6,9,12,,,,,,,15,80000,,,,,,,"231, TM",CLAN,F,,3055
+CLSRM1OS,megamek.common.weapons.srms.clan.oneShot,srms,SRM 1 (OS),CLSRM1OS,,,,1,,3,6,9,12,,,,,,,3,,,,,,,,"231, TM",CLAN,F,,3055
+CLSRM2,megamek.common.weapons.srms.clan,srms,SRM 2,CLSRM2,,2,,2,,3,6,9,12,,,,,0.5,1,21,10000,2,,,,Short,,"229, TM",CLAN,F,,2820
+ISSRM2,megamek.common.weapons.srms.innerSphere,srms,SRM 2,,,2,,2,,3,6,9,12,,,,,1.0,1,21,10000,2,,,,Short,,"229, TM",ALL,C,2365,2365
+CLSRM2IOS,megamek.common.weapons.srms.clan.oneShot,srms,SRM 2 (I-OS),CLSRM2 (IOS),,2,,2,,3,6,9,12,,,,,0.25,1,4,8000,2,,,,Short,,"139, TO:AUE",CLAN,B,,
+ISSRM2IOS,megamek.common.weapons.srms.innerSphere.oneShot,srms,SRM 2 (I-OS),ISSRM2IOS,,2,,2,,3,6,9,12,,,,,0.5,1,4,8000,2,,,,Short,,"139, TO:AUE",IS,B,,
+CLSRM2OS,megamek.common.weapons.srms.clan.oneShot,srms,SRM 2 (OS),CLSRM2 (OS),,2,,2,,3,6,9,12,,,,,1,1,4,5000,2,,,,Short,,"228, TM",CLAN,F,,2820
+ISSRM2OS,megamek.common.weapons.srms.innerSphere.oneShot,srms,SRM 2 (OS),ISSRM2OS,,2,,2,,3,6,9,12,,,,,1.5,1,4,5000,2,,,,Short,,"230, TM",IS,C,2665,
+CLSRM3,megamek.common.weapons.srms.clan,srms,SRM 3,CLSRM3,,,,3,,3,6,9,12,,,,,,,30,80000,,,,,,,"231, TM",CLAN,F,,3055
+CLSRM3OS,megamek.common.weapons.srms.clan.oneShot,srms,SRM 3 (OS),CLSRM3OS,,,,3,,3,6,9,12,,,,,,,6,,,,,,,,"231, TM",CLAN,F,,3055
+CLSRM4,megamek.common.weapons.srms.clan,srms,SRM 4,CLSRM4,,3,,4,,3,6,9,12,,,,,1.0,1,39,60000,4,,,,Short,,"229, TM",CLAN,F,,2820
+ISSRM4,megamek.common.weapons.srms.innerSphere,srms,SRM 4,,,3,,4,,3,6,9,12,,,,,2.0,1,39,60000,4,,,,Short,,"229, TM",ALL,C,2365,2365
+CLSRM4IOS,megamek.common.weapons.srms.clan.oneShot,srms,SRM 4 (I-OS),CLSRM4 (IOS),,3,,4,,3,6,9,12,,,,,0.5,1,8,48000,4,,,,Short,,"139, TO:AUE",CLAN,B,,
+ISSRM4IOS,megamek.common.weapons.srms.innerSphere.oneShot,srms,SRM 4 (I-OS),ISSRM4IOS,,3,,4,,3,6,9,12,,,,,1.5,1,8,48000,4,,,,Short,,"139, TO:AUE",IS,B,,
+CLSRM4OS,megamek.common.weapons.srms.clan.oneShot,srms,SRM 4 (OS),CLSRM4 (OS),,3,,4,,3,6,9,12,,,,,1.5,1,8,30000,4,,,,Short,,"228, TM",CLAN,F,,2820
+ISSRM4OS,megamek.common.weapons.srms.innerSphere.oneShot,srms,SRM 4 (OS),ISSRM4OS,,3,,4,,3,6,9,12,,,,,2.5,1,8,30000,4,,,,Short,,"230, TM",IS,C,2665,
+CLSRM5,megamek.common.weapons.srms.clan,srms,SRM 5,CLSRM5,,,,5,,3,6,9,12,,,,,,,47,80000,,,,,,,"231, TM",CLAN,F,,3055
+CLSRM5OS,megamek.common.weapons.srms.clan.oneShot,srms,SRM 5 (OS),CLSRM5OS,,,,5,,3,6,9,12,,,,,,,9,,,,,,,,"231, TM",CLAN,F,,3055
+CLSRM6,megamek.common.weapons.srms.clan,srms,SRM 6,CLSRM6,,4,,6,,3,6,9,12,,,,,1.5,1,59,80000,8,,,,Short,,"229, TM",CLAN,F,,2820
+ISSRM6,megamek.common.weapons.srms.innerSphere,srms,SRM 6,,,4,,6,,3,6,9,12,,,,,3.0,2,59,80000,8,,,,Short,,"229, TM",ALL,C,2365,2365
+CLSRM6IOS,megamek.common.weapons.srms.clan.oneShot,srms,SRM 6 (I-OS),CLSRM6 (IOS),,4,,6,,3,6,9,12,,,,,1.0,1,12,64000,8,,,,Short,,"139, TO:AUE",CLAN,B,,
+ISSRM6IOS,megamek.common.weapons.srms.innerSphere.oneShot,srms,SRM 6 (I-OS),ISSRM6IOS,,4,,6,,3,6,9,12,,,,,2.5,2,12,64000,8,,,,Short,,"139, TO:AUE",IS,B,,
+CLSRM6OS,megamek.common.weapons.srms.clan.oneShot,srms,SRM 6 (OS),CLSRM6 (OS),,4,,6,,3,6,9,12,,,,,2.0,1,12,40000,8,,,,Short,,"228, TM",CLAN,F,,2820
+ISSRM6OS,megamek.common.weapons.srms.innerSphere.oneShot,srms,SRM 6 (OS),ISSRM6OS,,4,,6,,3,6,9,12,,,,,3.5,2,12,40000,8,,,,Short,,"230, TM",IS,C,2665,
+CLSRT1,megamek.common.weapons.srms.clan.torpedo,srms,SRT 1,CLSRT1,,,,1,,,,,,3,6,9,12,0.25,1,15,10000,,,,,,,"230, TM",CLAN,C,,2820
+CLSRT1OS,megamek.common.weapons.srms.clan.torpedo.oneShot,srms,SRT 1 (OS),CLSRMT1OS,,,,1,,,,,,3,6,9,12,0.25,1,3,,,,,,,,"230, TM",CLAN,F,,3055
+CLSRT2,megamek.common.weapons.srms.clan.torpedo,srms,SRT 2,CLSRT2,,2,,2,,,,,,3,6,9,12,0.5,1,21,10000,,,,,,,"230, TM",CLAN,C,,2820
+ISSRT2,megamek.common.weapons.srms.innerSphere.torpedo,srms,SRT 2,,,2,,2,,,,,,3,6,9,12,1.0,1,21,10000,,,,,,,"230, TM",IS,C,2665,
+CLSRT2IOS,megamek.common.weapons.srms.clan.torpedo.oneShot,srms,SRT 2 (I-OS),CLSRT2 (IOS),,2,,2,,,,,,3,6,9,12,0.5,1,4,8000,,,,,,,"139, TO:AUE",CLAN,B,,
+ISSRT2IOS,megamek.common.weapons.srms.innerSphere.torpedo.oneShot,srms,SRT 2 (I-OS),ISSRT2IOS,,2,,2,,,,,,3,6,9,12,0.5,1,4,8000,,,,,,,"139, TO:AUE",IS,B,,
+CLSRT2OS,megamek.common.weapons.srms.clan.torpedo.oneShot,srms,SRT 2 (OS),CLSRT2 (OS),,2,,2,,,,,,3,6,9,12,1.0,1,4,5000,,,,,,,"230, TM",CLAN,C,,2665
+ISSRT2OS,megamek.common.weapons.srms.innerSphere.torpedo.oneShot,srms,SRT 2 (OS),ISSRT2OS,,2,,2,,,,,,3,6,9,12,1.5,1,4,5000,,,,,,,"230, TM",IS,C,2665,
+CLSRT3,megamek.common.weapons.srms.clan.torpedo,srms,SRT 3,CLSRT3,,,,3,,,,,,3,6,9,12,0.75,1,30,80000,,,,,,,"230, TM",CLAN,F,,3055
+CLSRT3OS,megamek.common.weapons.srms.clan.torpedo.oneShot,srms,SRT 3 OS,CLSRT3OS,,,,3,,,,,,3,6,9,12,0.75,1,6,80000,,,,,,,"230, TM",CLAN,F,,3055
+CLSRT4,megamek.common.weapons.srms.clan.torpedo,srms,SRT 4,CLSRT4,,3,,4,,,,,,3,6,9,12,1.0,1,39,60000,,,,,,,"230, TM",CLAN,C,,2820
+ISSRT4,megamek.common.weapons.srms.innerSphere.torpedo,srms,SRT 4,,,3,,4,,,,,,3,6,9,12,2.0,1,39,60000,,,,,,,"230, TM",IS,C,2665,
+CLSRT4IOS,megamek.common.weapons.srms.clan.torpedo.oneShot,srms,SRT 4 (I-OS),CLSRT4 (IOS),,3,,4,,,,,,3,6,9,12,0.5,1,8,48000,,,,,,,"139, TO:AUE",CLAN,B,,
+ISSRT4IOS,megamek.common.weapons.srms.innerSphere.torpedo.oneShot,srms,SRT 4 (I-OS),ISSRT4IOS,,3,,4,,,,,,3,6,9,12,1.5,1,8,48000,,,,,,,"139, TO:AUE",IS,B,,
+CLSRT4OS,megamek.common.weapons.srms.clan.torpedo.oneShot,srms,SRT 4 (OS),CLSRT4 (OS),,3,,4,,,,,,3,6,9,12,1.5,1,8,30000,,,,,,,"230, TM",CLAN,C,,2665
+ISSRT4OS,megamek.common.weapons.srms.innerSphere.torpedo.oneShot,srms,SRT 4 (OS),ISSRT4OS,,3,,4,,,,,,3,6,9,12,2.5,1,8,30000,,,,,,,"230, TM",IS,C,2665,
+CLSRT5,megamek.common.weapons.srms.clan.torpedo,srms,SRT 5,CLSRT5,,,,5,,,,,,3,6,9,12,1.25,1,47,80000,,,,,,,"231, TM",CLAN,F,,3055
+CLSRT5OS,megamek.common.weapons.srms.clan.torpedo.oneShot,srms,SRT 5 OS,CLSRT5OS,,,,5,,,,,,3,6,9,12,1.25,1,9,80000,,,,,,,"230, TM",CLAN,F,,3055
+CLSRT6,megamek.common.weapons.srms.clan.torpedo,srms,SRT 6,CLSRT6,,4,,6,,,,,,3,6,9,12,1.5,1,59,80000,,,,,,,"230, TM",CLAN,C,,2820
+ISSRT6,megamek.common.weapons.srms.innerSphere.torpedo,srms,SRT 6,,,4,,6,,,,,,3,6,9,12,3.0,2,59,80000,,,,,,,"230, TM",IS,C,2665,
+CLSRT6IOS,megamek.common.weapons.srms.clan.torpedo.oneShot,srms,SRT 6 (I-OS),CLSRT6 (IOS),,4,,6,,,,,,3,6,9,12,1,1,12,64000,,,,,,,"139, TO:AUE",CLAN,B,,
+ISSRT6IOS,megamek.common.weapons.srms.innerSphere.torpedo.oneShot,srms,SRT 6 (I-OS),ISSRT6IOS,,4,,6,,,,,,3,6,9,12,2.5,2,12,64000,,,,,,,"139, TO:AUE",IS,B,,
+CLSRT6OS,megamek.common.weapons.srms.clan.torpedo.oneShot,srms,SRT 6 (OS),CLSRT6 (OS),,4,,6,,,,,,3,6,9,12,2.0,1,12,40000,,,,,,,"230, TM",CLAN,C,,2665
+ISSRT6OS,megamek.common.weapons.srms.innerSphere.torpedo.oneShot,srms,SRT 6 (OS),ISSRT6OS,,4,,6,,,,,,3,6,9,12,3.5,2,12,40000,,,,,,,"230, TM",IS,C,2665,
+CLStreakSRM1,megamek.common.weapons.srms.clan.streak,srms,Streak SRM 1,CLStreakSRM1,,0,,1,,4,8,12,16,,,,,0.5,0,20,,,,,,,,"230, TM",CLAN,F,,3055
+CLStreakSRM2,megamek.common.weapons.srms.clan.streak,srms,Streak SRM 2,CLStreakSRM2,,2,,2,,4,8,12,16,,,,,1.0,1,40,15000,4,4,,,Medium,,"230, TM",CLAN,F,,2819
+ISStreakSRM2,megamek.common.weapons.srms.innerSphere.streak,srms,Streak SRM 2,ISStreakSRM2,,2,,2,,3,6,9,12,,,,,1.5,1,30,15000,4,,,,Short,,"230, TM",ALL,E,2645,2645
+CLStreakSRM2IOS,megamek.common.weapons.srms.clan.streak.oneShot,srms,Streak SRM 2 (I-OS),CLStreakSRM2 (IOS),,2,,2,,4,8,12,16,,,,,0.5,1,8,12000,4,4,,,Medium,,"139, TO:AUE",CLAN,B,,
+ISStreakSRM2IOS,megamek.common.weapons.srms.innerSphere.streak.oneShot,srms,Streak SRM 2 (I-OS),ISStreakSRM2IOS,,2,,2,,3,6,9,12,,,,,1.0,1,6,12000,4,,,,Short,,"139, TO:AUE",IS,B,,
+CLStreakSRM2OS,megamek.common.weapons.srms.clan.streak.oneShot,srms,Streak SRM 2 (OS),CLStreakSRM2 (OS),,2,,2,,4,8,12,16,,,,,1.5,1,8,7500,4,4,,,,,"230, TM",CLAN,F,,2819
+ISStreakSRM2OS,megamek.common.weapons.srms.innerSphere.streak.oneShot,srms,Streak SRM 2 (OS),ISStreakSRM2OS,,2,,2,,3,6,9,12,,,,,2.0,1,6,7500,4,,,,Short,,"230, TM",IS,E,2665,
+CLStreakSRM3,megamek.common.weapons.srms.clan.streak,srms,Streak SRM 3,CLStreakSRM3,,0,,3,,4,8,12,16,,,,,1.5,0,59,,,,,,,,"230, TM",CLAN,F,,3055
+CLStreakSRM4,megamek.common.weapons.srms.clan.streak,srms,Streak SRM 4,CLStreakSRM4,,3,,4,,4,8,12,16,,,,,2.0,1,79,90000,8,8,,,Medium,,"230, TM",CLAN,F,,2819
+ISStreakSRM4,megamek.common.weapons.srms.innerSphere.streak,srms,Streak SRM 4,ISStreakSRM4,,3,,4,,3,6,9,12,,,,,3.0,1,59,90000,8,,,,Short,,"230, TM",IS,E,3055,
+CLStreakSRM4IOS,megamek.common.weapons.srms.clan.streak.oneShot,srms,Streak SRM 4 (I-OS),CLStreakSRM4 (IOS),,3,,4,,4,8,12,16,,,,,1.5,1,16,72000,8,8,,,Medium,,"139, TO:AUE",CLAN,B,,
+ISStreakSRM4IOS,megamek.common.weapons.srms.innerSphere.streak.oneShot,srms,Streak SRM 4 (I-OS),ISStreakSRM4IOS,,3,,4,,3,6,9,12,,,,,2.5,1,12,72000,8,,,,Short,,"139, TO:AUE",IS,B,,
+CLStreakSRM4OS,megamek.common.weapons.srms.clan.streak.oneShot,srms,Streak SRM 4 (OS),CLStreakSRM4 (OS),,3,,4,,4,8,12,16,,,,,2.5,1,16,45000,8,8,,,Medium,,"230, TM",CLAN,F,,2819
+ISStreakSRM4OS,megamek.common.weapons.srms.innerSphere.streak.oneShot,srms,Streak SRM 4 (OS),ISStreakSRM4OS,,3,,4,,3,6,9,12,,,,,3.5,1,12,45000,8,,,,Short,,"230, TM",IS,E,3055,
+CLStreakSRM5,megamek.common.weapons.srms.clan.streak,srms,Streak SRM 5,CLStreakSRM5,,0,,5,,4,8,12,16,,,,,2.5,0,99,,,,,,,,"230, TM",CLAN,F,,3055
+CLStreakSRM6,megamek.common.weapons.srms.clan.streak,srms,Streak SRM 6,CLStreakSRM6,,4,,6,,4,8,12,16,,,,,3.0,2,118,120000,12,12,,,Medium,,"230, TM",CLAN,F,,2819
+ISStreakSRM6,megamek.common.weapons.srms.innerSphere.streak,srms,Streak SRM 6,ISStreakSRM6,,4,,6,,3,6,9,12,,,,,4.5,2,89,120000,12,,,,Short,,"230, TM",IS,E,3055,
+CLStreakSRM6IOS,megamek.common.weapons.srms.clan.streak.oneShot,srms,Streak SRM 6 (I-OS),CLStreakSRM6 (IOS),,4,,6,,4,8,12,16,,,,,2.5,2,24,96000,12,12,,,Medium,,"139, TO:AUE",CLAN,B,,
+ISStreakSRM6IOS,megamek.common.weapons.srms.innerSphere.streak.oneShot,srms,Streak SRM 6 (I-OS),ISStreakSRM6IOS,,4,,6,,3,6,9,12,,,,,4.0,2,18,96000,12,,,,Short,,"139, TO:AUE",IS,B,,
+CLStreakSRM6OS,megamek.common.weapons.srms.clan.streak.oneShot,srms,Streak SRM 6 (OS),CLStreakSRM6 (OS),,4,,6,,4,8,12,16,,,,,3.5,2,24,60000,12,12,,,Medium,,"230, TM",CLAN,F,,2819
+ISStreakSRM6OS,megamek.common.weapons.srms.innerSphere.streak.oneShot,srms,Streak SRM 6 (OS),ISStreakSRM6OS,,4,,6,,3,6,9,12,,,,,5.0,2,18,60000,12,,,,Short,,"230, TM",IS,E,3055,
+SubCapCannonWeaponHeavy,megamek.common.weapons.subCapitalWeapons,subCapitalWeapons,Sub-Capital Cannon (Heavy),,Sub-Capital Cannon D,42,7,7,,11,22,33,44,,,,,700.0,,991,1300000,7,7,,,Medium,,"155, TO:AUE",ALL,E,,
+SubCapCannonWeaponLight,megamek.common.weapons.subCapitalWeapons,subCapitalWeapons,Sub-Capital Cannon (Light),,Sub-Capital Cannon B,12,2,2,,11,22,33,44,,,,,200.0,,379,330000,2,2,2,,Long,,"155, TO:AUE",ALL,E,,
+SubCapCannonWeaponMedium,megamek.common.weapons.subCapitalWeapons,subCapitalWeapons,Sub-Capital Cannon (Medium),,Sub-Capital Cannon C,30,5,5,,11,22,33,44,,,,,500.0,,708,780000,5,5,,,Medium,,"155, TO:AUE",ALL,E,,
+SubCapLaserWeapon1,megamek.common.weapons.subCapitalWeapons,subCapitalWeapons,Sub-Capital Laser /1,,,24,1,,,11,22,33,44,,,,,150.0,,237,220000,1,1,1,,Long,,"155, TO:AUE",ALL,E,,
+SubCapLaserWeapon2,megamek.common.weapons.subCapitalWeapons,subCapitalWeapons,Sub-Capital Laser /2,,,28,2,,,11,22,33,44,,,,,200.0,,354,335000,2,2,,,Medium,,"155, TO:AUE",ALL,E,,
+SubCapLaserWeapon3,megamek.common.weapons.subCapitalWeapons,subCapitalWeapons,Sub-Capital Laser /3,,,32,3,,,11,22,33,44,,,,,250.0,,531,450000,3,3,,,Medium,,"155, TO:AUE",ALL,E,,
+SubCapMissileMantaRayWeapon,megamek.common.weapons.subCapitalWeapons,subCapitalWeapons,Sub-Capital Missile Launcher (Manta Ray),,,21,5,,,7,14,21,28,,,,,160.0,,396,150000,5,,,,,,"156, TO:AUE",ALL,E,,
+SubCapMissilePiranhaWeapon,megamek.common.weapons.subCapitalWeapons,subCapitalWeapons,Sub-Capital Missile Launcher (Piranha),,,9,3,,,7,14,21,28,,,,,100.0,,589,75000,3,3,3,,,,"156, TO:AUE",ALL,E,,
+SubCapMissileStingrayWeapon,megamek.common.weapons.subCapitalWeapons,subCapitalWeapons,Sub-Capital Missile Launcher (Stingray),,,9,3,,,7,14,21,28,,,,,120.0,,496,85000,3.5,3.5,,,,,"156, TO:AUE",ALL,E,,
+SubCapMissileSwordfishWeapon,megamek.common.weapons.subCapitalWeapons,subCapitalWeapons,Sub-Capital Missile Launcher (Swordfish),,,15,4,,,7,14,21,28,,,,,140.0,,317,110000,4,,,,,,"156, TO:AUE",ALL,E,,
+CLLightTAG,megamek.common.weapons.tag,tag,Light TAG,CLLightTAG,,0,0,,,3,6,9,12,,,,,0.5,1,0,40000,,,,,,,"238, TM",CLAN,F,,3051
+CLTAG,megamek.common.weapons.tag,tag,TAG,CLTAG,,0,0,,,5,9,15,18,,,,,1,1,0,50000,,,,,,,"238, TM",CLAN,F,,2828
+ISTAG,megamek.common.weapons.tag,tag,TAG,ISTAG,,0,0,,,5,9,15,18,,,,,1,1,0,50000,,,,,,,"238, TM",IS,E,2593,
+ISAC10i,megamek.common.weapons.unofficial.innerSphere.ac,unofficial,AC/10i,ISAutocannon10i,,3,10,10,1,7,15,20,28,,,,,12.0,7,167,410000,10,10,10,,Long,,Unofficial,ALL,C,2443,2443
+ISAC15,megamek.common.weapons.unofficial.innerSphere.ac,unofficial,AC/15,Autocannon/15,,5,15,15,,4,8,12,16,,,,,13.0,8,178,250000,15,15,,,Medium,,Unofficial,ALL,C,2488,2488
+ISGAC2,megamek.common.weapons.unofficial.innerSphere.ac,unofficial,GAC/2,,,2,4,2,4,8,16,24,32,,,,,8.0,2,88,100000,4,4,4,4,Long,,Unofficial,IS,E,3060,
+ISGAC4,megamek.common.weapons.unofficial.innerSphere.ac,unofficial,GAC/4,,,4,8,4,4,8,16,24,32,,,,,12.0,4,175,200000,8,8,8,8,Long,,Unofficial,IS,E,3060,
+ISGAC6,megamek.common.weapons.unofficial.innerSphere.ac,unofficial,GAC/6,,,6,12,6,4,8,16,24,32,,,,,14.0,4,316,300000,12,12,12,12,Long,,Unofficial,IS,E,3060,
+ISGAC8,megamek.common.weapons.unofficial.innerSphere.ac,unofficial,GAC/8,,,8,16,8,4,8,16,24,32,,,,,16.0,4,421,400000,16,16,16,16,Long,,Unofficial,IS,E,3060,
+ISLAC10,megamek.common.weapons.unofficial.innerSphere.ac,unofficial,LAC/10,Light Auto Cannon/10,,3,10,10,,3,6,9,12,,,,,8.0,4,74,225000,,,,,,,Unofficial,IS,D,3062,
+ISLAC20,megamek.common.weapons.unofficial.innerSphere.ac,unofficial,LAC/20,Light Auto Cannon/20,,7,20,20,,2,4,6,8,,,,,9.0,6,118,325000,,,,,,,Unofficial,IS,D,3062,
+ISTHBLB2XAC,megamek.common.weapons.unofficial.innerSphere.thb,unofficial,LB 2-X AC (THB),ISTHBLBXAC2,,1,2,2,6,10,18,27,36,,,,,6.0,4,40,200000,,,,,,,THB (Unofficial),IS,E,3055,
+ISTHBLB20XAC,megamek.common.weapons.unofficial.innerSphere.thb,unofficial,LB 20-X AC (THB),ISTHBLBXAC20,,6,20,20,,4,7,12,14,,,,,14.0,10,204,700000,,,,,,,THB (Unofficial),IS,E,3055,
+ISTHBLB5XAC,megamek.common.weapons.unofficial.innerSphere.thb,unofficial,LB 5-X AC (THB),ISTHBLBXAC5,,1,5,5,3,8,15,22,30,,,,,8.0,6,85,300000,,,,,,,THB (Unofficial),IS,E,3055,
+ISLRM1,megamek.common.weapons.unofficial.innerSphere.lrm,unofficial,LRM 1,,,,,1,6,,,,,,,,,,,14,,,,,,,,Unofficial,IS,E,,
+ISLRM1OS,megamek.common.weapons.unofficial.innerSphere.lrm.oneShot,unofficial,LRM 1 (OS),,,,,1,6,,,,,,,,,,,3,,,,,,,,Unofficial,IS,E,,
+ISLRM2,megamek.common.weapons.unofficial.innerSphere.lrm,unofficial,LRM 2,,,,,2,6,,,,,,,,,,,20,,,,,,,,Unofficial,IS,E,,
+ISLRM2OS,megamek.common.weapons.unofficial.innerSphere.lrm.oneShot,unofficial,LRM 2 (OS),,,,,2,6,,,,,,,,,,,4,,,,,,,,Unofficial,IS,E,,
+ISLRM3,megamek.common.weapons.unofficial.innerSphere.lrm,unofficial,LRM 3,,,,,3,6,,,,,,,,,,,29,,,,,,,,Unofficial,IS,E,,
+ISLRM3OS,megamek.common.weapons.unofficial.innerSphere.lrm.oneShot,unofficial,LRM 3 (OS),,,,,3,6,,,,,,,,,,,6,,,,,,,,Unofficial,IS,E,,
+ISLRM4,megamek.common.weapons.unofficial.innerSphere.lrm,unofficial,LRM 4,,,,,4,6,,,,,,,,,,,38,,,,,,,,Unofficial,IS,E,,
+ISLRM4OS,megamek.common.weapons.unofficial.innerSphere.lrm.oneShot,unofficial,LRM 4 (OS),,,,,4,6,,,,,,,,,,,8,,,,,,,,Unofficial,IS,E,,
+ISLaserAMSTHB,megamek.common.weapons.unofficial.innerSphere,unofficial,Laser AMS (THB),ISLaserAntiMissileSystemTHB,,3,3,2,0,1,1,1,1,,,,,1.5,2,105,300000,3,,,,Short,,"156, TO:AUE",IS,E,3059,
+ISMRM1,megamek.common.weapons.unofficial.innerSphere.mrm,unofficial,MRM 1,,,,,1,,3,8,15,16,,,,,,,9,,,,,,,,Unofficial,IS,E,,
+ISMRM1OS,megamek.common.weapons.unofficial.innerSphere.mrm.oneShot,unofficial,MRM 1 (OS),,,,,1,,3,8,15,16,,,,,,,2,,,,,,,,Unofficial,IS,E,,
+ISMRM2,megamek.common.weapons.unofficial.innerSphere.mrm,unofficial,MRM 2,,,,,2,,3,8,15,16,,,,,,,13,,,,,,,,Unofficial,IS,E,,
+ISMRM2OS,megamek.common.weapons.unofficial.innerSphere.mrm.oneShot,unofficial,MRM 2 (OS),,,,,2,,3,8,15,16,,,,,,,3,,,,,,,,Unofficial,IS,E,,
+ISMRM3,megamek.common.weapons.unofficial.innerSphere.mrm,unofficial,MRM 3,,,,,3,,3,8,15,16,,,,,,,18,,,,,,,,Unofficial,IS,E,,
+ISMRM3OS,megamek.common.weapons.unofficial.innerSphere.mrm.oneShot,unofficial,MRM 3 (OS),,,,,3,,3,8,15,16,,,,,,,4,,,,,,,,Unofficial,IS,E,,
+ISMRM4,megamek.common.weapons.unofficial.innerSphere.mrm,unofficial,MRM 4,,,,,4,,3,8,15,16,,,,,,,23,,,,,,,,Unofficial,IS,E,,
+ISMRM4OS,megamek.common.weapons.unofficial.innerSphere.mrm.oneShot,unofficial,MRM 4 (OS),,,,,4,,3,8,15,16,,,,,,,45,,,,,,,,Unofficial,IS,E,,
+ISMRM5,megamek.common.weapons.unofficial.innerSphere.mrm,unofficial,MRM 5,,,,,5,,3,8,15,16,,,,,,,28,,,,,,,,Unofficial,IS,E,,
+ISMRM5OS,megamek.common.weapons.unofficial.innerSphere.mrm.oneShot,unofficial,MRM 5 (OS),,,,,5,,3,8,15,16,,,,,,,6,,,,,,,,Unofficial,IS,E,,
+CLPlasmaRifle,megamek.common.weapons.unofficial.clan,unofficial,Plasma Rifle,MFUK Plasma Rifle,,15,10,1,2,6,14,22,28,,,,,6.0,2,400,300000,,,,,,,Unofficial,CLAN,F,,3068
+ISRailGun,megamek.common.weapons.unofficial.innerSphere,unofficial,Rail Gun,ISRailGun,,1,22,,1,6,13,19,26,,,,,18.0,9,411,300000,,,,,,20,Unofficial,IS,E,3051,
+CLRAC10,megamek.common.weapons.unofficial.clan,unofficial,Rotary AC/10,CLRotaryAC10,,3,10,10,,6,12,18,24,,,,,14.0,7,617,640000,,,,,,,Unofficial,CLAN,F,,3073
+CLRAC20,megamek.common.weapons.unofficial.clan,unofficial,Rotary AC/20,CLRotaryAC20,,7,20,20,,4,8,12,16,,,,,16.0,10,823,960000,,,,,,,Unofficial,CLAN,F,,3073
+ISSRM1,megamek.common.weapons.unofficial.innerSphere.srm,unofficial,SRM 1,,,,,1,,3,6,9,12,,,,,,,15,,,,,,,,Unofficial,IS,E,,
+ISSRM1OS,megamek.common.weapons.unofficial.innerSphere.srm.oneShot,unofficial,SRM 1 (OS),,,,,1,,3,6,9,12,,,,,,,3,,,,,,,,Unofficial,IS,E,,
+ISSRM3,megamek.common.weapons.unofficial.innerSphere.srm,unofficial,SRM 3,,,,,3,,3,6,9,12,,,,,,,30,,,,,,,,Unofficial,IS,E,,
+ISSRM3OS,megamek.common.weapons.unofficial.innerSphere.srm.oneShot,unofficial,SRM 3 (OS),,,,,3,,3,6,9,12,,,,,,,6,,,,,,,,Unofficial,IS,E,,
+ISSRM5,megamek.common.weapons.unofficial.innerSphere.srm,unofficial,SRM 5,,,,,5,,3,6,9,12,,,,,,,47,,,,,,,,Unofficial,IS,E,,
+ISSRM5OS,megamek.common.weapons.unofficial.innerSphere.srm.oneShot,unofficial,SRM 5 (OS),,,,,5,,3,6,9,12,,,,,,,9,,,,,,,,Unofficial,IS,E,,
+ISTHBUAC10,megamek.common.weapons.unofficial.innerSphere.thb,unofficial,Ultra AC/10 (THB),ISUltraAC10 (THB),,4,10,10,,7,14,21,28,,,,,13.0,7,245,400000,,,,,,,THB (Unofficial),IS,E,3055,
+ISTHBUAC2,megamek.common.weapons.unofficial.innerSphere.thb,unofficial,Ultra AC/2 (THB),ISUltraAC2 (THB),,1,2,2,3,9,20,32,40,,,,,7.0,3,67,150000,,,,,,,THB (Unofficial),IS,E,3055,
+ISTHBUAC20,megamek.common.weapons.unofficial.innerSphere.thb,unofficial,Ultra AC/20 (THB),ISUltraAC20 (THB),,10,20,20,,4,8,12,16,,,,,15.0,11,335,600000,,,,,,,THB (Unofficial),IS,E,3057,

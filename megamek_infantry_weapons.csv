@@ -1,0 +1,360 @@
+className,subCategory,name,internalName,infantryDamage,infantryRange,shots,bursts,crew,ammoType,tonnage,bv,cost,rulesRefs,techBase,techRating,isIntroYear,clanIntroYear
+InfantrySniperStalkerWeapon,,Sniper Rifle (Stalker Sniper Rifle),Sniper Rifle (Stalker Sniper Rifle),0.25,2,9,,,INFANTRY,.009,.25,5000,"HBHL, 147",IS,C,3055,
+InfantryTWFlamerWeapon,,Total Warfare Flamer,Total Warfare Flamer,0.35,1,,,1,,.015,0.36,100,,ALL,C,2100,2100
+InfantryArchaicBladeArchaicSwordWeapon,archaic,Blade (Archaic Sword)),Blade (Archaic Sword)),0.04,0,,,,NA,.0035,0.0,45,"195, ATOW-C",ALL,A,,
+InfantryArchaicAxeWeapon,archaic,Blade (Axe/Hatchet/Tomahawk),Blade (Axe/Hatchet/Tomahawk),0.11,0,,,,NA,.004,0.10,25,"272, TM",ALL,A,,
+InfantryArchaicBokkenWeapon,archaic,Blade (Bokken),Blade (Bokken),0.04,0,,,,NA,.002,0.04,15,"272, TM",ALL,A,,
+InfantryArchaicCarbonReinforcedNailsWeapon,archaic,Blade (Carbon-Reinforced Nails),Blade (Carbon-Reinforced Nails),0.02,0,,,,NA,0,0.02,1000,"272, TM",IS,D,2980,
+InfantryArchaicDaggerWeapon,archaic,Blade (Dagger/Knife/Bayonet),Blade (Dagger/Knife/Bayonet),0.02,0,,,,NA,.0025,0.02,8,"272, TM",ALL,A,,
+InfantryArchaicDaoWeapon,archaic,Blade (Dao/Katana/No-Dachi/Sword/Wakizashi),Blade (Dao/Katana/No-Dachi/Sword/Wakizashi),0.04,0,,,,NA,.003,0.04,200,"272, TM",ALL,A,,
+InfantryArchaicHatchetWeapon,archaic,Blade (Hatchet/Tomahawk) (Unofficial),Blade (Hatchet/Tomahawk) (Unofficial),0.04,0,,,,NA,.001,0.04,10,"272, TM",ALL,A,1950,1950
+InfantryArchaicBladeJoustingLanceWeapon,archaic,Blade (Jousting Lance),Blade (Jousting Lance),0.05,0,,,,NA,.0035,0.0,65,"195, ATOW-C",ALL,A,,
+InfantryArchaicNoDachiWeapon,archaic,Blade (No-Dachi),Blade (No-Dachi),0.05,0,,,,NA,.0045,0.05,300,"272, TM",ALL,A,1950,1950
+InfantryArchaicShurikenWeapon,archaic,Blade (Shuriken/Thrown Knives),Blade (Shuriken/Thrown Knives),0,0,,,,NA,.0001,0,5,"272, TM",ALL,A,,
+InfantryArchaicSwordWeapon,archaic,Blade (Sword),Blade (Sword),0.07,0,,,,NA,.003,0.06,30,"272, TM",ALL,A,,
+InfantryArchaicVibroAxeWeapon,archaic,Blade (Vibro-axe),Blade (Vibro-axe),0.42,0,,,,NA,.005,0.39,150,"272, TM",ALL,E,,
+InfantryArchaicVibroBladeWeapon,archaic,Blade (Vibro-blade),Blade (Vibro-blade),0.21,0,,,,NA,.00035,0.19,100,"272, TM",ALL,D,,
+InfantryArchaicVibroKatanaWeapon,archaic,Blade (Vibro-katana),Blade (Vibro-katana),0.32,0,,,,NA,.003,0.29,350,"272, TM",ALL,E,2440,2440
+InfantryArchaicClanVibroSwordWeapon,archaic,Blade (Vibro-sword) [Clan],Blade (Vibro-sword) [Clan],0.37,0,,,,NA,.004,0.34,500,"272, TM",CLAN,F,,2815
+InfantryArchaicISVibroSwordWeapon,archaic,"Blade (Vibro-sword, I.S.)","Blade (Vibro-sword, I.S.)",0.32,0,,,,NA,.004,0.29,300,"272, TM",ALL,E,2435,2435
+InfantryArchaicWakizashiWeapon,archaic,Blade (Wakizashi),Blade (Wakizashi),0.02,0,,,,NA,.0002,0.02,150,"272, TM",ALL,A,1950,1950
+InfantryArchaicBladeZweihanderSwordWeapon,archaic,Blade (Zweihander Sword),Blade (Zweihander Sword),0.05,0,,,,NA,0.0051,0.0,60,"195, ATOW-C",ALL,A,1950,1950
+InfantryArchaicCompoundBowWeapon,archaic,Bow (Compound),Bow (Compound),0.01,0,,,,NA,.001,0.01,15,"272, TM",ALL,C,1950,1950
+InfantryArchaicDaikyuBowWeapon,archaic,Bow (Daikyu),Bow (Daikyu),0.01,0,,,,NA,.001,0.01,30,"272, TM",ALL,A,1950,1950
+InfantryArchaicHankyuBowWeapon,archaic,Bow (Hankyu),Bow (Hankyu),0.0,0,,,,NA,.0008,0.0,15,"272, TM",ALL,A,1950,1950
+InfantryArchaicLongBowWeapon,archaic,Bow (Long bow),Bow (Long bow),0.01,0,,,,NA,.0015,0.01,20,"272, TM",ALL,A,1950,1950
+InfantryArchaicPrimitiveBowWeapon,archaic,Bow (Primitive),Bow (Primitive),0.02,0,,,,NA,0.001,0.0,5,"195, AToW-C",ALL,A,1950,1950
+InfantryArchaicShortBowWeapon,archaic,Bow (Shortbow),Bow (Shortbow),0.0,0,,,,NA,.0008,0.0,10,"272, TM",ALL,A,1950,1950
+InfantryArchaicBlackjackWeapon,archaic,Club (Blackjack/Sap),Club (Blackjack/Sap),0.05,0,,,,NA,.001,0.05,5,"272, TM",ALL,A,1950,1950
+InfantryArchaicImprovisedClubWeapon,archaic,Club (Club/Improvised),Club (Club/Improvised),0.02,0,,,,NA,.002,0.02,0,"272, TM",ALL,A,1950,1950
+InfantryArchaicVibroMaceWeapon,archaic,Club (Vibro-Mace),Club (Vibro-Mace),0.26,0,,,,NA,.004,0.24,300,"272, TM",IS,E,3000,
+InfantryArchaicYumiBowWeapon,archaic,Compound Yumi (Bow) (Unofficial),Compound Yumi (Bow) (Unofficial),0.01,0,,,,NA,.001,0.01,30,"272, TM",ALL,C,1950,1950
+InfantryArchaicBasicCrossbowWeapon,archaic,Crossbow (Basic/Heavy),Crossbow (Basic/Heavy),0.01,0,,,,NA,.002,0.01,10,"272, TM",ALL,A,1950,1950
+InfantryArchaicHeavyCrossbowWeapon,archaic,Crossbow (Heavy)(Unofficial),Crossbow (Heavy)(Unofficial),0.02,0,,,,NA,.004,0.02,20,"272, TM",ALL,A,1950,1950
+InfantryArchaicKatanaWeapon,archaic,Katana (Unofficial),Katana (Unofficial),0.07,0,,,,NA,.0025,0.06,250,"272, TM",ALL,A,1950,1950
+InfantryArchaicNunchakuWeapon,archaic,Staff (Nunchaku/Pole Arm),Staff (Nunchaku/Pole Arm),0.02,0,,,,NA,.00015,0.02,10,"272, TM",ALL,A,1950,1950
+InfantryArchaicPolearmWeapon,archaic,Staff (Pole Arm) (Unofficial),Staff (Pole Arm) (Unofficial),0.04,0,,,,NA,.006,0.04,50,"272, TM",ALL,A,1950,1950
+InfantryArchaicShockStaffWeapon,archaic,Staff (Shock Staff),Staff (Shock Staff),0.21,0,,,,NA,0.003,0.0,1500,"195, AToW-C",IS,E,3074,
+InfantryArchaicDoubleStunStaffWeapon,archaic,"Staff (Stun Staff, Double-End)","Staff (Stun Staff, Double-End)",0.07,0,,,,NA,.003,0.06,500,"272, TM",ALL,C,2100,2100
+InfantryArchaicSingleStunStaffWeapon,archaic,"Staff (Stun Staff, Single-End)","Staff (Stun Staff, Single-End)",0.07,0,,,,NA,.0003,0.06,300,"272, TM",ALL,C,2100,2100
+InfantryArchaicStaffWeapon,archaic,Staff (Unofficial),Staff (Unofficial),0.04,0,,,,NA,.0025,0.04,5,"272, TM",ALL,A,1950,1950
+InfantryArchaicStunstickWeapon,archaic,Stunstick,Stunstick,0.07,0,,,,NA,.0002,0.06,200,"272, TM",ALL,C,2100,2100
+InfantryArchaicMiniStunstickWeapon,archaic,Stunstick (Mini),Stunstick (Mini),0.05,0,,,,NA,.00015,0.05,50,"272, TM",ALL,C,2100,2100
+InfantryArchaicWhipWeapon,archaic,Whip,Whip,0.05,0,,,,NA,.00035,0.05,18,"195, AToW-C",ALL,A,1950,1950
+InfantryArchaicMedusaWhipWeapon,archaic,Whip (Medusa),Whip (Medusa),0.16,0,,,,NA,.00045,0.15,2200,"272, TM",CLAN,E,,2820
+InfantryArchaicMonowireWeapon,archaic,Whip (Monowire),Whip (Monowire),0.35,0,,,,NA,.00025,0.32,200,"272, TM",ALL,E,2100,2100
+InfantryArchaicNeuralLashWeapon,archaic,Whip (Neural Lash),Whip (Neural Lash),0.09,0,,,,NA,.0001,0.08,750,"272, TM",ALL,D,2300,2300
+InfantryArchaicNeuralWhipWeapon,archaic,Whip (Neural Whip),Whip (Neural Whip),0.09,0,,,,NA,.0003,0.08,500,"272, TM",ALL,D,2315,2315
+InfantryGrenadeInfernoWeapon,grenade,Grenade (Inferno),InfantryGrenadeInferno,0.19,0,,,,NA,.0006,0.17,16,"272, TM",ALL,C,1950,1950
+InfantryGrenadeMicroWeapon,grenade,Grenade (Micro),Grenade (Micro),0.16,0,,,,NA,.0002,0.15,2,"272, TM",ALL,C,1950,1950
+InfantryGrenadeMiniInfernoWeapon,grenade,Grenade (Mini) (Inferno),InfantryMiniGrenadeInferno,0.11,0,,,,NA,.00045,0.10,8,"272, TM",ALL,C,1950,1950
+InfantryGrenadeMiniWeapon,grenade,Grenade (Mini) (Non-Inferno),InfantryMiniGrenade,0.27,0,,,,NA,.00045,0.25,8,"272, TM",ALL,C,1950,1950
+InfantryGrenadeStandardWeapon,grenade,Grenade (Non-Inferno),InfantryGrenade,0.48,0,,,,NA,.0006,0.44,16,"273, TM",ALL,C,1950,1950
+InfantryGrenadeRAGWeapon,grenade,Grenade (Rocket-Assisted),Grenade (Rocket-Assisted),0.30,1,,,,NA,.0006,0.92,50,"273, TM",IS,C,3062,
+InfantryLaserCarbineBrightStarL15,laser,Laser Carbine (BrightStar L-15),Laser Carbine (BrightStar L-15),0.44,4,3,1,,INFANTRY,0.0018,0.2625,2500,Shrapnel #9,CLAN,E,,
+InfantryLaserSniperRifleDWSL5L,laser,Laser Sniper Rifle (DWS L5L),Laser Sniper Rifle (DWS L5L),0.61,5,15,1,,INFANTRY,0.0075,1.225,2500,Shrapnel #9,IS,D,,
+InfantryLaserPistolAA75L,laser/pistol,Laser Pistol (AA-75L),Laser Pistol (AA-75L),0.07,1,1,1,,INFANTRY,0.0001,0.021,1500,Shrapnel #9,IS,D,,
+InfantryLaserPistolAWAWilibyMk4LaserPistol,laser/pistol,Laser Pistol (AWA Wiliby MK4 LASER PISTOL),Laser Pistol (AWA Wiliby MK4 LASER PISTOL),0.09,1,1,1,,INFANTRY,0.0018,0.028,1500,Shrapnel #9,IS,D,,
+InfantryLaserPistolBR25,laser/pistol,Laser Pistol (BR-25),Laser Pistol (BR-25),0.05,1,1,1,,INFANTRY,0.0013,0.01575,950,Shrapnel #9,IS,D,,
+InfantryLaserPistolBrightStarL12,laser/pistol,Laser Pistol (BrightStar L-12),Laser Pistol (BrightStar L-12),0.19,2,2,1,,INFANTRY,0.0012,0.056,1100,Shrapnel #9,CLAN,E,,
+InfantryLaserPistolBrightStarL15,laser/pistol,Laser Pistol (BrightStar L-15),Laser Pistol (BrightStar L-15),0.19,3,2,1,,INFANTRY,0.0014,0.056,1750,Shrapnel #9,CLAN,E,,
+InfantryLaserPistolBrightStarL7,laser/pistol,Laser Pistol (BrightStar L-7),Laser Pistol (BrightStar L-7),0.07,2,1,1,,INFANTRY,0.0011,0.021,950,Shrapnel #9,IS,E,,
+InfantryLaserPistolDarklightIVLaserPistol,laser/pistol,Laser Pistol (Darklight IV),Laser Pistol (Darklight IV),0.07,1,1,1,,INFANTRY,0.0012,0.021,1200,Shrapnel #9,IS,E,,
+InfantryLaserPistolKelvin000Lancer3MM,laser/pistol,Laser Pistol (Kelvin 000 Lancer 3-MM),Laser Pistol (Kelvin 000 Lancer 3-MM),0.05,1,1,1,,INFANTRY,0.0016,0.01575,1250,Shrapnel #9,IS,D,,
+InfantryLaserPistolXingShan,laser/pistol,Laser Pistol (Xing Shan),Laser Pistol (Xing Shan),0.19,1,2,1,,INFANTRY,0.0014,0.056,795,Shrapnel #9,IS,E,,
+InfantryLaserPistolXingShanER,laser/pistol,Laser Pistol (Xīng Shan ER),Laser Pistol (Xīng Shan ER),0.35,3,3,1,,INFANTRY,0.0016,0.21,830,Shrapnel #9,IS,E,,
+InfantryLaserRifleScorcherVIBlazerRifle,laser/rifle,Blazer Rifle (Scorcher VI),Blazer Rifle (Scorcher VI),0.53,4,10,1,,INFANTRY,0.0075,1.05,1500,Shrapnel #9,IS,D,,
+InfantryLaserRifleDWSL5S,laser/rifle,Laser Rifle (DWS L5S),Laser Rifle (DWS L5S),0.44,4,5,1,,INFANTRY,0.0065,0.4375,2000,Shrapnel #9,IS,D,,
+InfantryLaserRifleDarkLightCLLight,laser/rifle,Laser Rifle (Darklight-CL Light),Laser Rifle (Darklight-CL Light),0.42,3,10,1,,INFANTRY,0.0055,0.84,2400,Shrapnel #9,IS,E,,
+InfantryLaserRifleSyrtisFirebolt12Repaired,laser/rifle,Laser Rifle (Syrtis Firebolt-12) (Repaired),Laser Rifle (Syrtis Firebolt-12) (Repaired),0.28,4,7,1,,INFANTRY,0.0067,0.196,2500,Shrapnel #9,IS,D,,
+InfantryLaserRifleSyrtisFirebolt12Unrepaired,laser/rifle,Laser Rifle (Syrtis Firebolt-12) (Unrepaired),Laser Rifle (Syrtis Firebolt-12) (Unrepaired),0.53,5,5,1,,INFANTRY,0.0065,0.525,2200,Shrapnel #9,IS,D,,
+InfantryLaserRifleWolfBaronSunraker,laser/rifle,Laser Rifle (Wolf-Barron Sunraker),Laser Rifle (Wolf-Barron Sunraker),0.61,4,10,1,,INFANTRY,0.0067,1.225,2500,Shrapnel #9,IS,D,,
+InfantryLaserRifleYangLie,laser/rifle,Laser Rifle (Yang Lie),Laser Rifle (Yang Lie),0.53,4,5,1,,INFANTRY,0.0055,0.525,1275,Shrapnel #9,IS,E,,
+InfantryPistolAutoPistolWeapon,pistol,Auto-Pistol,Auto-Pistol,0.21,0,10,,,INFANTRY,.0005,0.19,50,"273, TM",ALL,C,1950,1950
+InfantryPistolHawkEagleAutoPistolWeapon,pistol,Auto-Pistol (Hawk Eagle),Auto-Pistol (Hawk Eagle),0.27,0,15,5,,INFANTRY,.0005,0.25,100,"273, TM",IS,C,3030,
+InfantryPistolMauserAutoPistolWeapon,pistol,Auto-Pistol (M&G),Auto-Pistol (M&G),0.17,0,8,,,INFANTRY,.00065,0.16,60,"273, TM",IS,C,2490,
+InfantryPistolMagnumAutoPistolWeapon,pistol,Auto-Pistol (Magnum),Auto-Pistol (Magnum),0.21,0,8,,,INFANTRY,.0005,0.19,75,"273, TM",ALL,C,1950,1950
+InfantryPistolMydronAutoPistolWeapon,pistol,Auto-Pistol (Mydron),Auto-Pistol (Mydron),0.14,0,20,4,,INFANTRY,.0015,0.13,100,"273, TM",ALL,C,2607,2607
+InfantryPistolNambuAutoPistolWeapon,pistol,Auto-Pistol (Nambu),Auto-Pistol (Nambu),0.21,0,12,,,INFANTRY,.00045,0.19,75,"273, TM",ALL,C,2535,2535
+InfantryPistolAutoPistolNissanWeapon,pistol,Auto-Pistol (Nissan SG-12),Auto-Pistol (Nissan SG-12),0.17,1,8,,,INFANTRY,.0027,0.19,250,"176,HBHK",IS,C,2600,
+InfantryPistolSerrekAutoPistolWeapon,pistol,Auto-Pistol (Serrek 7875D),Auto-Pistol (Serrek 7875D),0.16,0,16,,,INFANTRY,.0004,0.15,185,"273, TM",IS,C,2805,
+InfantryPistolSternsnachtPythonAutoPistolWeapon,pistol,Auto-Pistol (Sternsnacht Python),Auto-Pistol (Sternsnacht Python),0.28,0,12,,,INFANTRY,.00075,0.26,125,"273, TM",IS,C,3048,
+InfantryPistolStettaAutoPistolWeapon,pistol,Auto-Pistol (Stetta),Auto-Pistol (Stetta),0.17,0,100,10,,INFANTRY,.002,0.16,150,"273, TM",IS,D,3005,
+InfantryPistolVintageWeapon,pistol,Auto-Pistol (Vintage),Auto-Pistol (Vintage),0.11,1,9,,,INFANTRY,.0005,0.0005,500,"195, AToW-C",ALL,C,,
+InfantryPistolDartGunWeapon,pistol,Dart Gun,Dart Gun,0.01,0,1,,,INFANTRY,.00065,0.01,40,"273, TM",ALL,C,1950,1950
+InfantryPistolFlarePistolWeapon,pistol,Flare Pistol,Flare Pistol,0.09,0,5,,,INFANTRY,.0004,0.08,25,"273, TM",ALL,C,1950,1950
+InfantryPistolMandrakeGaussPistolWeapon,pistol,Gauss Pistol (Mandrake Hold-Out),Gauss Pistol (Mandrake Hold-Out),0.02,0,1,,,INFANTRY,.0001,0.02,750,"273, TM",IS,E,3050,
+InfantryPistolClanGaussPistolWeapon,pistol,Gauss Pistol [Clan],Gauss Pistol [Clan],0.14,0,4,,,INFANTRY,.001,0.13,1500,"273, TM",CLAN,F,,2845
+InfantryPistolGyrojetPistolWeapon,pistol,Gyrojet Pistol,Gyrojet Pistol,0.04,0,2,,,INFANTRY,.0025,0.04,450,"273, TM",ALL,D,2620,2620
+InfantryPistolCoventryHandrocketGyrojetPistolWeapon,pistol,Gyrojet Pistol (Coventry Handrocket),Gyrojet Pistol (Coventry Handrocket),0.14,1,5,,,INFANTRY,.0031,0.43,250,"273, TM",IS,D,3050,
+InfantryPistolHoldOutGyroJetPistolWeapon,pistol,Gyrojet Pistol (Hold-Out),Gyrojet Pistol (Hold-Out),0.04,0,2,,,INFANTRY,.00005,0.04,30,"273, TM",ALL,D,2100,2100
+InfantryPistolLaserPistolWeapon,pistol,Laser Pistol,Laser Pistol,0.21,1,16,,,INFANTRY,.001,0.64,750,"273, TM",ALL,D,2100,2100
+InfantryPistolBlazerPistolWeapon,pistol,Laser Pistol (Blazer),Laser Pistol (Blazer),0.26,1,8,,,INFANTRY,.002,0.79,3000,"273, TM",IS,D,2100,
+InfantryPistolClanERLaserPistolWeapon,pistol,Laser Pistol (ER),Laser Pistol (ER),0.21,1,10,,,INFANTRY,.001,0.61,1000,"273, TM",CLAN,F,,2833
+InfantryPistolWhiteDwarfLaserPistolWeapon,pistol,Laser Pistol (Hold-Out [White Dwarf]),Laser Pistol (Hold-Out [White Dwarf]),0.02,0,,,,NA,.00025,0.02,250,"273, TM",IS,D,3056,
+InfantryPistolHoldOutLaserPistolWeapon,pistol,Laser Pistol (Hold-Out),Laser Pistol (Hold-Out),0.14,0,6,,,INFANTRY,.00005,0.13,100,"273, TM",ALL,D,2318,2318
+InfantryPistolNakjimaLaserPistolWeapon,pistol,Laser Pistol (Nakjima),Laser Pistol (Nakjima),0.18,1,30,,,INFANTRY,.001,0.55,750,"273, TM",IS,D,2875,
+InfantryPistolSunbeamNovaLaserPistolWeapon,pistol,Laser Pistol (Sunbeam Nova),Laser Pistol (Sunbeam Nova),0.26,0,3,,,INFANTRY,.0015,0.24,1250,"273, TM",IS,D,3050,
+InfantryPistolSunbeamLaserPistolWeapon,pistol,Laser Pistol (Sunbeam),Laser Pistol (Sunbeam),0.28,1,7,,,INFANTRY,.001,0.86,750,"273, TM",IS,D,3015,
+InfantryPistolSMGGHTSpec7aWeapon,pistol,Machine Pistol (H-T Spec-7a),Machine Pistol (H-T Spec-7a),0.13,0,7,1,,INFANTRY,.0012,0.23,190,"176,HBHK",IS,D,,
+InfantryPistolMartialEagleMachinePistolWeapon,pistol,Machine Pistol (Martial Eagle),Machine Pistol (Martial Eagle),0.25,0,30,3,,INFANTRY,.001,0.23,180,"273, TM",IS,D,3040,
+InfantryPistolNeedlerPistolWeapon,pistol,Needler Pistol,Needler Pistol,0.23,0,10,,,INFANTRY,.0003,0.21,50,"273, TM",ALL,D,1950,1950
+InfantryPistolHoldOutNeedlerPistolWeapon,pistol,Needler Pistol (Hold-Out),Needler Pistol (Hold-Out),0.11,0,5,,,INFANTRY,.00005,0.10,20,"273, TM",ALL,D,2510,2510
+InfantryPistolMauserNeedlerPistolWeapon,pistol,Needler Pistol (M&G Flechette),Needler Pistol (M&G Flechette),0.11,0,15,3,,INFANTRY,.0005,0.10,100,"273, TM",ALL,D,2350,2350
+InfantryPistolSeaEagleNeedlerPistolWeapon,pistol,Needler Pistol (Sea Eagle),Needler Pistol (Sea Eagle),0.11,0,10,2,,INFANTRY,.00035,0.10,110,"273, TM",IS,D,3030,
+InfantryPistolPaintGunPistolWeapon,pistol,Paint Gun (LGB-46R),Paint Gun (LGB-46R),0.0,0,15,,,INFANTRY,.0018,0,50,"273, TM",ALL,C,1950,1950
+InfantryPistolAAGemini,pistol,Pistol (AA Gemini),Pistol (AA Gemini),0.35,1,8,2,,INFANTRY,0.0015,0.28,400,Shrapnel #3,IS,D,,
+InfantryPistolAlamo17,pistol,Pistol (Alamo-17),Pistol (Alamo-17),0.28,1,18,1,,INFANTRY,0.001,0.28,250,Shrapnel #3,IS,C,,
+InfantryPistolCamdenHR7,pistol,Pistol (Camden HR-7),Pistol (Camden HR-7),0.44,1,5,1,,INFANTRY,0.0025,0.44,650,Shrapnel #3,IS,C,,
+InfantryPistolDreamelDerringer,pistol,Pistol (Dreamel J-4 Derringer),Pistol (Dreamel J-4 Derringer),0.14,0,2,1,,INFANTRY,0.0002,0.042,60,Shrapnel #3,IS,C,,
+InfantryPistolFlamerPistolWeapon,pistol,Pistol (Flamer),Pistol (Flamer),0.34,0,10,,,INFANTRY,.0012,0.31,50,"273, TM",ALL,C,2100,2100
+InfantryPistolHCKP14,pistol,Pistol (HCK P-14),Pistol (HCK P-14),0.07,0,8,1,,INFANTRY,0.0012,0.056,130,Shrapnel #3,IS,C,,
+InfantryPistolHoldOutPistolWeapon,pistol,Pistol (Hold-Out),Pistol (Hold-Out),0.03,0,2,,,INFANTRY,.0002,0.03,20,"273, TM",ALL,D,1950,1950
+InfantryPistolLemisonCombatRevolver,pistol,Pistol (Lemison Combat Revolver),Pistol (Lemison Combat Revolver),0.35,0,8,1,,INFANTRY,0.0016,0.28,120,Shrapnel #3,IS,C,,
+InfantryPistolMPH45,pistol,Pistol (MPH-45),Pistol (MPH-45),0.35,1,10,1,,INFANTRY,0.001,0.7,500,Shrapnel #3,IS,D,,
+InfantryPistolMakeshiftPistolWeapon,pistol,Pistol (Makeshift),Pistol (Makeshift),0.02,0,1,,,INFANTRY,.001,0.02,15,"273, TM",ALL,B,1950,1950
+InfantryPistolMomoDeBaoyingSpecial,pistol,Pistol (Momo De Baoying (Special)),Pistol (Momo De Baoying (Special)),0.53,1,10,1,,INFANTRY,0.0011,1.05,275,Shrapnel #3,IS,D,,
+InfantryPistolMomoDeBaoyingStandard,pistol,Pistol (Momo De Baoying (Standard)),Pistol (Momo De Baoying (Standard)),0.42,1,10,1,,INFANTRY,0.0011,.42,275,Shrapnel #3,IS,D,,
+InfantryPistolNambu380,pistol,Pistol (Nambu 380),Pistol (Nambu 380),0.21,1,18,1,,INFANTRY,0.00095,0.21,350,Shrapnel #3,IS,C,,
+InfantryPistolNambu480,pistol,Pistol (Nambu 480),Pistol (Nambu 480),0.21,1,14,1,,INFANTRY,0.0008,0.21,350,Shrapnel #3,IS,C,,
+InfantryPistolRFWGalahad,pistol,Pistol (RFW Galahad),Pistol (RFW Galahad),0.32,1,10,1,,INFANTRY,0.0021,0.315,200,Shrapnel #3,IS,D,,
+InfantryPistolSerrek7994SF,pistol,Pistol (Serrek 7994 SF),Pistol (Serrek 7994 SF),0.2,1,20,3,,INFANTRY,0.0011,.202,400,Shrapnel #3,IS,C,,
+InfantryPistolSerrek7994,pistol,Pistol (Serrek 7994),Pistol (Serrek 7994),0.2,1,20,3,,INFANTRY,0.0009,0.202,300,Shrapnel #3,IS,C,,
+InfantryPistolSpitballGasPistolWeapon,pistol,Pistol (Spitball Gas Weapon),Pistol (Spitball Gas Weapon),0.0,0,25,,,INFANTRY,.001,0,6,"273, TM",IS,C,3056,
+InfantryPistolSternsnachtPistolWeapon,pistol,Pistol (Sternsnacht Heavy [Claymore]),Pistol (Sternsnacht Heavy [Claymore]),0.09,0,3,,,INFANTRY,.0025,0.08,200,"273, TM",IS,C,2882,
+InfantryPistolSturmEagleMK4M,pistol,Pistol (Sturm Eagle Mk4M),Pistol (Sturm Eagle Mk4M),0.28,0,12,1,,INFANTRY,0.0012,.28,120,Shrapnel #3,IS,C,,
+InfantryPistolSturmEagleMK4P,pistol,Pistol (Sturm Eagle Mk4P),Pistol (Sturm Eagle Mk4P),0.28,0,12,1,,INFANTRY,0.0013,.28,145,Shrapnel #3,IS,C,,
+InfantryPistolTKEnforcerAutoPistolWeapon,pistol,Pistol (TK Enforcer Semi-Auto),Pistol (TK Enforcer Semi-Auto),0.20,0,20,5,,INFANTRY,.0016,0.18,110,"273, TM",IS,C,3055,
+InfantryPistolType74DPistol,pistol,Pistol (Type 74D Pistol),Pistol (Type 74D Pistol),0.28,0,11,1,,INFANTRY,0.0007,.28,140,Shrapnel #3,IS,D,,
+InfantryPistolType74PPistol,pistol,Pistol (Type 74P Pistol),Pistol (Type 74P Pistol),0.28,1,14,1,,INFANTRY,0.0008,.28,150,Shrapnel #3,IS,D,,
+InfantryPistolWhisper4Standard,pistol,Pistol (Whisper-4 (Standard Rounds)),Pistol (Whisper-4 (Standard Rounds)),0.35,1,6,1,,INFANTRY,0.0012,.42,650,Shrapnel #3,IS,D,,
+InfantryPistolWhisper4Subsonic,pistol,Pistol (Whisper-4 (Sub-Sonic)),Pistol (Whisper-4 (Sub-Sonic)),0.16,0,6,1,,INFANTRY,0.0012,.0945,650,Shrapnel #3,IS,D,,
+InfantryPistolWolfM30,pistol,Pistol (Wolf M30),Pistol (Wolf M30),0.35,0,17,1,,INFANTRY,0.00095,.35,250,Shrapnel #3,IS,C,,
+InfantryPistolYaNjingshe,pistol,Pistol (Ya Njingshe),Pistol (Ya Njingshe),0.35,1,15,1,,INFANTRY,0.001,.35,300,Shrapnel #3,IS,D,,
+InfantryPistolISPulseLaserPistolWeapon,pistol,Pulse Laser Pistol (IS),Pulse Laser Pistol (IS),0.14,0,15,3,,INFANTRY,.001,0.13,1000,"273, TM",ALL,D,,
+InfantryPistolClanPulseLaserPistolWeapon,pistol,Pulse Laser Pistol [Clan],Pulse Laser Pistol [Clan],0.20,1,10,2,,INFANTRY,.001,0.61,1500,"273, TM",CLAN,F,,2835
+InfantryPistolRevolverWeapon,pistol,Revolver,Revolver,0.17,0,6,,,INFANTRY,.0005,0.16,60,"273, TM",ALL,B,1950,1950
+InfantryPistolMagnumRevolverWeapon,pistol,Revolver (Magnum),Revolver (Magnum),0.18,0,5,,,INFANTRY,.0005,0.17,60,"273, TM",ALL,C,1950,1950
+InfantryPistolSonicStunnerWeapon,pistol,Sonic Stunner,Sonic Stunner,0.07,0,30,,,INFANTRY,.0006,0.06,100,"273, TM",ALL,D,2365,2365
+InfantryPistolTranqGunWeapon,pistol,Tranq Gun,Tranq Gun,0.14,0,30,,,INFANTRY,.0015,0.13,30,"273, TM",ALL,A,1950,1950
+InfantryProstheticBallisticWeapon,prosthetic,Prosthetic Ballistic,Prosthetic Ballistic,0.01,0,,,,NA,,0.0,500,"78, IO:AE",ALL,E,,
+InfantryProstheticBladeWeapon,prosthetic,Prosthetic Blade,Prosthetic Blade,0.02,0,,,,NA,,0.0,400,"78, IO:AE",ALL,E,,
+InfantryProstheticClimbingClawsWeapon,prosthetic,Prosthetic Climbing Claws,Prosthetic Climbing Claws,0.02,0,,,,NA,,0.02,1000,"78, IO:AE",ALL,E,,
+InfantryProstheticDartGunWeapon,prosthetic,Prosthetic Dart Gun,Prosthetic Dart Gun,0.0,0,,,,NA,,0.0,750,"78, IO:AE",ALL,E,,
+InfantryProstheticLaserWeapon,prosthetic,Prosthetic Laser,Prosthetic Laser,0.11,0,,,,NA,,0.0,1000,"78, IO:AE",ALL,E,,
+InfantryProstheticNeedleWeapon,prosthetic,Prosthetic Needle,Prosthetic Needle,0.0,0,,,,NA,,0.0,500,"78, IO:AE",ALL,E,,
+InfantryProstheticNeedlerWeapon,prosthetic,Prosthetic Needler,Prosthetic Needler,0.04,0,,,,NA,,0.0,650,"78, IO:AE",ALL,E,2510,2510
+InfantryProstheticRumalGarroteWeapon,prosthetic,Prosthetic Rumal/Garrote,Prosthetic Rumal/Garrote,0.14,0,,,,NA,,0.0,500,"84, IO",ALL,E,,
+InfantryProstheticSMGWeapon,prosthetic,Prosthetic SMG,Prosthetic SMG,0.02,0,,,,NA,,0.0,600,"78, IO:AE",ALL,E,,
+InfantryProstheticShockerWeapon,prosthetic,Prosthetic Shocker,Prosthetic Shocker,0.05,0,,,,NA,,0.0,650,"78, IO:AE",ALL,E,,
+InfantryProstheticShotgunWeapon,prosthetic,Prosthetic Shotgun,Prosthetic Shotgun,0.05,0,,,,NA,,0.0,600,"78, IO:AE",ALL,E,,
+InfantryProstheticSonicStunnerWeapon,prosthetic,Prosthetic Sonic Stunner,Prosthetic Sonic Stunner,0.05,0,,,,NA,,0.0,800,"78, IO:AE",ALL,E,2365,2365
+InfantryProstheticVibroBladeWeapon,prosthetic,Prosthetic Vibro Blade,Prosthetic Vibro Blade,0.14,0,,,,NA,,0.0,1000,"78, IO:AE",ALL,E,2398,2398
+InfantryPulseLaserPistolMedusaIII,pulseLaser,Pulse Laser Pistol (Medusa III),Pulse Laser Pistol (Medusa III),0.11,1,2,1,,INFANTRY,0.0011,0.0315,950,Shrapnel #9,IS,D,,
+InfantryPulseLaserPistolMedusaIV,pulseLaser,Pulse Laser Pistol (Medusa IV),Pulse Laser Pistol (Medusa IV),0.21,1,3,1,,INFANTRY,0.0001,0.063,1500,Shrapnel #9,IS,E,,
+InfantryPulseLaserPistolNWW12,pulseLaser,Pulse Laser Pistol (NWW-12),Pulse Laser Pistol (NWW-12),0.18,1,2,5,,INFANTRY,0.0009,0.054,850,Shrapnel #9,IS,C,,
+InfantryPulseLaserPistolRDISunSwarmPulsar,pulseLaser,Pulse Laser Pistol (RDI SunSwarm Pulsar),Pulse Laser Pistol (RDI SunSwarm Pulsar),0.18,1,2,4,,INFANTRY,0.0001,0.054,1050,Shrapnel #9,IS,C,,
+InfantryPulseLaserRifleDWSL5C,pulseLaser,Pulse Laser Rifle (DWS L5C),Pulse Laser Rifle (DWS L5C),0.36,3,7,6,,INFANTRY,0.0055,0.252,1800,Shrapnel #9,IS,C,,
+InfantryPulseLaserRifleGaul,pulseLaser,Pulse Laser Rifle (Gaul),Pulse Laser Rifle (Gaul),0.36,4,7,6,,INFANTRY,0.0075,0.252,2200,Shrapnel #9,IS,D,,
+InfantryPulseLaserRifleTirbuni,pulseLaser,Pulse Laser Rifle (Tirbuni),Pulse Laser Rifle (Tirbuni),0.56,4,8,5,,INFANTRY,0.0074,0.9,1900,Shrapnel #9,IS,D,,
+InfantryRifleAutoRifleWeapon,rifle,"Auto-Rifle (Modern, Generic)","Auto-Rifle (Modern, Generic)",0.52,1,30,2,,INFANTRY,.004,1.59,80,"273, TM",ALL,C,1950,1950
+InfantryRifleElephantGunWeapon,rifle,Elephant Gun,Elephant Gun,0.11,1,2,,,INFANTRY,.005,0.34,100,"273, TM",ALL,B,1950,1950
+InfantryRifleThunderstrokeIIWeapon,rifle,Gauss Rifle (Thunderstroke II),Gauss Rifle (Thunderstroke II),0.53,2,20,,,INFANTRY,.0065,2.71,3500,"273, TM",IS,E,3058,
+InfantryRifleThunderstrokeWeapon,rifle,Gauss Rifle (Thunderstroke),Gauss Rifle (Thunderstroke),0.26,1,5,,,INFANTRY,.007,0.79,2500,"273, TM",IS,E,3055,
+InfantryRifleHeavyGyrojetGunWeapon,rifle,Gyrojet Gun (Heavy),Gyrojet Gun (Heavy),0.21,2,5,,,INFANTRY,.010,1.07,2500,"273, TM",ALL,D,2585,2585
+InfantryRifleGyrojetRifleWeapon,rifle,Gyrojet Rifle,Gyrojet Rifle,0.35,1,10,,,INFANTRY,.007,1.07,1000,"273, TM",ALL,D,2535,2535
+InfantryRifleGyroslugCarbineWeapon,rifle,Gyroslug Carbine,Gyroslug Carbine,0.28,1,20,,,INFANTRY,.004,0.86,800,"273, TM",ALL,D,2570,2570
+InfantryRifleStarKingGyroslugCarbineWeapon,rifle,Gyroslug Carbine (Star King),Gyroslug Carbine (Star King),0.35,1,20,,,INFANTRY,.008,1.07,950,"273, TM",IS,D,2775,
+InfantryRifleGyroslugRifleWeapon,rifle,Gyroslug Rifle,Gyroslug Rifle,0.35,1,50,,,INFANTRY,.008,1.07,1000,"273, TM",ALL,D,2520,2520
+InfantryRifleLaserWeapon,rifle,Laser Rifle,Laser Rifle,0.28,2,6,,,INFANTRY,.005,1.43,1250,"273, TM",ALL,D,2100,2100
+InfantryRifleBlazerRifleWeapon,rifle,Laser Rifle (Blazer),Laser Rifle (Blazer),0.35,2,3,,,INFANTRY,.007,1.79,2190,"273, TM",ALL,D,2100,2100
+InfantryRifleSunbeamStarfireERLaserWeapon,rifle,Laser Rifle (ER [Sunbeam Starfire]),Laser Rifle (ER [Sunbeam Starfire]),0.28,3,5,,,INFANTRY,.005,2.01,2500,"273, TM",IS,E,3050,
+InfantryRifleClanERLaserWeapon,rifle,Laser Rifle (ER),Laser Rifle (ER),0.28,3,6,,,INFANTRY,.005,2.01,2000,"273, TM",CLAN,F,,2840
+InfantryRifleEbonyAssaultLaserWeapon,rifle,Laser Rifle (Ebony Assault),Laser Rifle (Ebony Assault),0.21,2,3,,,INFANTRY,.010,1.07,8500,"273, TM",IS,F,3056,
+InfantryRifleFederatedBarrettM61ALaserWeapon,rifle,Laser Rifle (Federated-Barrett M61A),InfantryFederatedBarrettM61A,0.75,2,6,,,INFANTRY,.006,3.83,2150,"273, TM",IS,D,3058,
+InfantryRifleFederatedBarrettM61ALaserInfernoWeapon,rifle,Laser Rifle (Federated-Barrett M61A) (Inferno Grenades),InfantryFederatedBarrettM61AInferno,0.55,2,6,,,INFANTRY,.006,1.17,2150,"273, TM",IS,D,3058,
+InfantryRifleIntekLaserWeapon,rifle,Laser Rifle (Intek),Laser Rifle (Intek),0.21,3,15,,,INFANTRY,.005,1.51,1250,"273, TM",IS,D,2875,
+InfantryRifleMagnaLaserWeapon,rifle,Laser Rifle (Magna),Laser Rifle (Magna),0.26,2,6,,,INFANTRY,.006,1.33,1500,"273, TM",ALL,D,2460,2460
+InfantryRifleMarxXXLaserWeapon,rifle,Laser Rifle (Marx XX),Laser Rifle (Marx XX),0.26,3,5,,,INFANTRY,.006,1.86,1750,"273, TM",ALL,D,2685,2685
+InfantryRifleMauser1200LSSWeapon,rifle,Laser Rifle (Mauser 1200 LSS),Laser Rifle (Mauser 1200 LSS),1.04,2,6,1,,INFANTRY,.011,5.32,10000,"273, TM",IS,E,3052,
+InfantryRifleMauser960LaserWeapon,rifle,Laser Rifle (Mauser 960),Laser Rifle (Mauser 960),0.93,2,15,2,,NA,.0108,4.75,8000,"273, TM",ALL,E,2698,2698
+InfantryRifleClanMauserIICIASWeapon,rifle,Laser Rifle (Mauser IIC IAS),Laser Rifle (Mauser IIC IAS),1.37,3,6,,,INFANTRY,0.0012,9.82,18000,"273, TM",CLAN,F,,3013
+InfantryRifleClanMauserIICIASInfernoWeapon,rifle,Laser Rifle (Mauser IIC IAS) (Inferno Grenades),Laser Rifle (Mauser IIC IAS) (Inferno Grenades),0.90,3,6,,,INFANTRY,0.0012,6.45,18000,"273, TM",CLAN,F,,3013
+InfantryRifleMaxellPL10LaserWeapon,rifle,Laser Rifle (Maxell PL-10),Laser Rifle (Maxell PL-10),0.26,2,3,,,INFANTRY,.0065,1.33,2000,"273, TM",IS,D,3057,
+InfantryRifleNeedlerWeapon,rifle,Needler Rifle,Needler Rifle,0.23,0,20,,,INFANTRY,.001,0.21,75,"273, TM",ALL,D,2100,2100
+InfantryRifleMGFlechetteNeedlerWeapon,rifle,Needler Rifle (M&G Flechette),Needler Rifle (M&G Flechette),0.11,0,8,,,INFANTRY,.0015,0.10,200,"273, TM",ALL,D,2320,2320
+InfantryRifleShredderHeavyNeedlerWeapon,rifle,Needler Rifle (Shredder Heavy),Needler Rifle (Shredder Heavy),0.34,0,10,,,INFANTRY,.001,0.31,150,"273, TM",IS,D,3051,
+InfantryRiflePulseLaserWeapon,rifle,Pulse Laser Rifle (Inner Sphere),Pulse Laser Rifle (Inner Sphere),0.25,1,6,1,,NA,.005,0.76,1000,"273, TM",ALL,D,2678,2678
+InfantryRifleClanPulseLaserWeapon,rifle,Pulse Laser Rifle [Clan],Pulse Laser Rifle [Clan],0.33,2,8,1,,INFANTRY,.005,1.69,3000,"273, TM",CLAN,F,,2833
+InfantryRifleBoltActionWeapon,rifle,Rifle (Bolt-Action),Rifle (Bolt-Action),0.14,1,20,,,INFANTRY,.003,0.43,60,"273, TM",ALL,B,1950,1950
+InfantryRifleFederatedLongWeapon,rifle,Rifle (Federated Long),Rifle (Federated Long),0.35,1,10,,,INFANTRY,.005,1.07,120,"273, TM",IS,C,2860,
+InfantryRifleFederatedBarrettM42BWeapon,rifle,Rifle (Federated-Barrett M42B),InfantryFederatedBarrettM42B,1.02,1,50,5,,INFANTRY,.006,3.12,1385,"273, TM",IS,C,3060,
+InfantryRifleFederatedBarrettM42BInfernoWeapon,rifle,Rifle (Federated-Barrett M42B) (Inferno Grenades),InfantryFederatedBarrettM42BInferno,0.82,1,50,5,,INFANTRY,.006,2.3,1385,"273, TM",IS,C,3060,
+InfantryRifleImperatorAX22AssaultWeapon,rifle,Rifle (Imperator AX-22 Assault),Rifle (Imperator AX-22 Assault),0.52,1,15,1,,INFANTRY,.0035,1.59,200,"273, TM",IS,C,3052,
+InfantryRifleMauserG150Weapon,rifle,Rifle (M&G G-150),Rifle (M&G G-150),0.32,2,9,3,,INFANTRY,.0035,1.64,270,"273, TM",IS,C,3058,
+InfantryRifleMakeshiftWeapon,rifle,Rifle (Makeshift),Rifle (Makeshift),0.03,1,1,,,INFANTRY,.006,0.09,20,"273, TM",IS,B,1950,
+InfantryRifleStrikerCarbineRifleWeapon,rifle,Rifle (Striker Carbine),Rifle (Striker Carbine),0.29,1,60,2,,INFANTRY,.003,.29,875,"HBHL, 147",IS,D,3055,
+InfantryRifleTKAssaultWeapon,rifle,Rifle (TK Assault),Rifle (TK Assault),0.44,1,20,2,,INFANTRY,.0055,1.34,150,"273, TM",IS,C,2865,
+InfantryRifleVintageWeapon,rifle,Rifle (Vintage Assault),Rifle (Vintage Assault),0.17,1,30,3,,INFANTRY,0.0045,0.0,2000,"195, AToW-C",ALL,C,1950,1950
+InfantryRifleZeusHeavyWeapon,rifle,Rifle (Zeus Heavy),Rifle (Zeus Heavy),0.22,1,5,,,INFANTRY,.008,0.67,200,"273, TM",ALL,C,2740,2740
+InfantryRifleVSPLaserWeapon,rifle,Variable-Pulse Laser Rifle,Variable-Pulse Laser Rifle,0.33,1,6,1,,INFANTRY,0.006,0.0,4500,"195, AToW-C",IS,E,3075,
+InfantryShotgunAutomaticWeapon,shotgun,Auto-Shotgun,Auto-Shotgun,0.23,0,12,3,,INFANTRY,.005,0.21,200,"273, TM",ALL,C,2100,2100
+InfantryShotgunCeresCrowdbusterWeapon,shotgun,Ceres Arms Crowdbuster,Ceres Arms Crowdbuster,0.11,0,15,,,INFANTRY,.001,0.10,150,"273, TM",IS,D,3028,
+InfantryShotgunBuccaneerGelGunWeapon,shotgun,Gel Gun (Buccaneer),Gel Gun (Buccaneer),0.07,0,15,,,INFANTRY,.0025,0.06,200,"269, ATOW",IS,C,3030,
+InfantryShotgunAMIKeymaster15,shotgun,Shotgun (AMI Keymaster-15),Shotgun (AMI Keymaster-15),0.21,0,4,1,,INFANTRY,0.0012,.084,250,Shrapnel #7,IS,C,,
+InfantryShotgunAWAAS105,shotgun,Shotgun (AWA AS-105),Shotgun (AWA AS-105),0.36,1,10,1,,INFANTRY,0.0029,.36,350,Shrapnel #7,IS,D,,
+InfantryShotgunAWASS112,shotgun,Shotgun (AWA SS-112),Shotgun (AWA SS-112),0.36,1,7,1,,INFANTRY,0.0028,.252,300,Shrapnel #7,IS,D,,
+InfantryShotgunAvengerCCWWeapon,shotgun,Shotgun (Avenger CCW),Shotgun (Avenger CCW),0.33,0,15,5,,INFANTRY,.0055,0.30,345,"273, TM",CLAN,C,,3019
+InfantryShotgunByron15S,shotgun,Shotgun (Byron 15S),Shotgun (Byron 15S),0.56,1,6,1,,INFANTRY,0.0035,.675,600,Shrapnel #7,IS,D,,
+InfantryShotgunCWIJianhuren,shotgun,Shotgun (CWI Jianhuren),Shotgun (CWI Jianhuren),0.14,1,4,1,,INFANTRY,0.0027,.054,225,Shrapnel #7,IS,D,,
+InfantryShotgunCombatWeapon,shotgun,Shotgun (Combat),Shotgun (Combat),0.27,0,8,,,INFANTRY,.0045,0.25,175,"273, TM",ALL,C,1950,1950
+InfantryShotgunDPS305,shotgun,Shotgun (DPS-305),Shotgun (DPS-305),0.27,0,10,1,,INFANTRY,0.0035,.27,350,Shrapnel #7,IS,C,,
+InfantryShotgunDaystarIC,shotgun,Shotgun (Daystar I (C)),Shotgun (Daystar I (C)),0.2,1,12,1,,INFANTRY,0.0028,.202,250,Shrapnel #7,IS,C,,
+InfantryShotgunDaystarIM,shotgun,Shotgun (Daystar I (M)),Shotgun (Daystar I (M)),0.25,1,12,4,,INFANTRY,0.0029,.248,200,Shrapnel #7,IS,C,,
+InfantryShotgunDaystarIIC,shotgun,Shotgun (Daystar II (C)),Shotgun (Daystar II (C)),0.2,1,12,1,,INFANTRY,0.0028,.202,250,Shrapnel #7,IS,C,,
+InfantryShotgunDaystarIIM,shotgun,Shotgun (Daystar II (M)),Shotgun (Daystar II (M)),0.25,1,12,4,,INFANTRY,0.0029,.248,200,Shrapnel #7,IS,C,,
+InfantryShotgunDaystarIIIC,shotgun,Shotgun (Daystar III (C)),Shotgun (Daystar III (C)),0.36,1,15,1,,INFANTRY,0.0026,.36,350,Shrapnel #7,IS,C,,
+InfantryShotgunDaystarIIIM,shotgun,Shotgun (Daystar III (M)),Shotgun (Daystar III (M)),0.44,1,15,5,,INFANTRY,0.0027,.44,400,Shrapnel #7,IS,C,,
+InfantryShotgunDaystarIVC,shotgun,Shotgun (Daystar IV (C)),Shotgun (Daystar IV (C)),0.36,1,15,1,,INFANTRY,0.0026,.36,350,Shrapnel #7,IS,C,,
+InfantryShotgunDaystarIVM,shotgun,Shotgun (Daystar IV (M)),Shotgun (Daystar IV (M)),0.44,1,15,5,,INFANTRY,0.0027,.44,400,Shrapnel #7,IS,C,,
+InfantryShotgunDaystarVC,shotgun,Shotgun (Daystar V (C)),Shotgun (Daystar V (C)),0.45,1,18,1,,INFANTRY,0.0024,.44,450,Shrapnel #7,IS,C,,
+InfantryShotgunDaystarVM,shotgun,Shotgun (Daystar V (M)),Shotgun (Daystar V (M)),0.55,1,18,6,,INFANTRY,0.0025,.55,600,Shrapnel #7,IS,C,,
+InfantryShotgunDokuhebi,shotgun,Shotgun (Dokuhebi),Shotgun (Dokuhebi),0.45,0,5,1,,INFANTRY,0.0024,.225,420,Shrapnel #7,IS,C,,
+InfantryShotgunDoubleBarrelWeapon,shotgun,Shotgun (Double-Barrel),Shotgun (Double-Barrel),0.03,0,2,,,INFANTRY,.004,0.03,30,"273, TM",ALL,B,1950,1950
+InfantryShotgunSawedOffDoubleBarrelWeapon,shotgun,"Shotgun (Double-Barrel, Sawed Off)","Shotgun (Double-Barrel, Sawed Off)",0.03,0,2,,,INFANTRY,.003,0.03,30,"273, TM",ALL,B,1950,1950
+InfantryShotgunDuckettA5,shotgun,Shotgun (Duckett A-5),Shotgun (Duckett A-5),0.36,1,8,1,,INFANTRY,0.0029,.288,400,Shrapnel #7,IS,D,,
+InfantryShotgunHastariIII,shotgun,Shotgun (Hastari III),Shotgun (Hastari III),0.27,1,15,1,,INFANTRY,0.0035,.27,800,Shrapnel #7,IS,D,,
+InfantryShotgunMarburg20,shotgun,Shotgun (Marburg-20),Shotgun (Marburg-20),0.36,1,10,1,,INFANTRY,0.0043,.36,500,Shrapnel #7,IS,C,,
+InfantryShotgunMarburg20M,shotgun,Shotgun (Marburg-20M),Shotgun (Marburg-20M),0.36,2,14,1,,INFANTRY,0.0039,.36,600,Shrapnel #7,IS,C,,
+InfantryShotgunMorriganStormsweeper,shotgun,Shotgun (Morrigan Stormsweeper),Shotgun (Morrigan Stormsweeper),0.56,1,20,1,,INFANTRY,0.004,1.125,800,Shrapnel #7,IS,C,,
+InfantryShotgunPumpActionWeapon,shotgun,Shotgun (Pump-Action),Shotgun (Pump-Action),0.08,0,6,,,INFANTRY,.004,0.07,40,"273, TM",ALL,B,1950,1950
+InfantryShotgunSawedOffPumpActionWeapon,shotgun,"Shotgun (Pump-Action, Sawed Off)","Shotgun (Pump-Action, Sawed Off)",0.08,0,6,,,INFANTRY,.003,0.07,40,"273, TM",ALL,B,1950,1950
+InfantryShotgunRisen15,shotgun,Shotgun (Risen-15),Shotgun (Risen-15),0.27,0,8,1,,INFANTRY,0.0039,.216,250,Shrapnel #7,IS,C,,
+InfantryShotgunSDType31,shotgun,Shotgun (SD Type-31),Shotgun (SD Type-31),0.45,1,10,1,,INFANTRY,0.003,.45,450,Shrapnel #7,IS,D,,
+InfantryShotgunSGM3,shotgun,Shotgun (SGM-3),Shotgun (SGM-3),0.25,1,12,4,,INFANTRY,0.0029,.248,1000,Shrapnel #7,IS,C,,
+InfantryShotgunSGS9,shotgun,Shotgun (SGS-9),Shotgun (SGS-9),0.36,1,14,3,,INFANTRY,0.0027,.36,1200,Shrapnel #7,CLAN,C,,
+InfantryShotgunSGS9E,shotgun,Shotgun (SGS-9E),Shotgun (SGS-9E),0.69,1,21,3,,INFANTRY,0.0045,1.375,1500,Shrapnel #7,CLAN,C,,
+InfantryShotgunWakazashiWeapon,shotgun,Shotgun (Wakazashi O-12),Shotgun (Wakazashi O-12),0.35,0,10,3,,INFANTRY,.0052,0.35,180,"176,HBHK",ALL,D,,
+InfantryShotgunWranglemanTriBarrel,shotgun,Shotgun (Wrangleman Tri-Barrel),Shotgun (Wrangleman Tri-Barrel),0.27,1,9,1,,INFANTRY,0.003,.243,750,Shrapnel #7,IS,C,,
+InfantrySMGClanGaussWeapon,smg,Gauss Submachine Gun,Gauss Submachine Gun,0.45,1,30,10,,INFANTRY,.0045,1.38,2000,"273, TM",CLAN,E,,3051
+InfantrySMGAWAStarlingMk7,smg,SMG (AWA Starling Mk7),SMG (AWA Starling Mk7),0.33,1,32,8,,INFANTRY,0.0029,.33,300,Shrapnel #5,IS,D,,
+InfantrySMGAWAStarlingMk7LB,smg,SMG (AWA Starling Mk7-LB),SMG (AWA Starling Mk7-LB),0.33,1,32,8,,INFANTRY,0.0031,.33,400,Shrapnel #5,IS,D,,
+InfantrySMGAWAStarlingMk7SF,smg,SMG (AWA Starling Mk7-SF),SMG (AWA Starling Mk7-SF),0.33,1,32,8,,INFANTRY,0.0034,.33,600,Shrapnel #5,IS,D,,
+InfantrySMGBlackfieldScorpionMk65,smg,SMG (Blackfield Scorpion Mk 65),SMG (Blackfield Scorpion Mk 65),0.2,0,20,5,,INFANTRY,0.0014,.202,420,Shrapnel #5,IS,C,,
+InfantrySMGBoudicca4,smg,SMG (Boudicca-4),SMG (Boudicca-4),0.27,1,30,6,,INFANTRY,0.0025,.27,300,Shrapnel #5,IS,C,,
+InfantrySMGBoudicca5,smg,SMG (Boudicca-5),SMG (Boudicca-5),0.45,1,30,6,,INFANTRY,0.0023,.9,500,Shrapnel #5,IS,C,,
+InfantrySMGBoudicca7,smg,SMG (Boudicca-7),SMG (Boudicca-7),0.69,1,40,8,,INFANTRY,0.0021,1.375,700,Shrapnel #5,IS,C,,
+InfantrySMGDSKLargoSGA,smg,SMG (DSK Largo SGA),SMG (DSK Largo SGA),0.44,2,50,10,,INFANTRY,0.0037,.44,600,Shrapnel #5,IS,C,,
+InfantrySMGDSKLargoSGB,smg,SMG (DSK Largo SGB),SMG (DSK Largo SGB),0.44,2,50,10,,INFANTRY,0.0035,.44,700,Shrapnel #5,IS,C,,
+InfantrySMGGuntherMP20Weapon,smg,SMG (Gunther MP-20),SMG (Gunther MP-20),0.33,0,30,6,,INFANTRY,.0025,0.30,125,"273, TM",IS,C,3005,
+InfantrySMGHouwei,smg,SMG (Houwei),SMG (Houwei),0.36,1,30,6,,INFANTRY,0.0035,.36,250,Shrapnel #5,IS,D,,
+InfantrySMGHunkleV,smg,SMG (Hunkle V),SMG (Hunkle V),0.55,1,100,10,,INFANTRY,0.0027,1.1,600,Shrapnel #5,IS,C,,
+InfantrySMGImperator2894A1Weapon,smg,SMG (Imperator 2894A1),SMG (Imperator 2894A1),0.22,0,50,5,,INFANTRY,.004,0.20,100,"273, TM",IS,C,2838,
+InfantrySMGJ15Hagel,smg,SMG (J-15 Hagel),SMG (J-15 Hagel),0.33,1,25,10,,INFANTRY,0.0027,.33,400,Shrapnel #5,IS,D,,
+InfantrySMGJ17Hagel,smg,SMG (J-17 Hagel),SMG (J-17 Hagel),0.55,1,25,8,,INFANTRY,0.0023,.55,700,Shrapnel #5,IS,D,,
+InfantrySMGJinseYanjingsheAPRounds,smg,SMG (Jinse Yanjingshe (AP Rounds)),SMG (Jinse Yanjingshe (AP Rounds)),0.63,1,30,5,,INFANTRY,0.0031,1.26,675,Shrapnel #5,IS,C,,
+InfantrySMGJinseYanjingsheStandard,smg,SMG (Jinse Yanjingshe (Standard)),SMG (Jinse Yanjingshe (Standard)),0.56,1,30,5,,INFANTRY,0.0031,1.125,675,Shrapnel #5,IS,C,,
+InfantrySMGKA23Weapon,smg,SMG (KA-23 Submachine Gun),SMG (KA-23 Submachine Gun),0.22,0,40,4,,INFANTRY,.0025,0.20,350,"273, TM",IS,D,2890,
+InfantrySMGNambuTypeS124,smg,SMG (Nambu Type S-124),SMG (Nambu Type S-124),0.2,1,30,7,,INFANTRY,0.0039,.202,450,Shrapnel #5,IS,C,,
+InfantrySMGRFWBedivere,smg,SMG (RFW Bedivere),SMG (RFW Bedivere),0.2,1,30,7,,INFANTRY,0.0012,.202,560,Shrapnel #5,IS,D,,
+InfantrySMGRorynexRM3XXIWeapon,smg,SMG (Rorynex RM-3/XXI),SMG (Rorynex RM-3/XXI),0.20,0,100,6,,INFANTRY,.003,0.18,80,"273, TM",ALL,D,2655,2655
+InfantrySMGRuganWeapon,smg,SMG (Rugan),SMG (Rugan),0.20,0,100,7,,INFANTRY,.0035,0.18,100,"273, TM",ALL,C,2718,2718
+InfantrySMGSpartacus,smg,SMG (Spartacus),SMG (Spartacus),0.44,2,50,8,,INFANTRY,0.0028,.44,750,Shrapnel #5,IS,D,,
+InfantrySMGSturmHornetMkIII,smg,SMG (Sturm Hornet Mk III),SMG (Sturm Hornet Mk III),0.27,1,30,6,,INFANTRY,0.0034,.27,750,Shrapnel #5,IS,C,,
+InfantrySMGSupekuta,smg,SMG (Supekuta),SMG (Supekuta),0.33,1,30,10,,INFANTRY,0.0025,.33,200,Shrapnel #5,IS,C,,
+InfantrySMGTiberius,smg,SMG (Tiberius),SMG (Tiberius),0.55,1,50,12,,INFANTRY,0.003,1.1,600,Shrapnel #5,IS,D,,
+InfantrySMGWC2,smg,SMG (WC-2),SMG (WC-2),0.2,1,30,5,,INFANTRY,0.0023,.202,700,Shrapnel #5,IS,C,,
+InfantrySMGWC6,smg,SMG (WC-6),SMG (WC-6),0.27,2,30,5,,INFANTRY,0.0022,.27,800,Shrapnel #5,CLAN,C,,
+InfantrySMGWolfBarronA7,smg,SMG (Wolf-Barron A7),SMG (Wolf-Barron A7),0.25,0,50,8,,INFANTRY,0.0029,.2475,450,Shrapnel #5,IS,C,,
+InfantrySMGWeapon,smg,Submachine Gun,Submachine Gun,0.25,0,50,5,,INFANTRY,.003,0.23,80,"273, TM",ALL,C,1950,1950
+InfantrySniperRifleBartonAMRAntiArmor,sniperRifle,Sniper Rifle (Barton AMR (Anti-Armor)),Sniper Rifle (Barton AMR (Anti-Armor)),0.74,7,8,1,,INFANTRY,0.014,1.176,700,Shrapnel #1,IS,D,,
+InfantrySniperRifleBartonAMRStandard,sniperRifle,Sniper Rifle (Barton AMR (Standard)),Sniper Rifle (Barton AMR (Standard)),0.61,7,8,1,,INFANTRY,0.014,.98,700,Shrapnel #1,IS,D,,
+InfantrySniperRifleSniperWeapon,sniperRifle,Sniper Rifle (Bolt Action),Sniper Rifle (Bolt Action),0.18,2,5,,,INFANTRY,.010,0.92,350,"273, TM",ALL,B,1950,1950
+InfantrySniperRifleFNFJ12DarkCaste,sniperRifle,Sniper Rifle (FNF-J12 (Dark Caste)),Sniper Rifle (FNF-J12 (Dark Caste)),0.42,5,8,1,,INFANTRY,0.006,.336,3500,Shrapnel #1,CLAN,E,,
+InfantrySniperRifleFNFJ12SLDF,sniperRifle,Sniper Rifle (FNF-J12 (SLDF)),Sniper Rifle (FNF-J12 (SLDF)),0.42,6,8,1,,INFANTRY,0.006,.336,3500,Shrapnel #1,IS,E,,
+InfantrySniperRifleHammelMarksman,sniperRifle,Sniper Rifle (Hammel Marksman),Sniper Rifle (Hammel Marksman),0.28,4,12,1,,INFANTRY,0.005,.28,500,Shrapnel #1,IS,C,,
+InfantrySniperRifleLRS53SniperRifle,sniperRifle,Sniper Rifle (LRS-53 Sniper Rifle),Sniper Rifle (LRS-53 Sniper Rifle),0.28,5,9,1,,INFANTRY,0.006,.252,1000,Shrapnel #1,IS,C,,
+InfantrySniperRifleLancelotMkV,sniperRifle,Sniper Rifle (Lancelot Mk V),Sniper Rifle (Lancelot Mk V),0.28,4,10,1,,INFANTRY,0.006,.28,400,Shrapnel #1,IS,C,,
+InfantrySniperRifleMinolta9000Weapon,sniperRifle,Sniper Rifle (Minolta 9000 Advanced Sniper System),Sniper Rifle (Minolta 9000 Advanced Sniper System),0.35,2,10,,,INFANTRY,.006,1.79,1000,"273, TM",IS,D,3052,
+InfantrySniperRiflePraetorianS3,sniperRifle,Sniper Rifle (Praetorian S-3),Sniper Rifle (Praetorian S-3),0.44,5,10,1,,INFANTRY,0.008,.875,400,Shrapnel #1,IS,C,,
+InfantrySniperRiflePraetorianS5,sniperRifle,Sniper Rifle (Praetorian S-5),Sniper Rifle (Praetorian S-5),0.53,5,10,1,,INFANTRY,0.007,1.05,600,Shrapnel #1,IS,C,,
+InfantrySniperRifleRadiumLaserWeapon,sniperRifle,Sniper Rifle (Radium Sniper),Sniper Rifle (Radium Sniper),0.36,3,5,,,INFANTRY,.012,2.58,9500,"273, TM",IS,E,2582,
+InfantrySniperRifleSR17SunsKiller,sniperRifle,Sniper Rifle (SR-17 Suns Killer),Sniper Rifle (SR-17 Suns Killer),0.35,5,15,1,,INFANTRY,0.006,.35,600,Shrapnel #1,IS,C,,
+InfantrySniperRifleSairentosutomu,sniperRifle,Sniper Rifle (Sairentosutomu),Sniper Rifle (Sairentosutomu),0.28,5,8,1,,INFANTRY,0.007,.224,900,Shrapnel #1,IS,D,,
+InfantrySniperRifleThorsHammer,sniperRifle,Sniper Rifle (Thors Hammer),Sniper Rifle (Thors Hammer),0.28,6,10,1,,INFANTRY,0.007,0.28,750,Shrapnel #1,IS,D,,
+InfantrySniperRifleWilimtonRS14,sniperRifle,Sniper Rifle (Wilimton RS-14),Sniper Rifle (Wilimton RS-14),0.35,5,10,1,,INFANTRY,0.007,0.35,1500,Shrapnel #1,IS,E,,
+InfantrySniperRifleWilimtonRS17Stripped,sniperRifle,Sniper Rifle (Wilimton RS-17 (Stripped)),Sniper Rifle (Wilimton RS-17 (Stripped)),0.53,6,10,1,,INFANTRY,0.009,1.05,2000,Shrapnel #1,IS,E,,
+InfantrySniperRifleYuanLing,sniperRifle,Sniper Rifle (Yuan Ling),Sniper Rifle (Yuan Ling),0.28,7,10,1,,INFANTRY,0.006,0.28,1000,Shrapnel #1,IS,D,,
+InfantrySupportMk1LightAAWeapon,support,"AA Weapon (Mk. 1, Light)","AA Weapon (Mk. 1, Light)",0.23,1,,,1,NA,.005,0.70,1000,"273, TM",ALL,D,2490,2490
+InfantrySupportMk2PortableAAWeapon,support,"AA Weapon (Mk. 2, Man-Portable)","AA Weapon (Mk. 2, Man-Portable)",0.81,2,4,,2,INFANTRY,.035,4.14,3500,"273, TM",ALL,D,2498,2498
+InfantrySupportPortableAutocannonWeapon,support,Autocannon (Semi-Portable),Autocannon (Semi-Portable),0.77,1,200,8,2,INFANTRY,.025,2.35,2000,"273, TM",ALL,C,2100,2100
+InfantrySupportPortableFlamerWeapon,support,Flamer (Man-Portable),Flamer (Man-Portable),0.55,0,12,,1,INFANTRY,.015,0.50,100,"273, TM",ALL,C,,
+InfantrySupportMagshotGaussRifleWeapon,support,Gauss Rifle (Magshot),Gauss Rifle (Magshot),0.74,2,20,,2,INFANTRY,.045,3.78,8500,"273, TM",IS,E,3058,
+InfantrySupportTsunamiHeavyGaussRifleWeapon,support,Gauss Rifle (Tsunami Heavy),Gauss Rifle (Tsunami Heavy),0.63,2,5,,1,INFANTRY,.0125,3.22,5500,"273, TM",IS,E,3053,
+InfantrySupportLRMWeapon,support,LRM Launcher (Corean Farshot),InfantryLRM,0.48,3,1,,,INFANTRY,.03,3.44,2000,"273, TM",IS,D,3055,
+InfantrySupportLRMInfernoWeapon,support,LRM Launcher (Corean Farshot) w/Inferno,InfantryLRMInferno,0.19,3,1,,,INFANTRY,.03,1.36,2000,"273, TM",IS,D,3055,
+InfantrySupportOneShotMRMWeapon,support,MRM Launcher,InfantryOneShotMRM,0.53,2,1,,1,INFANTRY,.03,2.71,2500,"273, TM",IS,D,3063,
+InfantrySupportOneShotMRMInfernoWeapon,support,MRM Launcher w/Inferno,InfantryOneShotMRMInferno,0.26,2,1,,1,INFANTRY,.03,1.33,2500,"273, TM",IS,D,3063,
+InfantrySupportMagPulseHarpoonWeapon,support,Mag-Pulse Harpoon Gun,Mag-Pulse Harpoon Gun,0.37,3,1,,2,INFANTRY,.095,1.47,12000,"176, AToW-C",IS,E,3070,
+InfantrySupportFiredrakeNeedlerWeapon,support,"Needler, Support (Firedrake)","Needler, Support (Firedrake)",1.2,1,30,3,2,INFANTRY,.025,6.13,500,"273, TM",IS,D,3058,
+InfantrySupportSemiPortablePPCWeapon,support,Particle Cannon (Semi-Portable),Particle Cannon (Semi-Portable),0.72,2,25,,2,INFANTRY,.040,3.68,7000,"273, TM",ALL,E,2430,2430
+InfantrySupportPortablePlasmaWeapon,support,Plasma Rifle (Man-Portable),Plasma Rifle (Man-Portable),1.58,2,10,,1,INFANTRY,.030,8.08,7500,"273, TM",IS,E,3063,
+InfantrySupportRocketLauncherLAWWeapon,support,Rocket Launcher (LAW),Rocket Launcher (LAW),0.53,2,,,1,NA,.004,2.71,350,"273, TM",ALL,C,1950,1950
+InfantrySupportRocketLauncherVLAWWeapon,support,Rocket Launcher (V-LAW),Rocket Launcher (V-LAW),0.48,1,,,1,NA,.0022,1.47,75,"273, TM",ALL,C,1950,1950
+InfantrySupportSnubNoseSupportPPCWeapon,support,Support PPC (Snub-Nose),Support PPC (Snub-Nose),1.58,5,150,,3,INFANTRY,1.6,0.0,60000,"176, AToW-C",IS,E,3075,
+InfantrySupportTAGWeapon,support,"TAG (Light, Man-Portable)","TAG (Light, Man-Portable)",,,,,,,.020,,40000,"273, TM",ALL,E,2598,2598
+InfantrySupportVintageGatlingGunWeapon,support,Vintage Gatling Gun,Vintage Gatling Gun,0.17,2,480,40,4,INFANTRY,0.296,0.0,450000,"195, AToW-C",ALL,B,1950,1950
+InfantrySupportVintageMiniGunWeapon,support,Vintage MiniGun,Vintage MiniGun,0.81,2,500,10,2,INFANTRY,.021,0.0,50000,"195, AToW-C",ALL,C,1950,1950
+InfantrySupportWireGuidedMissileWeapon,support,Wire-Guided Missile Launcher,Wire-Guided Missile Launcher,1.08,2,1,,4,INFANTRY,0.095,0.00,800000,"195, AToW-C",ALL,C,,
+InfantrySupportClanBearhunterAutocannonWeapon,support/clan,Autocannon (Bearhunter Superheavy),Autocannon (Bearhunter Superheavy),2.33,0,180,6,2,INFANTRY,0.040,2.13,3000,"273, TM",CLAN,D,,3059
+InfantrySupportClanERHeavyLaserWeapon,support/clan,"Support Laser (ER Heavy, Clan)","Support Laser (ER Heavy, Clan)",1.26,7,7,,3,INFANTRY,.240,18.52,80000,"273, TM",CLAN,F,,2825
+InfantrySupportClanERLaserWeapon,support/clan,"Support Laser (ER, Clan)","Support Laser (ER, Clan)",1.05,4,10,,2,INFANTRY,.100,10.27,11250,"273, TM",CLAN,F,,2824
+InfantrySupportClanSemiPortableERLaserWeapon,support/clan,"Support Laser (ER, Semi-Portable)","Support Laser (ER, Semi-Portable)",0.70,3,15,,2,INFANTRY,.025,5.02,10000,"273, TM",CLAN,F,,3056
+InfantrySupportClanSemiPortableHeavyLaserWeapon,support/clan,"Support Laser (Heavy, Semi-Portable)","Support Laser (Heavy, Semi-Portable)",1.05,3,10,,3,INFANTRY,0.025,7.53,20000,"273, TM",CLAN,F,,3055
+InfantrySupportClanSemiPortablePulseLaserWeapon,support/clan,Support Pulse Laser (Semi-Portable),Support Pulse Laser (Semi-Portable),0.55,2,25,2,2,INFANTRY,.040,2.81,12500,"273, TM",CLAN,F,,3056
+InfantrySupportGrandMaulerGaussCannonWeapon,support/gauss,Gauss Cannon (Grand Mauler),Gauss Cannon (Grand Mauler),0.63,2,5,,1,INFANTRY,.014,3.22,5000,"273, TM",IS,E,3055,
+InfantrySupportGungnirHeavyGaussWeapon,support/gauss,Gauss Rifle (Gungnir Heavy Support),Gauss Rifle (Gungnir Heavy Support),1.23,3,10,,3,INFANTRY,0.006,0.0,15000,"176, AToW-C",IS,E,3074,
+InfantrySupportDavidLightGaussRifleWeapon,support/gauss,"Gauss Rifle, Light (David)","Gauss Rifle, Light (David)",0.56,3,8,2,1,INFANTRY,.018,4.01,6000,"273, TM",IS,E,3060,
+InfantrySupportKingDavidLightGaussRifleWeapon,support/gauss,"Gauss Rifle, Light (King David)","Gauss Rifle, Light (King David)",0.68,3,80,16,2,INFANTRY,.03,4.87,8000,"273, TM",IS,E,3060,
+InfantrySupportGrenadeLauncherWeapon,support/grenadeLauncher,Grenade Launcher,Grenade Launcher,0.81,1,10,,1,INFANTRY,.005,2.48,465,"273, TM",ALL,C,1950,1950
+InfantrySupportGrenadeLauncherAutoWeapon,support/grenadeLauncher,Grenade Launcher (Auto),InfantryAutoGL,1.49,1,20,4,1,INFANTRY,.012,4.55,975,"273, TM",ALL,C,2100,2100
+InfantrySupportGrenadeLauncherAutoInfernoWeapon,support/grenadeLauncher,Grenade Launcher (Auto) - Inferno,InfantryAutoGLInferno,0.41,1,20,4,1,INFANTRY,.012,1.25,975,"273, TM",ALL,C,2100,2100
+InfantrySupportGrenadeLauncherCompactWeapon,support/grenadeLauncher,Grenade Launcher (Compact),Grenade Launcher (Compact),0.16,1,1,,1,INFANTRY,.003,0.49,290,"273, TM",ALL,C,2100,2100
+InfantrySupportGrenadeLauncherHeavyAutoWeapon,support/grenadeLauncher,Grenade Launcher (Heavy Auto),InfantryHeavyAutoGrenadeLauncher,1.93,1,20,3,1,INFANTRY,.020,5.90,4500,"273, TM",CLAN,D,,2896
+InfantrySupportGrenadeLauncherHeavyAutoInfernoWeapon,support/grenadeLauncher,Grenade Launcher (Heavy Auto) w/Inferno,InfantryHeavyAutoGrenadeLauncherInferno,0.96,1,20,3,1,INFANTRY,.020,2.93,4500,"273, TM",CLAN,D,,2896
+InfantrySupportGrenadeLauncherInfernoWeapon,support/grenadeLauncher,Grenade Launcher - Inferno,InfantryGrenadeLauncherInferno,0.34,1,10,,1,INFANTRY,.005,1.04,465,"273, TM",ALL,C,1950,1950
+InfantrySupportHeavyFlamerWeapon,support/heavy,Flamer (Heavy),Flamer (Heavy),0.79,0,3,,2,INFANTRY,.025,0.72,200,"273, TM",ALL,C,2100,2100
+InfantrySupportHeavyGrenadeLauncherWeapon,support/heavy,Grenade Launcher (Heavy),InfantryHeavyGrenadeLauncher,1.76,1,20,4,1,INFANTRY,.018,5.38,1500,"273, TM",IS,C,3049,
+InfantrySupportHeavyGrenadeLauncherInfernoWeapon,support/heavy,Grenade Launcher (Heavy) w/Inferno,InfantryHeavyGrenadeLauncherInferno,0.69,1,20,4,1,INFANTRY,.018,2.11,1500,"273, TM",IS,C,3049,
+InfantrySupportHeavyPPCWeapon,support/heavy,Particle Cannon (Support),Particle Cannon (Support),1.58,3,150,,5,INFANTRY,1.800,11.32,45000,"273, TM",ALL,E,2465,2465
+InfantrySupportHeavyLaserWeapon,support/heavy,Support Laser (Heavy),Support Laser (Heavy),1.47,5,7,,3,INFANTRY,.300,17.35,40000,"273, TM",ALL,D,2400,2400
+InfantrySupportHeavyPulseLaserWeapon,support/heavy,Support Pulse Laser (Heavy),Support Pulse Laser (Heavy),0.98,4,18,3,4,INFANTRY,.300,9.58,60000,"273, TM",ALL,E,2610,2610
+InfantrySupportHellboreAssaultLaserWeapon,support/laser,Laser (Hellbore Assault),Laser (Hellbore Assault),0.63,2,15,,1,INFANTRY,.020,3.22,2500,"273, TM",IS,E,3054,
+InfantrySupportDragonsbaneDisposablePulseLaserWeapon,support/laser,Pulse Laser (Dragonsbane Disposable),Pulse Laser (Dragonsbane Disposable),0.49,3,,,1,NA,.007,5.08,5000,"273, TM",IS,E,3054,
+InfantrySupportLaserWeapon,support/laser,Support Laser,Support Laser,0.84,3,15,,2,INFANTRY,.072,6.02,10000,"273, TM",ALL,D,2377,2377
+InfantrySupportERHeavyLaserWeapon,support/laser,"Support Laser (ER Heavy, IS)","Support Laser (ER Heavy, IS)",1.05,6,7,,4,INFANTRY,.250,13.88,80000,"273, TM",IS,E,3054,
+InfantrySupportERLaserWeapon,support/laser,"Support Laser (ER, IS)","Support Laser (ER, IS)",0.84,4,10,,2,INFANTRY,.110,8.21,11250,"273, TM",IS,E,3054,
+InfantrySupportSemiPortableLaserWeapon,support/laser,Support Laser (Semi-Portable),Support Laser (Semi-Portable),0.61,3,21,,2,INFANTRY,.040,4.37,5000,"273, TM",ALL,D,2395,2395
+InfantrySupportLaserUltraHeavyWeapon,support/laser,Support Laser (Ultra-Heavy),Support Laser (Ultra-Heavy),1.72,5,5,,4,INFANTRY,.250,20.31,100000,"273, TM",CLAN,F,,3055
+InfantrySupportPulseLaserWeapon,support/laser,Support Pulse Laser,Support Pulse Laser,0.81,3,21,4,2,INFANTRY,.150,5.81,16000,"273, TM",ALL,E,2605,2605
+InfantrySupportMGLightWeapon,support/mg,Machine Gun (Light),Machine Gun (Light),0.49,1,45,3,1,INFANTRY,.007,1.50,400,"273, TM",ALL,C,1950,1950
+InfantrySupportMGPortableWeapon,support/mg,Machine Gun (Portable),Machine Gun (Portable),0.65,1,75,5,,INFANTRY,.0115,1.99,1000,"273, TM",ALL,C,1950,1950
+InfantrySupportMGSemiPortableWeapon,support/mg,Machine Gun (Semi-Portable),Machine Gun (Semi-Portable),0.75,1,80,4,2,INFANTRY,.020,2.29,1000,"273, TM",ALL,C,1950,1950
+InfantrySupportMGSupportWeapon,support/mg,Machine Gun (Support),Machine Gun (Support),0.94,2,100,5,2,INFANTRY,.044,4.80,1750,"273, TM",ALL,C,1950,1950
+InfantrySupportMGVintageWeapon,support/mg,Machine Gun (Vintage),Machine Gun (Vintage),0.39,1,90,9,1,INFANTRY,.011,0.0,6000,"195, AToW-C",ALL,C,1950,1950
+InfantrySupportMortarHeavyWeapon,support/mortar,Mortar (Heavy),InfantryHeavyMortar,0.57,3,1,,3,INFANTRY,.220,4.09,5000,"273, TM",ALL,B,1950,1950
+InfantrySupportMortarHeavyInfernoWeapon,support/mortar,Mortar (Heavy) - Inferno,InfantryHeavyMortarInferno,0.34,3,1,,3,INFANTRY,.220,2.44,5000,"273, TM",ALL,B,1950,1950
+InfantrySupportMortarLightWeapon,support/mortar,Mortar (Light),InfantryLightMortar,0.53,1,1,,2,INFANTRY,.050,1.62,1400,"273, TM",ALL,B,1950,1950
+InfantrySupportMortarLightInfernoWeapon,support/mortar,Mortar (Light) - Inferno,InfantryLightMortarInferno,0.26,1,1,,2,INFANTRY,.050,0.79,1400,"273, TM",ALL,B,1950,1950
+InfantrySupportRecoillessRifleHeavyWeapon,support/recoillessRifle,Recoilless Rifle (Heavy),InfantryHRR,0.57,2,1,,3,INFANTRY,.060,2.91,3000,"273, TM",ALL,C,1950,1950
+InfantrySupportRecoillessRifleHeavyInfernoWeapon,support/recoillessRifle,Recoilless Rifle (Heavy) - Inferno,InfantryHRRInferno,0.34,2,1,,3,INFANTRY,.060,1.74,3000,"273, TM",ALL,C,1950,1950
+InfantrySupportRecoillessRifleLightWeapon,support/recoillessRifle,Recoilless Rifle (Light),InfantryLRR,0.48,2,1,,1,INFANTRY,.008,2.45,300,"273, TM",ALL,C,1950,1950
+InfantrySupportRecoillessRifleLightInfernoWeapon,support/recoillessRifle,Recoilless Rifle (Light) - Inferno,InfantryLRRInferno,0.19,2,1,,1,INFANTRY,.008,0.97,300,"273, TM",ALL,C,1950,1950
+InfantrySupportRecoillessRifleMediumWeapon,support/recoillessRifle,Recoilless Rifle (Medium),InfantryMRR,0.53,2,1,,2,INFANTRY,.032,2.71,2000,"273, TM",ALL,C,1950,1950
+InfantrySupportRecoillessRifleMediumInfernoWeapon,support/recoillessRifle,Recoilless Rifle (Medium) - Inferno,InfantryMRRInferno,0.26,2,1,,2,INFANTRY,.032,1.33,2000,"273, TM",ALL,C,1950,1950
+InfantrySupportSRMHeavyWeapon,support/srm,SRM Launcher (Heavy),InfantryHeavySRM,0.57,2,1,,,INFANTRY,.020,2.91,3000,"273, TM",ALL,C,2366,2366
+InfantrySupportSRMHeavyInfernoWeapon,support/srm,SRM Launcher (Heavy) w/ Inferno,InfantryHeavySRMInferno,0.34,2,1,,,INFANTRY,0.020,1.74,3000,"273, TM",ALL,C,2366,2366
+InfantrySupportSRMLightWeapon,support/srm,SRM Launcher (Light),InfantrySRMLight,0.57,2,2,,,INFANTRY,.010,2.91,1500,"273, TM",ALL,C,2365,2365
+InfantrySupportSRMLightInfernoWeapon,support/srm,SRM Launcher (Light) - Inferno,InfantrySRMLightInferno,0.34,2,2,,,INFANTRY,.010,1.74,1500,"273, TM",ALL,C,2365,2365
+InfantrySupportSRMStandardWeapon,support/srm,"SRM Launcher (Std, Two-Shot)",InfantryStandardSRM,1.14,2,2,,1,INFANTRY,.030,5.83,1500,"273, TM",ALL,C,2365,2365
+InfantrySupportSRMStandardInfernoWeapon,support/srm,"SRM Launcher (Std, Two-Shot) - Inferno",InfantryStandardSRMInferno,0.68,2,2,,,INFANTRY,.030,3.48,1500,"273, TM",ALL,C,2365,2365

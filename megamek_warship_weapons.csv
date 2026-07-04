@@ -1,39 +1,39 @@
-className,category,subCategory,name,internalName,heat,damage,ammoType,minimumRange,shortRange,mediumRange,longRange,extremeRange,tonnage,bv,cost,shortAV,medAV,longAV,extAV,maxRange,rulesRefs,techBase,techRating,isIntroYear,clanIntroYear
-AR10Weapon,capitalWeapons,,Capital Missile Launcher (AR10 Launcher),Capital Missile Launcher (AR10 Launcher),20,2,AR10,,20,30,40,50,250.0,961.0,250000,2,2,2,2,Extreme,"210, TM",ALL,E,2540,2540
-CapMissBarracudaWeapon,capitalWeapons,,Capital Missile Launcher (Barracuda),Capital Missile Launcher (Barracuda),10,2,BARRACUDA,,20,30,40,50,90.0,522.0,90000,2,2,2,2,Extreme,"210, TM",ALL,E,2200,2200
-CapMissKillerWhaleWeapon,capitalWeapons,,Capital Missile Launcher (Killer Whale),Capital Missile Launcher (Killer Whale),20,4,KILLER_WHALE,,7,14,21,28,150.0,769.0,150000,4,4,4,4,Extreme,"210, TM",ALL,E,2200,2200
-CapMissKrakenWeapon,capitalWeapons,,Capital Missile Launcher (Kraken),Capital Missile Launcher (Kraken),50,10,KRAKENM,,11,22,34,46,190.0,1914.0,455000,10,10,10,10,Extreme,Unofficial,IS,F,3053,
-CapMissWhiteSharkWeapon,capitalWeapons,,Capital Missile Launcher (White Shark),Capital Missile Launcher (White Shark),15,3,WHITE_SHARK,,12,24,36,48,120.0,577.0,130000,3,3,3,3,Extreme,"210, TM",ALL,E,2200,2200
-MassDriverHeavy,capitalWeapons,,Mass Driver (Heavy),Mass Driver (Heavy),90,140,HMASS,,12,24,40,,100000,16464.0,500000000,140,140,140,,,"135, TO:AUE",IS,D,2715,
-MassDriverLight,capitalWeapons,,Mass Driver (Light),Mass Driver (Light),30,60,LMASS,,12,24,40,,30000,7056.0,150000000,60,60,60,,Long,"135, TO:AUE",IS,D,2715,
-MassDriverMedium,capitalWeapons,,Mass Driver (Medium),Mass Driver (Medium),60,100,MMASS,,12,24,40,,50000,11760.0,280000000,100,100,100,,Long,"135, TO:AUE",IS,D,2715,
-ScreenLauncherWeapon,capitalWeapons,,Screen Launcher,Screen Launcher,10,15,SCREEN_LAUNCHER,,3,6,9,12,40.0,160.0,250000,15,,,,Short,"237, TM",IS,F,3053,
-CapMissTeleBarracudaWeapon,capitalWeapons,,Tele-operated Missile (Barracuda-T),Tele-operated Missile (Barracuda-T),10,2,BARRACUDA_T,,20,30,40,50,100.0,461.0,100000,2,2,2,2,Extreme,"210, TM",IS,F,3053,
-CapMissTeleKillerWhaleWeapon,capitalWeapons,,Tele-operated Missile (Killer Whale-T),Tele-operated Missile (Killer Whale-T),20,4,KILLER_WHALE_T,,7,14,21,28,160.0,923.0,165000,4,4,4,4,Extreme,"210, TM",IS,F,3053,
-CapMissTeleKrakenWeapon,capitalWeapons,,Tele-operated Missile (Kraken T),Tele-operated Missile (Kraken T),50,10,KRAKEN_T,,11,22,34,46,220.0,2306.0,500000,10,10,10,10,Extreme,"210, TM",IS,F,3053,
-CapMissTeleWhiteSharkWeapon,capitalWeapons,,Tele-operated Missile (White Shark-T),Tele-operated Missile (White Shark-T),15,3,WHITE_SHARK_T,,12,24,36,48,130.0,692.0,145000,3,3,3,3,Extreme,"210, TM",IS,F,3053,
-NAC10Weapon,capitalWeapons,naval,Naval Autocannon (NAC/10),Naval Autocannon (NAC/10),30,10,,,11,22,33,44,2000.0,1896.0,2000000,10,10,10,,Long,"143, TO:AUE",ALL,D,,
-NAC20Weapon,capitalWeapons,naval,Naval Autocannon (NAC/20),Naval Autocannon (NAC/20),60,20,,,11,21,31,42,2500.0,3792.0,5000000,20,20,20,,Long,"143, TO:AUE",ALL,D,,
-NAC25Weapon,capitalWeapons,naval,Naval Autocannon (NAC/25),Naval Autocannon (NAC/25),85,25,,,10,20,30,40,3000.0,4740.0,7500000,25,25,25,,Long,"143, TO:AUE",ALL,D,,
-NAC30Weapon,capitalWeapons,naval,Naval Autocannon (NAC/30),Naval Autocannon (NAC/30),100,30,,,9,18,27,36,3500.0,5688.0,10500000,30,30,30,,Long,"143, TO:AUE",ALL,D,,
-NAC35Weapon,capitalWeapons,naval,Naval Autocannon (NAC/35),Naval Autocannon (NAC/35),120,35,,,7,14,21,28,4000.0,4956.0,14000000,35,35,,,Medium,"143, TO:AUE",ALL,D,,
-NAC40Weapon,capitalWeapons,naval,Naval Autocannon (NAC/40),Naval Autocannon (NAC/40),135,40,,,6,12,18,24,4500.0,5664.0,18000000,40,40,,,Medium,"143, TO:AUE",ALL,D,,
-NGaussWeaponHeavy,capitalWeapons,naval,Naval Gauss (Heavy),Naval Gauss (Heavy),18,30,HEAVY_NGAUSS,,12,24,36,48,7000,6048.0,50050000,30,30,30,30,Extreme,"145, TO:AUE",ALL,E,2440,2440
-NGaussWeaponLight,capitalWeapons,naval,Naval Gauss (Light),Naval Gauss (Light),9,15,LIGHT_NGAUSS,,14,28,40,56,4500,3024.0,20300000,15,15,15,15,Extreme,"145, TO:AUE",ALL,E,2440,2440
-NGaussWeaponMedium,capitalWeapons,naval,Naval Gauss (Medium),Naval Gauss (Medium),15,25,MED_NGAUSS,,13,26,39,52,5500,5040.0,30350000,25,25,25,25,Extreme,"145, TO:AUE",ALL,E,2440,2440
-NL35Weapon,capitalWeapons,naval,Naval Laser 35,Naval Laser 35,52,3,,,11,22,33,44,700.0,830.0,500000,3.5,3.5,3.5,,Long,"145, TO:AUE",ALL,D,,
-NL45Weapon,capitalWeapons,naval,Naval Laser 45,Naval Laser 45,70,4,,,12,24,36,48,900.0,1134.0,850000,4.5,4.5,4.5,4.5,Extreme,"145, TO:AUE",ALL,D,,
-NL55Weapon,capitalWeapons,naval,Naval Laser 55,Naval Laser 55,85,5,,,13,26,39,52,1100.0,1386.0,1250000,5.5,5.5,5.5,5.5,Extreme,"145, TO:AUE",ALL,D,,
-NPPCWeaponHeavy,capitalWeapons,naval,Naval PPC (Heavy),Naval PPC (Heavy),225,15,,,13,26,39,52,3000.0,3780.0,9050000,15,15,15,15,Extreme,"146, TO:AUE",ALL,D,2350,2350
-NPPCWeaponLight,capitalWeapons,naval,Naval PPC (Light),Naval PPC (Light),105,7,,,11,22,33,44,1400.0,1659.0,2000000,7,7,7,,Long,"146, TO:AUE",ALL,D,2350,2350
-NPPCWeaponMedium,capitalWeapons,naval,Naval PPC (Medium),Naval PPC (Medium),135,9,,,12,24,36,48,1800.0,2268.0,3250000,9,9,9,9,Extreme,"146, TO:AUE",ALL,D,2350,2350
-SubCapCannonWeaponHeavy,subCapitalWeapons,,Sub-Capital Cannon (Heavy),Sub-Capital Cannon (Heavy),42,7,,,11,22,33,44,700.0,991,1300000,7,7,,,Medium,"155, TO:AUE",ALL,E,,
-SubCapCannonWeaponLight,subCapitalWeapons,,Sub-Capital Cannon (Light),Sub-Capital Cannon (Light),12,2,,,11,22,33,44,200.0,379,330000,2,2,2,,Long,"155, TO:AUE",ALL,E,,
-SubCapCannonWeaponMedium,subCapitalWeapons,,Sub-Capital Cannon (Medium),Sub-Capital Cannon (Medium),30,5,,,11,22,33,44,500.0,708,780000,5,5,,,Medium,"155, TO:AUE",ALL,E,,
-SubCapLaserWeapon1,subCapitalWeapons,,Sub-Capital Laser /1,Sub-Capital Laser /1,24,1,,,11,22,33,44,150.0,237,220000,1,1,1,,Long,"155, TO:AUE",ALL,E,,
-SubCapLaserWeapon2,subCapitalWeapons,,Sub-Capital Laser /2,Sub-Capital Laser /2,28,2,,,11,22,33,44,200.0,354,335000,2,2,,,Medium,"155, TO:AUE",ALL,E,,
-SubCapLaserWeapon3,subCapitalWeapons,,Sub-Capital Laser /3,Sub-Capital Laser /3,32,3,,,11,22,33,44,250.0,531,450000,3,3,,,Medium,"155, TO:AUE",ALL,E,,
-SubCapMissileMantaRayWeapon,subCapitalWeapons,,Sub-Capital Missile Launcher (Manta Ray),Sub-Capital Missile Launcher (Manta Ray),21,5,MANTA_RAY,,7,14,21,28,160.0,396,150000,5,,,,,"156, TO:AUE",ALL,E,,
-SubCapMissilePiranhaWeapon,subCapitalWeapons,,Sub-Capital Missile Launcher (Piranha),Sub-Capital Missile Launcher (Piranha),9,3,PIRANHA,,7,14,21,28,100.0,589,75000,3,3,3,,,"156, TO:AUE",ALL,E,,
-SubCapMissileStingrayWeapon,subCapitalWeapons,,Sub-Capital Missile Launcher (Stingray),Sub-Capital Missile Launcher (Stingray),9,3,STINGRAY,,7,14,21,28,120.0,496,85000,3.5,3.5,,,,"156, TO:AUE",ALL,E,,
-SubCapMissileSwordfishWeapon,subCapitalWeapons,,Sub-Capital Missile Launcher (Swordfish),Sub-Capital Missile Launcher (Swordfish),15,4,SWORDFISH,,7,14,21,28,140.0,317,110000,4,,,,,"156, TO:AUE",ALL,E,,
+className,category,subCategory,name,internalName,weaponClass,heat,damage,rackSize,ammoType,missileArmor,shortRange,mediumRange,longRange,extremeRange,shortAV,medAV,longAV,extAV,maxRange,tonnage,bv,cost,rulesRefs,techBase,techRating,isIntroYear,clanIntroYear
+AR10Weapon,capitalWeapons,,Capital Missile Launcher (AR10 Launcher),Capital Missile Launcher (AR10 Launcher),AR10,20,2,,AR10,,20,30,40,50,2,2,2,2,Extreme,250.0,961.0,250000,"210, TM",ALL,E,2540,2540
+CapMissBarracudaWeapon,capitalWeapons,,Capital Missile Launcher (Barracuda),Capital Missile Launcher (Barracuda),Capital Missile,10,2,,BARRACUDA,20,20,30,40,50,2,2,2,2,Extreme,90.0,522.0,90000,"210, TM",ALL,E,2200,2200
+CapMissKillerWhaleWeapon,capitalWeapons,,Capital Missile Launcher (Killer Whale),Capital Missile Launcher (Killer Whale),Capital Missile,20,4,,KILLER_WHALE,40,7,14,21,28,4,4,4,4,Extreme,150.0,769.0,150000,"210, TM",ALL,E,2200,2200
+CapMissKrakenWeapon,capitalWeapons,,Capital Missile Launcher (Kraken),Capital Missile Launcher (Kraken),Capital Missile,50,10,,KRAKENM,100,11,22,34,46,10,10,10,10,Extreme,190.0,1914.0,455000,Unofficial,IS,F,3053,
+CapMissWhiteSharkWeapon,capitalWeapons,,Capital Missile Launcher (White Shark),Capital Missile Launcher (White Shark),Capital Missile,15,3,,WHITE_SHARK,30,12,24,36,48,3,3,3,3,Extreme,120.0,577.0,130000,"210, TM",ALL,E,2200,2200
+MassDriverHeavy,capitalWeapons,,Mass Driver (Heavy),Mass Driver (Heavy),,90,140,,HMASS,,12,24,40,,140,140,140,,,100000,16464.0,500000000,"135, TO:AUE",IS,D,2715,
+MassDriverLight,capitalWeapons,,Mass Driver (Light),Mass Driver (Light),,30,60,,LMASS,,12,24,40,,60,60,60,,Long,30000,7056.0,150000000,"135, TO:AUE",IS,D,2715,
+MassDriverMedium,capitalWeapons,,Mass Driver (Medium),Mass Driver (Medium),,60,100,,MMASS,,12,24,40,,100,100,100,,Long,50000,11760.0,280000000,"135, TO:AUE",IS,D,2715,
+ScreenLauncherWeapon,capitalWeapons,,Screen Launcher,Screen Launcher,Screen,10,15,,SCREEN_LAUNCHER,,3,6,9,12,15,,,,Short,40.0,160.0,250000,"237, TM",IS,F,3053,
+CapMissTeleBarracudaWeapon,capitalWeapons,,Tele-operated Missile (Barracuda-T),Tele-operated Missile (Barracuda-T),Tele-Missile,10,2,,BARRACUDA_T,20,20,30,40,50,2,2,2,2,Extreme,100.0,461.0,100000,"210, TM",IS,F,3053,
+CapMissTeleKillerWhaleWeapon,capitalWeapons,,Tele-operated Missile (Killer Whale-T),Tele-operated Missile (Killer Whale-T),Tele-Missile,20,4,,KILLER_WHALE_T,40,7,14,21,28,4,4,4,4,Extreme,160.0,923.0,165000,"210, TM",IS,F,3053,
+CapMissTeleKrakenWeapon,capitalWeapons,,Tele-operated Missile (Kraken T),Tele-operated Missile (Kraken T),Tele-Missile,50,10,,KRAKEN_T,100,11,22,34,46,10,10,10,10,Extreme,220.0,2306.0,500000,"210, TM",IS,F,3053,
+CapMissTeleWhiteSharkWeapon,capitalWeapons,,Tele-operated Missile (White Shark-T),Tele-operated Missile (White Shark-T),Tele-Missile,15,3,,WHITE_SHARK_T,30,12,24,36,48,3,3,3,3,Extreme,130.0,692.0,145000,"210, TM",IS,F,3053,
+NAC10Weapon,capitalWeapons,naval,Naval Autocannon (NAC/10),Naval Autocannon (NAC/10),,30,10,10,,,11,22,33,44,10,10,10,,Long,2000.0,1896.0,2000000,"143, TO:AUE",ALL,D,,
+NAC20Weapon,capitalWeapons,naval,Naval Autocannon (NAC/20),Naval Autocannon (NAC/20),,60,20,20,,,11,21,31,42,20,20,20,,Long,2500.0,3792.0,5000000,"143, TO:AUE",ALL,D,,
+NAC25Weapon,capitalWeapons,naval,Naval Autocannon (NAC/25),Naval Autocannon (NAC/25),,85,25,25,,,10,20,30,40,25,25,25,,Long,3000.0,4740.0,7500000,"143, TO:AUE",ALL,D,,
+NAC30Weapon,capitalWeapons,naval,Naval Autocannon (NAC/30),Naval Autocannon (NAC/30),,100,30,30,,,9,18,27,36,30,30,30,,Long,3500.0,5688.0,10500000,"143, TO:AUE",ALL,D,,
+NAC35Weapon,capitalWeapons,naval,Naval Autocannon (NAC/35),Naval Autocannon (NAC/35),,120,35,35,,,7,14,21,28,35,35,,,Medium,4000.0,4956.0,14000000,"143, TO:AUE",ALL,D,,
+NAC40Weapon,capitalWeapons,naval,Naval Autocannon (NAC/40),Naval Autocannon (NAC/40),,135,40,40,,,6,12,18,24,40,40,,,Medium,4500.0,5664.0,18000000,"143, TO:AUE",ALL,D,,
+NGaussWeaponHeavy,capitalWeapons,naval,Naval Gauss (Heavy),Naval Gauss (Heavy),,18,30,,HEAVY_NGAUSS,,12,24,36,48,30,30,30,30,Extreme,7000,6048.0,50050000,"145, TO:AUE",ALL,E,2440,2440
+NGaussWeaponLight,capitalWeapons,naval,Naval Gauss (Light),Naval Gauss (Light),,9,15,,LIGHT_NGAUSS,,14,28,40,56,15,15,15,15,Extreme,4500,3024.0,20300000,"145, TO:AUE",ALL,E,2440,2440
+NGaussWeaponMedium,capitalWeapons,naval,Naval Gauss (Medium),Naval Gauss (Medium),,15,25,,MED_NGAUSS,,13,26,39,52,25,25,25,25,Extreme,5500,5040.0,30350000,"145, TO:AUE",ALL,E,2440,2440
+NL35Weapon,capitalWeapons,naval,Naval Laser 35,Naval Laser 35,,52,3,,,,11,22,33,44,3.5,3.5,3.5,,Long,700.0,830.0,500000,"145, TO:AUE",ALL,D,,
+NL45Weapon,capitalWeapons,naval,Naval Laser 45,Naval Laser 45,,70,4,,,,12,24,36,48,4.5,4.5,4.5,4.5,Extreme,900.0,1134.0,850000,"145, TO:AUE",ALL,D,,
+NL55Weapon,capitalWeapons,naval,Naval Laser 55,Naval Laser 55,,85,5,,,,13,26,39,52,5.5,5.5,5.5,5.5,Extreme,1100.0,1386.0,1250000,"145, TO:AUE",ALL,D,,
+NPPCWeaponHeavy,capitalWeapons,naval,Naval PPC (Heavy),Naval PPC (Heavy),,225,15,,,,13,26,39,52,15,15,15,15,Extreme,3000.0,3780.0,9050000,"146, TO:AUE",ALL,D,2350,2350
+NPPCWeaponLight,capitalWeapons,naval,Naval PPC (Light),Naval PPC (Light),,105,7,,,,11,22,33,44,7,7,7,,Long,1400.0,1659.0,2000000,"146, TO:AUE",ALL,D,2350,2350
+NPPCWeaponMedium,capitalWeapons,naval,Naval PPC (Medium),Naval PPC (Medium),,135,9,,,,12,24,36,48,9,9,9,9,Extreme,1800.0,2268.0,3250000,"146, TO:AUE",ALL,D,2350,2350
+SubCapCannonWeaponHeavy,subCapitalWeapons,,Sub-Capital Cannon (Heavy),Sub-Capital Cannon (Heavy),,42,7,7,,,11,22,33,44,7,7,,,Medium,700.0,991,1300000,"155, TO:AUE",ALL,E,,
+SubCapCannonWeaponLight,subCapitalWeapons,,Sub-Capital Cannon (Light),Sub-Capital Cannon (Light),,12,2,2,,,11,22,33,44,2,2,2,,Long,200.0,379,330000,"155, TO:AUE",ALL,E,,
+SubCapCannonWeaponMedium,subCapitalWeapons,,Sub-Capital Cannon (Medium),Sub-Capital Cannon (Medium),,30,5,5,,,11,22,33,44,5,5,,,Medium,500.0,708,780000,"155, TO:AUE",ALL,E,,
+SubCapLaserWeapon1,subCapitalWeapons,,Sub-Capital Laser /1,Sub-Capital Laser /1,,24,1,,,,11,22,33,44,1,1,1,,Long,150.0,237,220000,"155, TO:AUE",ALL,E,,
+SubCapLaserWeapon2,subCapitalWeapons,,Sub-Capital Laser /2,Sub-Capital Laser /2,,28,2,,,,11,22,33,44,2,2,,,Medium,200.0,354,335000,"155, TO:AUE",ALL,E,,
+SubCapLaserWeapon3,subCapitalWeapons,,Sub-Capital Laser /3,Sub-Capital Laser /3,,32,3,,,,11,22,33,44,3,3,,,Medium,250.0,531,450000,"155, TO:AUE",ALL,E,,
+SubCapMissileMantaRayWeapon,subCapitalWeapons,,Sub-Capital Missile Launcher (Manta Ray),Sub-Capital Missile Launcher (Manta Ray),Capital Missile,21,5,,MANTA_RAY,50,7,14,21,28,5,,,,Short,160.0,396,150000,"156, TO:AUE",ALL,E,,
+SubCapMissilePiranhaWeapon,subCapitalWeapons,,Sub-Capital Missile Launcher (Piranha),Sub-Capital Missile Launcher (Piranha),Capital Missile,9,3,,PIRANHA,30,7,14,21,28,3,3,3,,Long,100.0,589,75000,"156, TO:AUE",ALL,E,,
+SubCapMissileStingrayWeapon,subCapitalWeapons,,Sub-Capital Missile Launcher (Stingray),Sub-Capital Missile Launcher (Stingray),Capital Missile,9,3,,STINGRAY,35,7,14,21,28,3.5,3.5,,,Medium,120.0,496,85000,"156, TO:AUE",ALL,E,,
+SubCapMissileSwordfishWeapon,subCapitalWeapons,,Sub-Capital Missile Launcher (Swordfish),Sub-Capital Missile Launcher (Swordfish),Capital Missile,15,4,,SWORDFISH,40,7,14,21,28,4,,,,Short,140.0,317,110000,"156, TO:AUE",ALL,E,,

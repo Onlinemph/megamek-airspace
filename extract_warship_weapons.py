@@ -16,10 +16,11 @@ OUTPUT_FILE = "/home/user/megamek-airspace/megamek_warship_weapons.csv"
 FIELDS = [
     "className", "category", "subCategory",
     "name", "internalName",
-    "heat", "damage", "ammoType",
-    "minimumRange", "shortRange", "mediumRange", "longRange", "extremeRange",
-    "tonnage", "bv", "cost",
+    "weaponClass",
+    "heat", "damage", "rackSize", "ammoType", "missileArmor",
+    "shortRange", "mediumRange", "longRange", "extremeRange",
     "shortAV", "medAV", "longAV", "extAV", "maxRange",
+    "tonnage", "bv", "cost",
     "rulesRefs", "techBase", "techRating", "isIntroYear", "clanIntroYear",
 ]
 
@@ -30,6 +31,18 @@ RANGE_MAP = {
     "RANGE_EXT": "Extreme",
 }
 
+# Weapon class constants -> readable names
+CLASS_MAP = {
+    "CLASS_CAPITAL_MISSILE": "Capital Missile",
+    "CLASS_TELE_MISSILE":    "Tele-Missile",
+    "CLASS_AR10":            "AR10",
+    "CLASS_SCREEN":          "Screen",
+    "CLASS_CAPITAL_LASER":   "Capital Laser",
+    "CLASS_NAVAL_LASER":     "Naval Laser",
+    "CLASS_PULSE_LASER":     "Pulse Laser",
+    "CLASS_SUB_CAPITAL_CANNON": "Sub-Capital Cannon",
+}
+
 
 def extract_string(pattern, text):
     m = re.search(pattern, text)
@@ -37,15 +50,15 @@ def extract_string(pattern, text):
 
 
 def extract_num(field, text):
-    m = re.search(rf'\b{field}\s*=\s*(-?[\d.]+)\s*;', text)
+    m = re.search(rf'(?:this\.)?{field}\s*=\s*(-?[\d.]+)\s*;', text)
     return m.group(1) if m else ""
 
 
-def extract_weapon(filepath, base_dir):
+def extract_weapon(filepath):
     with open(filepath, encoding="utf-8", errors="replace") as f:
         src = f.read()
 
-    if 'name = "' not in src and "this.name" not in src:
+    if 'name = "' not in src and 'this.name = "' not in src:
         return None
 
     record = {k: "" for k in FIELDS}
@@ -62,21 +75,27 @@ def extract_weapon(filepath, base_dir):
     if not record["name"]:
         return None
 
-    in_m = re.search(r'setInternalName\s*\(\s*(?:this\.name|"([^"]+)")', src)
-    record["internalName"] = in_m.group(1) if (in_m and in_m.group(1)) else record["name"]
+    in_m = re.search(r'setInternalName\s*\(\s*"([^"]+)"', src)
+    record["internalName"] = in_m.group(1) if in_m else record["name"]
 
     record["rulesRefs"] = extract_string(r'rulesRefs\s*=\s*"([^"]+)"', src)
 
-    for field in ["heat", "damage", "minimumRange", "shortRange", "mediumRange",
-                  "longRange", "extremeRange", "tonnage", "bv", "cost",
-                  "shortAV", "medAV", "longAV", "extAV"]:
+    for field in ["heat", "damage", "rackSize", "missileArmor",
+                  "shortRange", "mediumRange", "longRange", "extremeRange",
+                  "shortAV", "medAV", "longAV", "extAV",
+                  "tonnage", "bv", "cost"]:
         record[field] = extract_num(field, src)
 
-    am_m = re.search(r'ammoType\s*=\s*AmmoType\.AmmoTypeEnum\.(\w+)', src)
+    am_m = re.search(r'ammoType\s*=\s*(?:AmmoType\.)?AmmoTypeEnum\.(\w+)', src)
     record["ammoType"] = am_m.group(1) if am_m else ""
 
-    mr_m = re.search(r'maxRange\s*=\s*(RANGE_\w+)\s*;', src)
+    mr_m = re.search(r'maxRange\s*=\s*(?:WeaponType\.)?(\bRANGE_\w+)\s*;', src)
     record["maxRange"] = RANGE_MAP.get(mr_m.group(1), mr_m.group(1)) if mr_m else ""
+
+    # weapon class (atClass)
+    ac_m = re.search(r'atClass\s*=\s*(?:WeaponType\.)?(CLASS_\w+)', src)
+    if ac_m:
+        record["weaponClass"] = CLASS_MAP.get(ac_m.group(1), ac_m.group(1))
 
     tb_m = re.search(r'\.setTechBase\s*\(\s*TechBase\.(\w+)\s*\)', src)
     record["techBase"] = tb_m.group(1) if tb_m else ""
@@ -102,13 +121,13 @@ def main():
                     continue
                 fpath = os.path.join(dirpath, fname)
                 try:
-                    rec = extract_weapon(fpath, base_dir)
+                    rec = extract_weapon(fpath)
                     if rec:
                         records.append(rec)
                 except Exception as e:
                     print(f"Warning: skipped {fpath}: {e}")
 
-    # Skip abstract base classes (no damage/AV values and name looks generic)
+    # Skip abstract base classes with no meaningful stats
     records = [r for r in records if r["shortAV"] or r["medAV"] or r["longAV"] or r["heat"]]
 
     records.sort(key=lambda r: (r["category"], r["subCategory"], r["name"]))
@@ -119,8 +138,6 @@ def main():
         writer.writerows(records)
 
     print(f"Wrote {len(records)} warship weapons to {OUTPUT_FILE}")
-    for r in records:
-        print(f"  {r['category']}/{r['subCategory']} | {r['name']} | heat={r['heat']} dmg={r['damage']} tons={r['tonnage']} bv={r['bv']} shortAV={r['shortAV']} medAV={r['medAV']} longAV={r['longAV']} extAV={r['extAV']}")
 
 
 if __name__ == "__main__":
